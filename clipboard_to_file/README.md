@@ -6,7 +6,7 @@ This tool quickly grabs text from **your clipboard** and dumps it **into a file*
 
 Before compilation, please initialize the `go.mod` file for the project [See `1.` in `Typical problems and fixes`]
 
-To compile you can use standard `golang` compiler (Tested on ver. 1.18.x and 1.22.5) using command:
+To compile you can use standard `golang` compiler (Tested on ver. 1.18.x and above) using command:
 
 ```bash
 go build -o "build/c2f" main.go

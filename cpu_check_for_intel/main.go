@@ -3,9 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"io/ioutil"
 	"os"
-	"os/exec"
 	"os/signal"
 	"path/filepath"
 	"strconv"
@@ -21,30 +19,37 @@ type CPUCore struct {
 	CoreType string
 }
 
-// Clears the terminal screen using the system 'clear' command
+// Clears the terminal screen using native ANSI escape sequences (Zero-Process)
 func clearScreen() {
-	cmd := exec.Command("clear")
-	cmd.Stdout = os.Stdout
-	cmd.Run()
+	fmt.Print("\033[H\033[2J")
 }
 
 // Reads core temperature from the coretemp hwmon driver
 func getCoreTemp(coreID int) float64 {
 	matches, _ := filepath.Glob("/sys/class/hwmon/hwmon*/name")
 	for _, match := range matches {
-		nameBytes, _ := ioutil.ReadFile(match)
+		nameBytes, err := os.ReadFile(match)
+		if err != nil {
+			continue
+		}
 		if strings.TrimSpace(string(nameBytes)) == "coretemp" {
 			dir := filepath.Dir(match)
 			labels, _ := filepath.Glob(dir + "/input*_label")
 			for _, labelPath := range labels {
-				labelBytes, _ := ioutil.ReadFile(labelPath)
+				labelBytes, err := os.ReadFile(labelPath)
+				if err != nil {
+					continue
+				}
 				labelText := strings.TrimSpace(string(labelBytes))
 				
 				// Core labels usually match "Core 0", "Core 1", etc.
 				if labelText == fmt.Sprintf("Core %d", coreID) {
 					// Swap '_label' with '_input' to read the actual temperature value
 					inputPath := strings.Replace(labelPath, "_label", "_input", 1)
-					tempBytes, _ := ioutil.ReadFile(inputPath)
+					tempBytes, err := os.ReadFile(inputPath)
+					if err != nil {
+						continue
+					}
 					tempStr := strings.TrimSpace(string(tempBytes))
 					tempMilli, _ := strconv.ParseFloat(tempStr, 64)
 					return tempMilli / 1000.0 // Convert milli-Celsius to Celsius
@@ -66,7 +71,7 @@ func printCPUMap() {
 		base := filepath.Base(dir)
 		id, _ := strconv.Atoi(base[3:]) // Extract ID from "cpuX"
 
-		freqBytes, err := ioutil.ReadFile(dir + "/cpufreq/cpuinfo_max_freq")
+		freqBytes, err := os.ReadFile(dir + "/cpufreq/cpuinfo_max_freq")
 		if err != nil {
 			continue // Skip hyper-threading logical pairs if they share sysfs attributes
 		}
@@ -117,7 +122,6 @@ func printCPUMap() {
 }
 
 func main() {
-	// Custom English help and usage menu
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Usage of %s:\n\n", os.Args[0])
 		fmt.Fprintf(os.Stderr, "This tool detects Intel Hybrid Architecture (P/E Cores) and tracks temperatures.\n\n")
@@ -132,13 +136,11 @@ func main() {
 	onceFlag := flag.Bool("c", false, "Run once and exit immediately")
 	flag.Parse()
 
-	// If -c flag is passed, execute once and exit
 	if *onceFlag {
 		printCPUMap()
 		return
 	}
 
-	// Fallback to continuous monitoring mode with a 10-second ticker
 	sigChan := make(chan os.Signal, 1)
 	signal.Notify(sigChan, os.Interrupt, syscall.SIGTERM)
 

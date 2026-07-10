@@ -1,14 +1,16 @@
 # intel_cpu_check
 
+This tool detects **Intel Hybrid Architecture (P/E Cores)** and tracks temperatures via sysfs.
+
 ## How to compile?
 
-To compile you can use standard `golang` compiler (Tested on ver. 1.18.x and 1.22.5) using command:
+To compile you can use standard `golang` compiler (Tested on ver. 1.18.x and above) using command:
 
 ```bash
 go build -o "build/intel_cpu_check" main.go
 ```
 
-or with `ldflags` for version without addtional dev logging:
+or with `ldflags` to strip debugging symbols and optimize the binary size:
 
 ```bash
 go build -ldflags="-s -w" -o "build/intel_cpu_check" main.go
@@ -16,7 +18,7 @@ go build -ldflags="-s -w" -o "build/intel_cpu_check" main.go
 
 ## How to use?
 
-You can `Go` interpreter or run the compiled binary file! You can run this command if you want make the compiled binary the OS binary:
+To install the compiled binary system-wide, move it to your local bin directory:
 
 ```bash
 sudo cp ./build/intel_cpu_check /usr/local/bin/
@@ -42,7 +44,12 @@ Examples:
 ## Typical problems and fixes
 
 * Problem with `golang` mod file
-* Fix: Run the command `go mod init [main or own module name]` and run `go mod tidy`
+* Fix: Run `go mod init [main or own module name]` and then `go mod tidy` to initialize the project context.
 
 * Problem with execute the compiled binary file
-* Fix: Run the command `sudo chmod +x [binary filename]`
+* Fix: Run `sudo chmod +x [binary filename]`
+
+
+## Dictionary
+
+intel_cpu_check = cpu_check_for_intel

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"flag"
 	"fmt"
 	"os"
@@ -29,11 +30,16 @@ func getAndroidClipboard() (string, error) {
 }
 
 func main() {
+	// Define the -y flag for automatic overwriting
+	skipPrompt := flag.Bool("y", false, "Assume 'yes' and skip overwrite confirmation prompt")
+
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Usage of %s:\n\n", os.Args[0])
 		fmt.Fprintf(os.Stderr, "Quickly grabs text from your clipboard and dumps it into a file.\n\n")
 		fmt.Fprintf(os.Stderr, "Usage:\n")
-		fmt.Fprintf(os.Stderr, "  c2f [filename]\n")
+		fmt.Fprintf(os.Stderr, "  c2f [flags] [filename]\n\n")
+		fmt.Fprintf(os.Stderr, "Flags:\n")
+		flag.PrintDefaults()
 	}
 	flag.Parse()
 
@@ -45,6 +51,25 @@ func main() {
 		return
 	}
 	filename := args[0]
+
+	// Foolproof check: Verify if file exists before overwriting
+	if _, err := os.Stat(filename); err == nil {
+		// If file exists and -y flag was NOT provided, prompt the user
+		if !*skipPrompt {
+			fmt.Printf("⚠️  Warning: File '%s' already exists. Overwrite? [y/N]: ", filename)
+			reader := bufio.NewReader(os.Stdin)
+			response, err := reader.ReadString('\n')
+			if err != nil {
+				fmt.Println("❌ Error reading response. Aborting.")
+				return
+			}
+			response = strings.ToLower(strings.TrimSpace(response))
+			if response != "y" && response != "yes" {
+				fmt.Println("🛑 Aborted. File was not overwritten.")
+				return
+			}
+		}
+	}
 
 	var content string
 

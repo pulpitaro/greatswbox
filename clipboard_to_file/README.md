@@ -32,12 +32,16 @@ sudo cp ./build/c2f /usr/local/bin/
 Some great help (`-h`):
 
 ```text
-Usage of c2f:
+Usage of ./c2f:
 
 Quickly grabs text from your clipboard and dumps it into a file.
 
 Usage:
-  c2f [filename]
+  c2f [flags] [filename]
+
+Flags:
+  -y	Assume 'yes' and skip overwrite confirmation prompt
+
 ```
 
 ## Typical problems and fixes

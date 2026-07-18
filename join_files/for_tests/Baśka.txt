@@ -1,0 +1,35 @@
+# Baśka
+
+Oto opis popularnej śląskiej gry karcianej **Baśka** (znanej również jako *Baśka częstochowska* lub *Baśka kaszubska*).
+
+---
+
+### 1. Zarys historii
+Baśka to tradycyjna gra wywodząca się z Kaszub i Śląska, o wieloletniej historii sięgającej XIX wieku. Jest grą strategiczną typu „wziątkowego”, która do dziś cieszy się ogromną popularnością podczas turniejów regionalnych. W 2013 roku tradycja gry w Baśkę została wpisana na Krajową listę niematerialnego dziedzictwa kulturowego.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Do gry używa się specjalnej talii 16 kart (as, król, dama, walet w czterech kolorach: żołądź, dzwonek, czerwień, wino).
+*   **Liczba graczy:** Gra przeznaczona jest dla 4 osób.
+*   **Wartości kart (od najsilniejszej):** 
+    1.  As (11 pkt)
+    2.  Dziesiątka (10 pkt)
+    3.  Król (4 pkt)
+    4.  Dama (3 pkt)
+    5.  Walet (2 pkt)
+    *(Uwaga: w niektórych odmianach hierarchia atutów może się różnić).*
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie minimum 61 punktów w swoich lewach (zebranych kartach).
+*   **Atuty:** Stałymi atutami w Baśce są wszystkie Damy, a następnie wszystkie Walety (w określonej kolejności). Pozostałe karty w kolorach atutowych są słabsze od Dam i Waletów.
+*   **Zasady ruchu:** Należy dokładać kartę do koloru zagranej karty. Jeśli gracz nie posiada karty w wyjściowym kolorze, musi „dołożyć” atutem (jeśli go posiada) lub dowolną inną kartą (tzw. "śmieciem").
+*   **Czego nie wolno:** Nie wolno podpowiadać innym graczom, podglądać kart przeciwników ani wycofywać zagranej karty po jej położeniu na stole.
+
+### 4. Przebieg rozgrywki
+1.  **Rozdanie:** Każdy z czterech graczy otrzymuje po 4 karty.
+2.  **Licytacja (opcjonalnie):** W zaawansowanych odmianach gracze licytują, kto będzie grał „solo” lub w parze, jednak w podstawowej wersji gra toczy się w dwóch parach naprzeciwko siebie.
+3.  **Etapy gry (lewy):**
+    *   Gracz rozpoczynający kładzie wybraną kartę.
+    *   Pozostali gracze dokładają po jednej karcie zgodnie z zasadą „do koloru”.
+    *   Gracz, który położył najsilniejszą kartę (wartością lub atutem), bierze wszystkie cztery karty ze stołu (tzw. „lewa”).
+    *   Zwycięzca poprzedniej lewy rozpoczyna kolejną turę.
+4.  **Zakończenie:** Gra kończy się po rozegraniu wszystkich 4 lew (wszystkie karty z ręki zostaną wyłożone). Następuje podliczenie punktów ze wszystkich zebranych lew. Para, która uzbierała 61 lub więcej punktów, wygrywa rundę.

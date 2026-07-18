@@ -1,0 +1,37 @@
+# Poker sportowy
+
+Oto opis gry **Poker sportowy**, która łączy dynamikę tradycyjnego pokera z elementami gry opartej na rywalizacji o punkty (tzw. "pula punktowa"), a nie tylko na żetonach pieniężnych.
+
+---
+
+### 1. Zarys historii
+Poker sportowy wywodzi się z dążenia do ustandaryzowania pokera jako dyscypliny czysto umiejętnościowej, eliminującej element hazardu na rzecz rywalizacji turniejowej. Zyskał popularność w środowiskach klubowych, gdzie głównym celem jest wyłonienie najlepszego gracza na podstawie zdobytych punktów rankingowych. Gra ta kładzie nacisk na analizę prawdopodobieństwa i czytanie zachowań przeciwnika w kontrolowanych warunkach sportowych.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Gracze:** Od 2 do 8 osób przy jednym stole.
+*   **Punkty:** Zamiast pieniędzy używa się żetonów o określonych nominałach punktowych (każdy gracz zaczyna z taką samą pulą, np. 10 000 pkt).
+*   **Miejsce:** Stabilny stół, najlepiej z matą do kart.
+*   **Dealer:** Wybieramy osobę rozdającą lub korzystamy z "buttona" (znacznika), który przesuwa się zgodnie z ruchem wskazówek zegara po każdym rozdaniu.
+
+### 3. Zasady gry
+*   **Cel gry:** Zgromadzenie jak największej liczby punktów poprzez wygrywanie pul w poszczególnych rozdaniach. Gra kończy się, gdy jeden z graczy zdobędzie wszystkie żetony lub po upływie określonego czasu (wygrywa osoba z największą liczbą punktów).
+*   **Starszeństwo układów:** Obowiązuje standardowa hierarchia pokerowa (od najwyższego: Poker królewski, Poker, Kareta, Full, Kolor, Strit, Trójka, Dwie pary, Para, Wysoka karta).
+*   **Działania:** W swojej turze gracz może:
+    *   *Czekać (Check):* Jeśli nikt wcześniej nie podbił, możesz pozostać w grze bez dokładania żetonów.
+    *   *Obstawiać/Podbijać (Bet/Raise):* Zwiększenie puli.
+    *   *Sprawdzać (Call):* Wyrównanie stawki do najwyższego zakładu.
+    *   *Pasować (Fold):* Zrzucenie kart i rezygnacja z walki o pulę.
+*   **Zakaz:** Niedozwolone jest pokazywanie kart innym graczom przed końcem rozdania oraz porozumiewanie się (tzw. „collusion”).
+
+### 4. Przebieg rozgrywki (np. Texas Hold’em)
+Rozgrywka dzieli się na etapy:
+
+1.  **Blind-y:** Gracze po lewej stronie dealera wnoszą "małą" i "dużą ciemną" (obowiązkowe zakłady).
+2.  **Pre-flop:** Każdy gracz otrzymuje dwie karty zakryte. Następuje pierwsza runda licytacji.
+3.  **Flop:** Na środek stołu trafiają trzy karty odkryte (wspólne). Druga runda licytacji.
+4.  **Turn:** Na stół trafia czwarta karta wspólna. Trzecia runda licytacji.
+5.  **River:** Na stół trafia piąta, ostatnia karta wspólna. Ostatnia runda licytacji.
+6.  **Showdown:** Gracze, którzy nie spasowali, pokazują karty. Najsilniejszy układ pięciu kart (złożony z własnych dwóch i pięciu wspólnych) wygrywa pulę.
+
+Po zakończeniu rozdania znacznik „button” przesuwa się o jedno miejsce w lewo i rozpoczyna się kolejna runda.

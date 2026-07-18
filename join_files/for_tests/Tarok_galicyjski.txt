@@ -1,0 +1,34 @@
+# Tarok galicyjski
+
+Oto zestawienie informacji na temat **Taroka galicyjskiego**, wariantowej gry karcianej wywodzącej się z tradycji środkowoeuropejskich.
+
+***
+
+### 1. Zarys historii
+Tarok galicyjski to lokalna odmiana klasycznej gry w tarota, która w XIX i na początku XX wieku była niezwykle popularna na ziemiach dawnej Galicji, szczególnie w środowiskach inteligenckich i ziemiańskich. Gra stanowi świadectwo wielokulturowej historii regionu, łącząc wpływy austriackiej szkoły taroka z lokalnymi obyczajami towarzyskimi. Obecnie jest traktowana jako cenny element niematerialnego dziedzictwa kulturowego południowej Polski.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Potrzebujesz specjalnej talii 54 kart (tzw. talia taroka). Składa się ona z 22 atutów (taroków), oznaczonych cyframi rzymskimi, oraz 32 kart w czterech kolorach (pik, kier, karo, trefl).
+*   **Liczba graczy:** Gra przeznaczona jest dla 4 osób.
+*   **Miejsce:** Gra odbywa się przy stole, gdzie gracze siedzą naprzeciwko siebie.
+*   **Początek:** Przed rozdaniem ustala się zasady punktacji oraz ewentualne stawki (jeśli gra jest hazardowa). Rozdający tasuje karty i daje je do „przełożenia” graczowi po swojej prawej stronie, a następnie rozdaje każdemu po 12 kart; pozostałe 6 tworzy tzw. **talon** (musznik).
+
+### 3. Zasady gry
+*   **Cel gry:** Celem jest zdobycie w swoich lewach kart o odpowiedniej łącznej wartości punktowej lub zrealizowanie deklarowanego kontraktu.
+*   **Wartości kart:**
+    *   **Taroki:** I (Pagat), XXI (Mond) oraz Skiz (głupiec) to karty najwyżej punktowane.
+    *   **Figury:** Król (5 pkt), Dama (4 pkt), Kawaler (3 pkt), Walet (2 pkt).
+    *   **Blotki:** Pozostałe karty mają wartość 1 pkt.
+*   **Działanie kart:** Taroki zawsze biją kolory. Wewnątrz koloru obowiązuje zasada dokładania do koloru (jeśli nie masz karty w kolorze, musisz dołożyć taroka).
+*   **Zasady:** Nie wolno podglądać kart przeciwników. Obowiązuje ścisłe przestrzeganie kolejności wychodzenia do lewy (zgodnie z ruchem wskazówek zegara).
+
+### 4. Przebieg rozgrywki
+Rozgrywka dzieli się na trzy główne etapy:
+
+1.  **Licytacja:** Gracze, na podstawie swoich kart, deklarują tzw. grę (np. „jedynka”, „dwójka” lub gry wyższe). Osoba z najwyższą deklaracją staje się rozgrywającym.
+2.  **Wymiana (Talon):** Rozgrywający ma prawo zabrać ze stołu 6 kart z talon i odrzucić w ich miejsce inne 6 kart (nie można odrzucać taroków oraz króli). Odłożone karty dolicza się do punktacji rozgrywającego na koniec partii.
+3.  **Rozgrywka (Właściwa gra):**
+    *   Gracz po lewej stronie rozdającego rozpoczyna pierwszą lewę.
+    *   Gracze dokładają po jednej karcie. Lewę zgarnia ten, kto położył najwyższą kartę w kolorze lub najwyższego taroka.
+    *   Zwycięzca lewy zbiera karty i wychodzi do kolejnej.
+    *   Gra kończy się po wyłożeniu wszystkich kart. Następuje podliczenie punktów zdobytych w lewach. Jeśli rozgrywający osiągnął zadeklarowany cel, wygrywa; w przeciwnym razie płaci karę (zgodnie z ustaloną wcześniej stawką).

@@ -1,0 +1,28 @@
+# 1 2 3
+
+Oto opis gry karcianej **„1 2 3”**, która charakteryzuje się prostotą, dynamiką i elementem blefu.
+
+***
+
+### 1. Zarys historii
+Gra „1 2 3” powstała jako nowoczesna wariacja klasycznych gier typu „wyścigowego”, w których gracze dążą do jak najszybszego pozbycia się kart z ręki. Swoją nazwę zawdzięcza charakterystycznemu odliczaniu, które towarzyszy każdemu ruchowi gracza. Jest popularna ze względu na krótką rozgrywkę i przystępność dla osób w każdym wieku.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** 2 do 5 osób.
+*   **Rozdanie:** Rozdaj wszystkie karty po równo między graczy (jeśli zostaną resztki, odłóż je na bok). Gracze nie mogą podglądać swoich kart – trzymają je w zakrytym stosie przed sobą.
+*   **Cel:** Celem gry jest bycie pierwszym graczem, który pozbędzie się wszystkich swoich kart.
+
+### 3. Zasady gry
+*   **Hierarchia kart:** W tej grze wartości kart mają znaczenie tylko podczas „pojedynku” (o którym niżej).
+*   **Zasada „1 2 3”:** W każdej turze gracz odkrywa wierzchnią kartę ze swojego stosu i kładzie ją na środek stołu, głośno mówiąc „1”, następnie „2”, aż do „3”.
+*   **Co wolno:** Wolno kłaść karty zgodnie z rytmem odliczania. Jeśli na stole pojawi się karta o wartości, która była wcześniej deklarowana (np. ktoś mówi „2” i wykłada dwójkę), następuje „pojedynkowa sytuacja”.
+*   **Czego nie wolno:** Nie wolno podglądać własnych kart przed ich położeniem. Nie wolno kłaść kart poza swoją turą.
+*   **Pojedynek:** Jeśli gracz położy kartę, której wartość zgadza się z wypowiedzianym numerem (1=As, 2=Dwójka, 3=Trójka... 10=Dziesiątka, 11=Walet, 12=Dama, 13=Król), wszyscy gracze muszą jak najszybciej położyć rękę na karcie. Osoba, która zrobi to ostatnia, zabiera cały stos kart ze środka i dokłada do swojego zakrytego stosu.
+
+### 4. Przebieg rozgrywki
+1.  **Start:** Gracz siedzący po lewej stronie rozdającego zaczyna.
+2.  **Cykl:** Gracze w kolejności wskazówek zegara kładą po jednej karcie na środek, wypowiadając kolejne cyfry: 1, 2, 3, 1, 2, 3...
+3.  **Akcja:** W momencie, gdy numer wypowiadany przez gracza pokryje się z wartością wyłożonej karty (np. gracz mówi „7”, a na stół trafia siódemka), wszyscy gracze muszą zareagować (położyć rękę na stosie).
+4.  **Kolejka:** Gracz, który przegrał pojedynek (położył rękę ostatni), zgarnia wszystkie karty ze środka stołu do swojego stosu głównego. Następnie to on rozpoczyna nową turę, ponownie zaczynając od liczby „1”.
+5.  **Zakończenie:** Gra toczy się do momentu, aż jeden z graczy pozbędzie się wszystkich kart ze swojego stosu (i nie musi już brać udziału w pojedynkach). Zwycięzcą zostaje osoba, która jako pierwsza zostanie z „pustymi rękami”.

@@ -1,0 +1,29 @@
+# Omaha High-Low (Poker)
+
+Oto opis gry **Omaha High-Low (Split)** przygotowany zgodnie z Twoimi wytycznymi.
+
+---
+
+### 1. Krótki zarys historii
+Omaha High-Low wywodzi się z klasycznej gry Omaha, która zyskała popularność w kasynach Las Vegas w latach 80. XX wieku. Jest to wariant pokera, w którym pula dzielona jest między gracza z najsilniejszą ręką (High) oraz najsłabszą ręką (Low), co dodaje grze znacznej głębi strategicznej.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart bez jokerów.
+*   **Gracze:** Zazwyczaj od 2 do 10 osób przy jednym stole.
+*   **Żetony:** Potrzebne są żetony do licytacji, które reprezentują wartość pieniężną lub punkty.
+*   **Znacznik "Dealer":** Specjalny krążek (tzw. button) oznaczający osobę rozdającą, który przesuwa się zgodnie z ruchem wskazówek zegara po każdym rozdaniu.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej części puli. Pula dzielona jest pół na pół między najlepszy układ "High" (najsilniejszy pokerowy układ) oraz najlepszy układ "Low" (układ 5 kart o różnych wartościach poniżej 8). Jeśli nikt nie skompletuje układu "Low", całą pulę zgarnia zwycięzca "High".
+*   **Zasada dwóch kart:** W Omaha gracz **musi** użyć dokładnie dwóch kart ze swoich czterech kart własnych oraz dokładnie trzech kart wspólnych leżących na stole, aby utworzyć układ.
+*   **Zasada "Low":** Aby układ "Low" był ważny, wszystkie karty muszą być poniżej 9 (A-2-3-4-5 to tzw. "Wheel", najlepszy możliwy układ Low).
+*   **Czego nie wolno:** Nie można używać tylko jednej lub wszystkich czterech kart własnych – kombinacja 2+3 jest sztywna.
+
+### 4. Przebieg rozgrywki
+Gra składa się z czterech rund licytacji:
+
+1.  **Pre-flop:** Każdy gracz otrzymuje cztery karty zakryte. Rozpoczyna się pierwsza runda licytacji (poprzedzona wpłaceniem "ciemnych" – *Small Blind* i *Big Blind*).
+2.  **Flop:** Na stół wykładane są trzy odkryte karty wspólne. Następuje druga runda licytacji.
+3.  **Turn:** Wykładana jest czwarta karta wspólna. Następuje trzecia runda licytacji.
+4.  **River:** Wykładana jest piąta, ostatnia karta wspólna. Odbywa się finałowa runda licytacji.
+5.  **Showdown (Pokazanie kart):** Gracze, którzy nie spasowali, odkrywają swoje karty. Następuje porównanie układów i podział puli zgodnie z zasadą High-Low. Jeśli gracz posiada układ, który wygrywa zarówno w kategorii High, jak i Low, zgarnia całą pulę ("scoop").

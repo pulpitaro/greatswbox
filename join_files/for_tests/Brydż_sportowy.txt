@@ -1,0 +1,32 @@
+# Brydż sportowy
+
+Oto opis gry w brydża sportowego przygotowany w przejrzysty sposób:
+
+### Brydż sportowy
+
+#### Historia gry
+Brydż wyewoluował na początku XX wieku z popularnego wówczas wista, a nowoczesne zasady „brydża licytowanego” ustabilizowały się w latach 20. XX wieku. Wersja sportowa różni się od towarzyskiej tym, że eliminuje czynnik szczęścia w rozdaniu, porównując wyniki osiągnięte przez różne pary na tych samych kartach. Dziś jest to jedyna gra karciana uznawana przez Międzynarodowy Komitet Olimpijski za dyscyplinę sportową.
+
+#### Przygotowanie do gry
+Do gry w brydża sportowego potrzebujesz:
+* **Talia:** Standardowa talia 52 kart (bez jokerów).
+* **Gracze:** Cztery osoby tworzące dwie pary (partnerzy siedzą naprzeciwko siebie, tradycyjnie nazywani kierunkami: Północ-Południe oraz Wschód-Zachód).
+* **Akcesoria:** W brydżu sportowym używa się tzw. **vulnerów** (pojemników na karty), które pozwalają każdemu graczowi przy innym stole otrzymać ten sam zestaw kart, oraz formularzy wyników (tzw. protokołów).
+* **Miejsce:** Stolik z czterema krzesłami, przy którym gracze licytują i zagrywają karty zgodnie z ruchem wskazówek zegara.
+
+#### Zasady gry
+* **Cel:** Celem jest wylicytowanie i zrealizowanie jak największej liczby lew (turek), aby zdobyć jak najwięcej punktów za „zobowiązanie” kontraktowe.
+* **Wartości kart:** W kolorze atutowym (lub bez atu) karty mają hierarchię: As (najstarszy), Król, Dama, Walet, 10, 9... aż do 2.
+* **Zasady:** Gracze muszą dokładać do koloru karty, jeśli ją posiadają. Jeśli nie mają karty w wymaganym kolorze, mogą „dokładać co chcą” (w tym atutować, jeśli gra toczy się w kolorze atutowym). Nie wolno podglądać kart przeciwników ani komunikować się z partnerem inaczej niż za pomocą licytacji i zagrań.
+
+#### Przebieg rozgrywki
+Gra składa się z trzech głównych etapów:
+
+1. **Licytacja:** Gracze, zaczynając od rozdającego, składają deklaracje dotyczące liczby lew (powyżej sześciu), które zamierzają wziąć, oraz koloru atutowego (lub gry bez atu). Licytacja kończy się, gdy trzy kolejne osoby spasują. Ostatnia deklaracja staje się **kontraktem**.
+2. **Wykładka (Dummy):** Gracz, który wylicytował kontrakt dla swojej pary, staje się „rozgrywającym”. Jego partner (dziadek) wykłada swoje karty na stół, odkryte, i od tego momentu nie bierze udziału w zagrywaniu – jego kartami dysponuje rozgrywający.
+3. **Rozgrywka (Wykładanie lew):**
+    * Pierwszy w kolejności po lewej stronie rozgrywającego zagrywa kartę (tzw. wist).
+    * Gracze dokładają po jednej karcie w kolejności zgodnie z ruchem wskazówek zegara. 
+    * Lewę wygrywa osoba, która zagrała najstarszą kartę w kolorze wyjścia (lub najwyższego atuta).
+    * Zwycięzca lewy wychodzi do kolejnej. 
+    * Po rozegraniu 13 lew porównuje się wynik z innymi parami, które grały tymi samymi kartami na innych stolikach.

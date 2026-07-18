@@ -1,0 +1,36 @@
+# Schafkopf
+
+Oto opis gry **Schafkopf**, przygotowany w formie przejrzystego przewodnika:
+
+### Historia gry
+Schafkopf to klasyczna bawarska gra karciana, której korzenie sięgają początku XIX wieku. Choć jej nazwa dosłownie oznacza „owcza głowa” (prawdopodobnie od sposobu punktowania na stole), stała się ona nieformalnym sportem narodowym Bawarii. Gra ta jest wpisana na listę niematerialnego dziedzictwa kulturowego UNESCO w Niemczech.
+
+---
+
+### Przygotowanie do gry
+*   **Talia:** Potrzebujesz specjalnej talii 32 kart (typu bawarskiego lub francuskiego – zazwyczaj używa się układu: as, dziesiątka, król, dama, walet, 9, 8, 7).
+*   **Liczba graczy:** Gra przeznaczona jest dla 4 osób.
+*   **Rozdanie:** Każdy gracz otrzymuje 8 kart. Karty rozdaje się w turach (np. 3-2-3 lub 4-4).
+*   **Żetony/Punkty:** Warto przygotować kartkę i długopis do zapisywania punktów (tzw. *Schreibblock*).
+
+---
+
+### Zasady gry
+*   **Hierarchia kart:** Najważniejszymi kartami są wszystkie cztery **Walety (Ober)** – są one zawsze atutami, w kolejności od najwyższego: Trefl, Pik, Kier, Karo. Następnie atutami są wszystkie **Damy (Unter)** oraz pozostałe karty w kolorze atutowym.
+*   **Cel gry:** Celem jest zdobycie co najmniej 61 punktów (ze 120 możliwych w całej talii).
+*   **Wartości kart:** As (11), Dziesiątka (10), Król (4), Dama (3), Walet (2), pozostałe (0).
+*   **Zasady obowiązujące:**
+    *   **Obowiązek dokładania koloru (*Farbzwang*):** Jeśli gracz rozpocznie turę kartą w określonym kolorze, pozostali muszą dołożyć kartę w tym samym kolorze. Jeśli nie mają – mogą dołożyć atut lub dowolną kartę.
+    *   **Atuty:** Jeśli gracz zagrywa atut, pozostali muszą również dołożyć atut.
+
+---
+
+### Przebieg rozgrywki
+1.  **Licytacja:** Po rozdaniu gracze deklarują, czy chcą grać (np. „gram” przy zwykłej partii z partnerem lub deklarują bardziej skomplikowane warianty jak *Solo*). Ten, kto zadeklaruje najsilniejszą opcję, wybiera kolor atutowy.
+2.  **Ustalenie partnerstwa:** W podstawowym wariancie (*Sauspiel*), gracz, który ma asa w kolorze niebędącym atutem, zostaje partnerem osoby prowadzącej (często nie wie się, kto nim jest, dopóki as nie zostanie zagrany).
+3.  **Właściwa rozgrywka:**
+    *   Gracz siedzący na lewo od rozdającego zagrywa pierwszą kartę.
+    *   Kolejni gracze zgodnie z ruchem wskazówek zegara dokładają po jednej karcie.
+    *   Gracz, który położył najwyższą kartę (atut lub kolor), wygrywa lewę i zabiera karty do swojego stosu.
+    *   Zwycięzca lewy zagrywa kartę jako pierwszy w kolejnej turze.
+4.  **Podliczenie:** Po rozegraniu 8 lew, drużyny sumują punkty ze swoich zebranych kart. Jeśli drużyna grająca zdobyła 61 lub więcej punktów, wygrywa; w przeciwnym razie wygrywają obrońcy.

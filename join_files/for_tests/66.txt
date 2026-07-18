@@ -1,0 +1,33 @@
+# 66
+
+Oto opis popularnej gry karcianej **66** (znanej również jako **Sześćdziesiąt sześć**).
+
+***
+
+### 1. Zarys historii
+Gra 66 wywodzi się z XIX-wiecznych Niemiec i jest klasycznym przedstawicielem rodziny gier typu „marriage” (małżeństwo), opartych na zdobywaniu punktów poprzez zbieranie meldunków i wartościowych kart. Zyskała ogromną popularność w Europie Środkowej jako dynamiczna gra dla dwóch osób, łącząca element strategii z szybkim liczeniem punktów. Jest uznawana za jedną z najbardziej emocjonujących gier karcianych w swojej kategorii.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Używamy talii 24 kart (od dziewiątek do asów). Jeśli masz pełną talię 52 kart, odrzuć wszystkie dwójki, trójki, czwórki, piątki, szóstki, siódemki i ósemki.
+*   **Liczba graczy:** Gra przeznaczona jest dla dwóch osób.
+*   **Wartości kart:** 
+    *   As = 11 pkt
+    *   Dziesiątka = 10 pkt
+    *   Król = 4 pkt
+    *   Dama = 3 pkt
+    *   Walet = 2 pkt
+    *   Dziewiątka = 0 pkt
+*   **Cel gry:** Zdobycie jako pierwszy 66 punktów i zasygnalizowanie tego faktu.
+
+### 3. Zasady gry
+*   **Atuty:** Podczas rozdania odkrywa się jedną kartę, która określa kolor atutowy (przebijający inne kolory).
+*   **Zasady przebijania:** Nie ma obowiązku dokładania do koloru, ani przebijania atutem, dopóki talia nie zostanie wyczerpana. Po wyczerpaniu talii zasady stają się bardziej rygorystyczne (trzeba dokładać do koloru i przebijać).
+*   **Meldunki:** Posiadanie króla i damy w tym samym kolorze pozwala na ogłoszenie „małżeństwa” (20 pkt, a w kolorze atutowym 40 pkt).
+*   **Zamiana:** Jeśli posiadasz dziewiątkę atutową, możesz ją wymienić na odkrytą kartę atutową leżącą na stole, o ile masz prawo ruchu.
+
+### 4. Przebieg rozgrywki
+1.  **Rozdanie:** Każdy gracz otrzymuje po 6 kart. Ostatnia karta (atut) jest kładziona odkryta na stole pod talią.
+2.  **Etap I (Dobieranie):** Gracze zagrywają karty. Ten, kto wygra lewę, zabiera ją, a następnie dobiera jedną kartę z talii. Przeciwnik dobiera drugą. Gracze nie muszą dokładać do koloru.
+3.  **Etap II (Zamknięcie/Wyczerpanie talii):** Jeśli gracz uważa, że ma wystarczającą liczbę punktów, może „zamknąć” grę (zakryć kartę atutową). Od tego momentu nie dobiera się kart, a gracze muszą dokładać do koloru i przebijać (jeśli nie mają koloru).
+4.  **Liczenie:** Gdy skończą się karty, gracze sumują wartości kart w swoich lewach oraz punkty za ewentualne meldunki.
+5.  **Zwycięstwo:** Wygrywa osoba, która pierwsza osiągnie 66 punktów. Jeśli gracz ogłosi 66 przedwcześnie (mając mniej), przegrywa partię automatycznie. Jeśli nikt nie osiągnie 66, wygrywa osoba, która zebrała najwięcej punktów w ostatniej lewie.

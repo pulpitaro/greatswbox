@@ -1,0 +1,29 @@
+# Brydż
+
+Oto opis gry w brydża, przygotowany w formie przejrzystej bazy danych:
+
+# Brydż
+
+### Historia gry
+Brydż wywodzi się z angielskiej gry „whist” i w obecnej formie (brydż licytowany) wykształcił się na początku XX wieku. Stał się grą światowego formatu dzięki Haroldowi Vanderbiltowi, który w 1925 roku wprowadził nowoczesne zasady punktacji. Dziś jest uznawany za dyscyplinę sportową, wymagającą wysokiej strategii i umiejętności analitycznych.
+
+### Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby (tworzące dwie rywalizujące pary: „My” kontra „Oni”).
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Przygotowanie:** Każdy z graczy otrzymuje po 13 kart. Karty należy trzymać w ukryciu przed przeciwnikami.
+*   **Kluczowe pojęcia:** Warto znać hierarchię kart (od najwyższej: As, Król, Dama, Walet, 10... aż do 2).
+
+### Zasady gry
+*   **Cel gry:** Zdobycie określonej liczby „lew” (grup czterech kart zagranych w jednej rundzie) zadeklarowanej wcześniej w fazie licytacji.
+*   **Działanie kart:** Podczas gry obowiązuje nakaz „dokładania do koloru” – jeśli gracz rozpocznie lewę kartą w kolorze kier, pozostali gracze muszą również rzucić kier. Jeśli nie mają kierów, mogą rzucić dowolną inną kartę.
+*   **Atuty:** Podczas licytacji wyłaniany jest kolor atutowy (najsilniejszy), który „przebija” wszystkie inne kolory.
+*   **Zasady:** Nie wolno podglądać kart partnera ani zdradzać zawartości swojej ręki w trakcie gry.
+
+### Przebieg rozgrywki
+Gra składa się z dwóch głównych faz:
+
+1.  **Licytacja:** Gracze, zgodnie z ruchem wskazówek zegara, deklarują, ile lew (ponad 6 bazowych) ich para jest w stanie wziąć oraz jaki kolor ma być atutem. Para, która złoży wyższą deklarację, wygrywa licytację i staje się stroną rozgrywającą.
+2.  **Rozgrywka (gra kartami):**
+    *   **Wykładka:** Po zakończeniu licytacji gracz, który jako pierwszy w swojej parze wspomniał o wylicytowanym kolorze, staje się „rozgrywającym”. Jego partner („dziadek”) wykłada swoje karty na stół, a rozgrywający kieruje jego ręką.
+    *   **Lewy:** Gracze zagrywają po jednej karcie. Zwycięzcą lewy zostaje ten, kto rzucił najwyższą kartę w kolorze wyjściowym (lub najwyższy atut). Zwycięzca lewy zagrywa kartę do kolejnej.
+    *   **Zakończenie:** Rozgrywka kończy się po zagraniu wszystkich 13 lew. Następnie następuje podliczenie punktów – jeśli rozgrywający wygrali tyle lew, ile zadeklarowali, otrzymują punkty, w przeciwnym razie punkty wędrują do przeciwników.

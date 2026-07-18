@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bufio"
 	"flag"
 	"fmt"
 	"os"
@@ -12,98 +11,47 @@ import (
 	"golang.design/x/clipboard"
 )
 
-// Fetches clipboard content when running inside Termux on Android
-func getAndroidClipboard() (string, error) {
-	// Check if termux-clipboard-get is available in PATH
-	_, err := exec.LookPath("termux-clipboard-get")
-	if err != nil {
-		return "", fmt.Errorf("Termux:API is missing. Please run: pkg install termux-api")
-	}
-
-	cmd := exec.Command("termux-clipboard-get")
-	out, err := cmd.Output()
-	if err != nil {
-		return "", fmt.Errorf("failed to read Android clipboard via Termux API")
-	}
-
-	return string(out), nil
-}
-
 func main() {
-	// Define the -y flag for automatic overwriting
-	skipPrompt := flag.Bool("y", false, "Assume 'yes' and skip overwrite confirmation prompt")
-
-	flag.Usage = func() {
-		fmt.Fprintf(os.Stderr, "Usage of %s:\n\n", os.Args[0])
-		fmt.Fprintf(os.Stderr, "Quickly grabs text from your clipboard and dumps it into a file.\n\n")
-		fmt.Fprintf(os.Stderr, "Usage:\n")
-		fmt.Fprintf(os.Stderr, "  c2f [flags] [filename]\n\n")
-		fmt.Fprintf(os.Stderr, "Flags:\n")
-		flag.PrintDefaults()
-	}
+	y := flag.Bool("y", false, "Skip prompt")
 	flag.Parse()
 
-	// Ensure user provided a target filename
-	args := flag.Args()
-	if len(args) < 1 {
-		fmt.Println("❌ Error: Missing target filename.")
-		flag.Usage()
-		return
+	if len(flag.Args()) < 1 {
+		fmt.Println("❌ Missing filename"); return
 	}
-	filename := args[0]
+	fn := flag.Arg(0)
 
-	// Foolproof check: Verify if file exists before overwriting
-	if _, err := os.Stat(filename); err == nil {
-		// If file exists and -y flag was NOT provided, prompt the user
-		if !*skipPrompt {
-			fmt.Printf("⚠️  Warning: File '%s' already exists. Overwrite? [y/N]: ", filename)
-			reader := bufio.NewReader(os.Stdin)
-			response, err := reader.ReadString('\n')
-			if err != nil {
-				fmt.Println("❌ Error reading response. Aborting.")
-				return
-			}
-			response = strings.ToLower(strings.TrimSpace(response))
-			if response != "y" && response != "yes" {
-				fmt.Println("🛑 Aborted. File was not overwritten.")
-				return
-			}
+	// 1. Overwrite check
+	if _, err := os.Stat(fn); err == nil && !*y {
+		fmt.Printf("⚠️ Overwrite '%s'? [y/N]: ", fn)
+		var res string
+		fmt.Scanln(&res)
+		if r := strings.ToLower(strings.TrimSpace(res)); r != "y" && r != "yes" {
+			fmt.Println("🛑 Aborted"); return
 		}
 	}
 
-	var content string
-
-	// Smart routing based on current OS runtime environment
+	// 2. Read clipboard (Android vs Desktop)
+	var txt string
 	if runtime.GOOS == "android" {
-		androidContent, err := getAndroidClipboard()
+		out, err := exec.Command("termux-clipboard-get").Output()
 		if err != nil {
-			fmt.Println("❌ Error:", err)
-			return
+			fmt.Println("❌ Termux:API error. Run: pkg install termux-api"); return
 		}
-		content = androidContent
+		txt = string(out)
 	} else {
-		// Native desktop X11/Wayland routine
-		err := clipboard.Init()
-		if err != nil {
-			fmt.Printf("❌ Error initializing clipboard API: %v\n", err)
-			fmt.Println("👉 Make sure your display server (X11/Wayland) is running active.")
-			return
+		if err := clipboard.Init(); err != nil {
+			fmt.Println("❌ Clipboard API error. X11/Wayland required"); return
 		}
-		rawContent := clipboard.Read(clipboard.FmtText)
-		content = string(rawContent)
+		txt = string(clipboard.Read(clipboard.FmtText))
 	}
 
-	if len(strings.TrimSpace(content)) == 0 {
-		fmt.Println("⚠️  Clipboard content is empty or not valid text. Skipping write.")
-		return
+	if len(strings.TrimSpace(txt)) == 0 {
+		fmt.Println("⚠️ Clipboard empty"); return
 	}
 
-	// Write the file atomics to current working directory
-	err := os.WriteFile(filename, []byte(content), 0644)
-	if err != nil {
-		fmt.Printf("❌ Error writing to file '%s': %v\n", filename, err)
-		return
+	// 3. Save to file
+	if err := os.WriteFile(fn, []byte(txt), 0644); err != nil {
+		fmt.Printf("❌ Write error: %v\n", err); return
 	}
-
-	fmt.Printf("📋 Successfully captured clipboard into '%s' (%d bytes)!\n", filename, len(content))
+	fmt.Printf("📋 Captured into '%s' (%d bytes)!\n", fn, len(txt))
 }

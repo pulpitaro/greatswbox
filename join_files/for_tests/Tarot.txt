@@ -1,0 +1,28 @@
+# Tarot
+
+Oto opis gry karcianej **Tarot** w formacie przystępnym dla początkujących graczy.
+
+***
+
+### 1. Historia gry
+Gra Tarot wywodzi się z XV-wiecznych Włoch, gdzie początkowo służyła wyłącznie do celów rozrywkowych pod nazwą *tarocchini*. Z czasem ewoluowała w złożoną grę brydżową, zdobywając ogromną popularność w Europie Środkowej, szczególnie we Francji. Choć współcześnie kojarzona głównie z wróżbiarstwem, historycznie Tarot zawsze pozostawał przede wszystkim wyrafinowaną grą strategiczną.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Potrzebujesz specjalnej talii 78 kart (tzw. Tarot francuski), która składa się z:
+    *   56 kart w czterech kolorach (kier, karo, trefl, pik),
+    *   21 kart atutowych (tzw. *atouts*), oznaczonych numerami od 1 do 21,
+    *   jednej karty specjalnej o nazwie *Głupiec* (l'Excuse).
+*   **Liczba graczy:** Idealna liczba to 4 osoby (gra możliwa jest też w 3 lub 5 osób przy lekkiej modyfikacji zasad).
+*   **Przygotowanie:** Karty tasuje i rozdaje osoba siedząca po prawej stronie rozdającego. Każdy gracz otrzymuje 18 kart (w grze czteroosobowej), a pozostałe 6 kart trafia do tzw. „pieska” (talona) na środku stołu.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie określonej liczby punktów poprzez branie lew (grup kart wyłożonych na stół w jednej kolejce), które zawierają wartościowe karty.
+*   **Wartość kart:** Karty mają różną punktację. Najcenniejsze są tzw. „honory”: Głupiec, karty 21 i 1 atutowy (tzw. *Petit*) oraz figury (Król, Dama, Kawaler, Walet). Karty numerowane (tzw. *pipsy*) są warte zazwyczaj mniej.
+*   **Działanie kart:** Atuty zawsze przebijają zwykłe kolory. Jeśli nie masz karty w kolorze, w którym rozpoczęto kolejkę, musisz dołożyć atut (jeśli go masz).
+*   **Czego nie wolno:** Nie wolno podglądać kart przeciwników, a „piesek” (talon) może zostać zabrany tylko przez gracza, który wygrał licytację.
+
+### 4. Przebieg rozgrywki
+1.  **Licytacja:** Gracze decydują, czy chcą podjąć wyzwanie „kontraktu”. Można pasować lub licytować wyższe poziomy (Small, Guard, etc.), co zależy od siły posiadanych kart. Osoba z najwyższą ofertą zostaje „atakującym”.
+2.  **Piesek (Talon):** Atakujący odkrywa 6 kart z pieska, pokazuje je wszystkim, dodaje do swojej ręki, a następnie odrzuca 6 dowolnych kart z ręki (nie mogą to być króle ani atuty 1/21). Te odrzucone karty zostaną doliczone do punktów atakującego na koniec rundy.
+3.  **Rozgrywka (lewy):** Atakujący rozpoczyna pierwszą lewę. Gracze muszą dokładać kartę do koloru. Jeśli nie mają koloru, dokładają atut. Zwycięzca lewy zgarnia karty i rozpoczyna kolejną.
+4.  **Podliczanie punktów:** Po rozegraniu wszystkich 18 lew, gracze liczą punkty w swoich „braniach”. Atakujący musi zdobyć określoną liczbę punktów (zależną od liczby posiadanych atutów), aby wygrać partię. Jeśli mu się to uda – wygrywa, jeśli nie – punktują obrońcy.

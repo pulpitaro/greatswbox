@@ -1,0 +1,40 @@
+# Juker
+
+Oto opis gry karcianej **Juker** (znanej również jako Euchre), przygotowany w przejrzysty sposób dla Twojej bazy danych.
+
+---
+
+### 1. Zarys historii
+Juker to popularna w krajach anglosaskich gra wywodząca się z XIX-wiecznej gry *Écarté*. Uważa się, że została ona przeniesiona do Ameryki przez niemieckich imigrantów, stając się fundamentem dla rozwoju współczesnego brydża. Gra jest ceniona za swoją dynamikę, szybkie tempo i konieczność ścisłej współpracy z partnerem.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby (gra się w parach: osoby naprzeciwko siebie tworzą drużynę).
+*   **Talia:** Skrócona talia 24 kart (9, 10, J, Q, K, A w każdym kolorze).
+*   **Cel:** Zdobycie jako pierwsza drużyna 10 punktów.
+*   **Przygotowanie:** Potasuj karty i rozdaj każdemu graczowi po 5 kart (zazwyczaj w schematach 2-3 lub 3-2). Pozostałe karty tworzą stos zakryty, z którego odsłania się wierzchnią kartę – to ona sugeruje potencjalny kolor atutowy.
+
+### 3. Zasady gry
+*   **Hierarchia kart (od najsilniejszej):**
+    1.  **Prawy Bauer** (Walet w kolorze atutowym).
+    2.  **Lewy Bauer** (Walet w tym samym kolorze co atut, ale w kolorze „komplementarnym”, np. jeśli atutem są Kier, to Karo jest lewym Bauerem).
+    3.  As, Król, Dama, 10, 9 w kolorze atutowym.
+    4.  Karty w kolorach nieatutowych zachowują standardową hierarchię (As najwyższy, 9 najniższa).
+*   **Zasady:** Gracze muszą dokładać do koloru, jeśli mają taką możliwość. Jeśli nie mają karty w wymaganym kolorze, mogą dołożyć dowolną kartę (w tym atut).
+*   **Czego nie wolno:** Nie wolno zagrywać kart poza swoją turą ani podpowiadać partnerowi.
+
+### 4. Przebieg rozgrywki
+
+**Etap 1: Licytacja (Ustalanie atutu)**
+Gracze po kolei decydują, czy „przyjmują” kolor wierzchniej karty jako atutowy. Jeśli wszyscy spasują, odkryta karta jest odrzucana, a gracze mają drugą szansę, by wybrać dowolny inny kolor jako atut. Jeśli nikt nie wybierze atutu, karty są rozdawane ponownie.
+
+**Etap 2: Akcja**
+*   Po ustaleniu atutu, osoba, która go wybrała, może zagrać „solo” (jej partner nie bierze udziału w tej partii) lub wraz z partnerem.
+*   Gracz po lewej stronie rozdającego rozpoczyna pierwszą lewę, zagrywając dowolną kartę.
+
+**Etap 3: Rozgrywanie lew**
+Gra toczy się przez 5 lew. Zwycięzca lewy zbiera karty i rozpoczyna kolejną. Po rozegraniu wszystkich 5 lew podlicza się punkty:
+*   Jeśli drużyna, która ustaliła atut, zdobyła 3 lub 4 lewy: **1 punkt**.
+*   Jeśli zdobyła wszystkie 5 lew („march”): **2 punkty**.
+*   Jeśli drużyna, która wybrała atut, nie zdobyła 3 lew („Juker”): przeciwnicy otrzymują **2 punkty**.
+
+Rozgrywka toczy się do momentu, aż jedna z drużyn osiągnie 10 punktów.

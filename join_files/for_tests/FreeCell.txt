@@ -1,0 +1,33 @@
+# FreeCell
+
+Oto opis gry karcianej **FreeCell** przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### 1. Historia gry
+FreeCell wywodzi się z wczesnych gier komputerowych typu pasjans, a jej współczesna postać została spopularyzowana dzięki systemowi Windows w latach 90. XX wieku. Gra opiera się na matematycznej regule, według której prawie każdy rozdany układ jest możliwy do rozwiązania. Jest to jedna z niewielu gier typu pasjans, w której niemal wszystkie partie kończą się zwycięstwem przy odpowiedniej strategii.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Układ:** Karty rozkłada się w 8 kolumnach (cztery pierwsze mają po 7 kart, kolejne cztery po 6 kart). Wszystkie karty są odkryte.
+*   **Pola specjalne:** Potrzebujesz wolnej przestrzeni na stole na:
+    *   **4 „domy” (bazy):** miejsca w prawym górnym rogu na budowanie stosów od Asa do Króla w tym samym kolorze.
+    *   **4 „wolne komórki” (free cells):** miejsca w lewym górnym rogu, służące jako tymczasowy składzik dla pojedynczych kart.
+
+### 3. Zasady gry
+*   **Cel gry:** Przeniesienie wszystkich 52 kart do czterech „domów” (baz), podzielonych według kolorów i ułożonych rosnąco od Asa do Króla.
+*   **Działanie kart w kolumnach:** Karty w kolumnach układa się malejąco (np. 9 na 10), przy czym muszą one być **naprzemiennie kolorami** (czerwona karta na czarną, czarna na czerwoną).
+*   **Zasady ruchu:**
+    *   Możesz przenieść wierzchnią kartę z dowolnej kolumny do „wolnej komórki” lub do „domu”.
+    *   Możesz przesuwać grupy kart, jeśli masz wystarczającą liczbę pustych „wolnych komórek” (liczba kart, które możesz przenieść jako grupa, zależy od liczby wolnych miejsc).
+    *   Puste miejsce w kolumnie może zostać zajęte przez dowolną kartę lub sekwencję kart.
+
+### 4. Przebieg rozgrywki
+1.  **Rozpoczęcie:** Przeanalizuj układ. Szukaj Asów, aby jak najszybciej rozpocząć budowanie stosów w „domach”.
+2.  **Tura:** W każdej turze możesz wykonać jeden z poniższych ruchów:
+    *   Przenieść kartę z kolumny do „domu” (jeśli pasuje do koloru i kolejności).
+    *   Przenieść kartę z kolumny do „wolnej komórki” (aby odsłonić kartę znajdującą się niżej).
+    *   Przenieść kartę lub grupę kart między kolumnami (pamiętając o zasadzie naprzemiennych kolorów i kolejności malejącej).
+    *   Przenieść kartę z „wolnej komórki” do „domu” lub z powrotem do kolumny.
+3.  **Optymalizacja:** Kluczem jest jak najrzadsze używanie „wolnych komórek”. Traktuj je jako narzędzie do odblokowania kart potrzebnych do budowania sekwencji w kolumnach.
+4.  **Zakończenie:** Gra kończy się zwycięstwem, gdy wszystkie 52 karty znajdą się w czterech stosach w „domach”. Jeśli nie masz żadnych dostępnych ruchów i nie możesz przenieść kart do „domów”, partia jest przegrana.

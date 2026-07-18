@@ -1,0 +1,40 @@
+# Wist niemiecki
+
+Oto opis gry w **Wist niemiecki** (znanej również jako *German Whist*), przygotowany w formie przejrzystego poradnika.
+
+---
+
+### 1. Zarys historii
+Wist niemiecki jest wariantem klasycznego brydża (whista), zaprojektowanym jako gra dla dwóch osób, co było odpowiedzią na brak czwartego gracza. Gra zyskała popularność w XIX-wiecznej Europie jako elegancka forma rozrywki intelektualnej, wymagająca strategicznego planowania zamiast czystego przypadku.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** 2 osoby.
+*   **Przygotowanie:**
+    1. Tasujemy talię i rozdajemy obu graczom po 13 kart.
+    2. Karty trzymamy w ręku (przeciwnik ich nie widzi).
+    3. Pozostałe 26 kart kładziemy na środku stołu jako **stos zakryty**.
+    4. Wierzchnią kartę ze stosu odkrywamy i kładziemy obok – wyznacza ona **kolor atutowy** na całą rozgrywkę.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby „lew” (każda lewa to zestaw dwóch kart wyłożonych przez graczy). Gra toczy się do momentu wyczerpania kart, co daje łącznie 26 lew.
+*   **Działanie kart:** Obowiązuje starszeństwo: As (najstarszy), Król, Dama, Walet, 10, 9... aż do 2. Atut bije każdą kartę w kolorze nieatutowym.
+*   **Co wolno i czego nie wolno:**
+    *   W pierwszej fazie (gdy stos jest pełny) nie ma obowiązku dokładania koloru.
+    *   W drugiej fazie (gdy stos się skończy) **obowiązuje nakaz dokładania do koloru**. Jeśli gracz nie ma karty w kolorze prowadzącym, może „przebić” atutem lub wyrzucić dowolną kartę.
+
+### 4. Przebieg rozgrywki
+Gra podzielona jest na dwie fazy:
+
+**Faza I: Budowanie ręki**
+1. Gracz niebędący rozdającym wychodzi jako pierwszy, zagrywając dowolną kartę z ręki.
+2. Drugi gracz dokłada swoją kartę. Wyższą kartą bierze lewę (zgodnie z zasadami starszeństwa lub atutu).
+3. Zwycięzca lewy bierze wierzchnią kartę ze stosu zakrytego, a przegrany bierze wierzchnią kartę z odkrytego stosu (ta karta trafia do jego ręki).
+4. Następnie odkrywa się nową kartę ze stosu zakrytego, która zajmuje miejsce poprzedniej karty atutowej (odkrytej), a w jej miejsce kładzie się kolejną ze stosu zakrytego.
+5. Powtarzamy to, aż stos się wyczerpie.
+
+**Faza II: Finałowa rozgrywka**
+1. Gdy stos zakryty się kończy, gracze mają w rękach po 13 kart.
+2. Teraz następuje właściwa gra bez dobierania – gracze rozgrywają pozostałe 13 lew.
+3. W tej fazie obowiązuje ścisły **obowiązek dokładania do koloru**.
+4. Po rozegraniu wszystkich kart liczymy zdobyte lewy. Wygrywa osoba, która zebrała ich więcej niż 13 (lub po prostu więcej niż przeciwnik).

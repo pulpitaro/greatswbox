@@ -9,12 +9,14 @@ Before compilation, please initialize the `go.mod` file for the project [See `1.
 To compile you can use standard `golang` compiler (Tested on ver. 1.18.x and above) using command:
 
 ```bash
+go mod tidy
 go build -o "build/c2f" main.go
 ```
 
 or with `ldflags` for version without addtional dev logging:
 
 ```bash
+go mod tidy
 CGO_ENABLED=1 go build -ldflags="-s -w" -o "build/c2f" main.go
 ```
 
@@ -47,7 +49,7 @@ Flags:
 ## Typical problems and fixes
 
 1. Problem with `golang` mod file
-* Fix: Run `go mod init [main or own module name]` and then `go mod tidy` to initialize the project context.
+* Fix: Fix: Remove `go.mod` and `go.sum` (if exist), then run `go mod init [module name]` and `go mod tidy` to initialize the project context.
 
 2. Problem with execute the compiled binary file
 * Fix: Run `sudo chmod +x [binary filename]`

@@ -1,0 +1,37 @@
+# Poker pięciokartowy dobierany
+
+Oto opis gry **Poker pięciokartowy dobierany** (ang. *Five-Card Draw*), przygotowany w przejrzystej formie.
+
+---
+
+### 1. Historia gry
+Poker pięciokartowy dobierany jest uznawany za jedną z najstarszych i najbardziej klasycznych odmian pokera, wywodzącą się z XIX-wiecznych Stanów Zjednoczonych. Przez dziesięciolecia był on główną formą pokera graną w amerykańskich domach oraz w westernach, zanim został częściowo wyparty przez odmiany typu *Hold’em*. Do dziś pozostaje fundamentalną grą pozwalającą zrozumieć hierarchię układów pokerowych.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 2 do 6 osób.
+*   **Żetony:** Potrzebne do obstawiania (mogą to być monety, zapałki lub specjalne żetony).
+*   **Dealer (Rozdający):** Wybierany losowo na początku gry. Jego rolą jest tasowanie i rozdawanie kart.
+*   **Wartość kart:** Od najniższej do najwyższej: 2, 3, 4, 5, 6, 7, 8, 9, 10, Walet, Dama, Król, As.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie najlepszego pięciokartowego układu lub zmuszenie przeciwników do spasowania (wycofania się z rozdania) poprzez blef lub wysokie licytacje.
+*   **Działanie kart:** Gracze układają zestawy (np. para, kolor, strit), które decydują o sile ręki.
+*   **Co wolno:** Wolno blefować, podbijać stawkę, sprawdzać innych graczy i wymieniać karty w fazie dobierania.
+*   **Czego nie wolno:** Nie wolno pokazywać swoich kart innym graczom przed końcem rozgrywki, nie wolno zmieniać decyzji po jej ogłoszeniu (np. wycofać postawionych żetonów).
+
+### 4. Przebieg rozgrywki
+
+Rozgrywka dzieli się na następujące etapy:
+
+1.  **Ante (Wkład początkowy):** Każdy gracz wrzuca do puli ustaloną, niewielką ilość żetonów przed otrzymaniem kart.
+2.  **Rozdanie:** Rozdający rozdaje każdemu graczowi po 5 kart (po jednej, zgodnie z ruchem wskazówek zegara).
+3.  **Pierwsza licytacja:** Gracze patrzą na karty i podejmują decyzję:
+    *   **Czekanie (Check):** Jeśli nikt wcześniej nie licytował, można zostać w grze bez dodawania żetonów.
+    *   **Zakład (Bet):** Postawienie żetonów do puli.
+    *   **Sprawdzenie (Call):** Wyrównanie zakładu przeciwnika.
+    *   **Podbicie (Raise):** Zwiększenie stawki przeciwnika.
+    *   **Spasowanie (Fold):** Rezygnacja z gry i utrata dotychczasowych żetonów.
+4.  **Wymiana kart (Dobieranie):** Gracze, którzy zostali w grze, mogą odrzucić od 0 do 3 (czasem 4 lub 5, zależnie od ustaleń) niechcianych kart i otrzymać w zamian nowe z talii.
+5.  **Druga licytacja:** Po wymianie kart następuje kolejna runda licytacji, według tych samych zasad co pierwsza.
+6.  **Wyłożenie kart (Showdown):** Jeśli po ostatniej licytacji w grze pozostało więcej niż jeden gracz, następuje porównanie układów. Gracz z najsilniejszą ręką zgarnia całą pulę. Jeśli wszyscy oprócz jednego gracza spasują, wygrywa on bez pokazywania swoich kart.

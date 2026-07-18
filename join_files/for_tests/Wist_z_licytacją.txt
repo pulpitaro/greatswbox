@@ -1,0 +1,37 @@
+# Wist z licytacją
+
+Oto opis gry **Wist z licytacją** (ang. *Bid Whist*), przygotowany zgodnie z Twoimi wytycznymi.
+
+---
+
+### 1. Zarys historii
+Wist z licytacją wywodzi się z klasycznego angielskiego Wista, który dominował w Europie w XVIII i XIX wieku. Wersja z licytacją zyskała ogromną popularność w USA na początku XX wieku, wprowadzając do klasycznej rozgrywki element ryzyka i strategii poprzez deklarowanie liczby lew. Gra ta jest uważana za bezpośredniego przodka współczesnego brydża.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby (gra się w parach: partnerzy siedzą naprzeciwko siebie).
+*   **Talia:** Standardowa talia 52 kart.
+*   **Wartości kart:** Od najwyższej do najniższej: As, Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Rozdanie:** Każdy gracz otrzymuje 12 kart (po 3 na raz). Pozostałe 4 karty kładzie się zakryte na środku – tworzą one tzw. **„wdowę”** (ang. *kitty*).
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie deklarowanej liczby lew (minimum 7). Para, która wygra licytację, musi zdobyć co najmniej tyle lew, ile zadeklarowała.
+*   **Działanie kart:** Obowiązuje nakaz dokładania do koloru (jeśli masz kartę w kolorze zagranym przez pierwszego gracza, musisz ją dołożyć). Jeśli nie masz karty w danym kolorze, możesz „przebić” kartą atutową lub dołożyć dowolną inną kartę.
+*   **Co wolno/czego nie wolno:** Nie wolno podglądać kart przeciwników ani zdradzać zawartości swojej ręki. Licytacja musi być zgodna z przyjętymi ustaleniami (minimum 7 lew).
+
+### 4. Przebieg rozgrywki
+
+**Etap 1: Licytacja**
+Gracze, zaczynając od osoby po lewej stronie rozdającego, deklarują, ile lew (ponad 6) są w stanie wziąć wraz z partnerem. Licytacja toczy się w koło, aż wszyscy spasują. Zwycięzca licytacji określa kolor atutowy (lub decyduje, że gramy bez atutów).
+
+**Etap 2: Wdowa**
+Zwycięzca licytacji zabiera 4 karty „wdowy” do swojej ręki, a następnie odrzuca 4 dowolne karty z ręki (te karty nie biorą udziału w grze, ale liczą się do punktacji końcowej, jeśli zawierają atuty).
+
+**Etap 3: Rozgrywka (Wzięcia)**
+Gra toczy się w 12 turach (lewach):
+1.  Gracz po lewej stronie zwycięzcy licytacji zagrywa pierwszą kartę.
+2.  Kolejni gracze muszą dołożyć kartę w tym samym kolorze.
+3.  Lewę bierze ten, kto zagrał najwyższą kartę w kolorze atutowym, a jeśli nie było atutów – najwyższą kartę w kolorze wyjściowym.
+4.  Zwycięzca lewy zbiera karty i zagrywa jako pierwszy w kolejnej lewie.
+
+**Etap 4: Podsumowanie**
+Po rozegraniu wszystkich 12 lew, pary zliczają zdobyte punkty. Jeśli para licytująca zrealizowała swój kontrakt, zapisuje punkty (1 punkt za każdą wziętą lewę powyżej 6). Jeśli nie – punkty dopisuje sobie para przeciwna. Wygrywa drużyna, która jako pierwsza osiągnie umówioną liczbę punktów (zazwyczaj 11 lub 21).

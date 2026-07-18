@@ -1,0 +1,31 @@
+# Bakarat
+
+Oto opis gry karcianej Bakarat, przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### Bakarat
+
+#### Historia gry
+Bakarat wywodzi się z XV-wiecznych Włoch, a jego nazwa pochodzi od słowa „baccara”, co oznacza „zero”. Z czasem gra zyskała ogromną popularność we Francji, stając się ulubioną rozrywką arystokracji. Dziś jest znana przede wszystkim jako jedna z najbardziej prestiżowych gier kasynowych na świecie.
+
+#### Przygotowanie do gry
+Do gry w Bakarata wykorzystuje się zazwyczaj od 6 do 8 standardowych talii (52 karty każda), które są tasowane i umieszczane w specjalnym urządzeniu zwanym „butem”. W wersji domowej wystarczy jedna lub dwie talie. Nie potrzebujesz żetonów ani specjalnego stołu – wystarczy kartka papieru do zapisywania wyników oraz gracze, którzy obstawią jedną z dwóch stron: **Gracza (Punto)** lub **Bankiera (Banco)**.
+
+#### Zasady gry
+*   **Cel gry:** Przewidzenie, która z dwóch stron (Gracz czy Bankier) uzyska sumę punktów najbliższą 9. Można również obstawić remis (Tie).
+*   **Wartości kart:**
+    *   Asy = 1 punkt.
+    *   Karty od 2 do 9 = wartość nominalna.
+    *   10, Walet, Dama, Król = 0 punktów.
+*   **Zasada „obcinania”:** Jeśli suma kart wynosi 10 lub więcej, od wyniku odejmuje się 10 (np. 7+6=13, czyli w grze jest to 3).
+*   **Zakaz:** Gracze nie podejmują żadnych decyzji strategicznych dotyczących dobierania kart – wszystko reguluje sztywny algorytm gry (tabela reguł).
+
+#### Przebieg rozgrywki
+1.  **Obstawianie:** Przed rozdaniem kart gracze kładą zakłady na pole „Gracz”, „Bankier” lub „Remis”.
+2.  **Rozdanie:** Krupier (lub osoba prowadząca) rozdaje po dwie karty odkryte dla Gracza i Bankiera.
+3.  **Podliczenie:** Sumuje się punkty obu stron. Jeśli któraś ze stron ma 8 lub 9 punktów (tzw. *Natural*), nie dobiera się więcej kart i ogłasza zwycięzcę.
+4.  **Dobieranie (opcjonalnie):** Jeśli nikt nie ma 8 lub 9 punktów, stosuje się „zasadę trzeciej karty”:
+    *   Gracz dobiera trzecią kartę, jeśli ma sumę 0–5.
+    *   Bankier dobiera trzecią kartę zgodnie z bardziej złożoną tabelą, która zależy od karty dobieranej przez Gracza.
+5.  **Rozstrzygnięcie:** Po dobraniu kart (jeśli było to konieczne) porównuje się wyniki. Wygrywa strona z liczbą punktów bliższą 9. Wypłaty są realizowane zgodnie z postawionymi zakładami.

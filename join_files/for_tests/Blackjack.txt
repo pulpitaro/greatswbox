@@ -1,0 +1,35 @@
+# Blackjack
+
+Oto opis gry Blackjack, przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### Historia gry
+Blackjack wywodzi się z osiemnastowiecznych francuskich kasyn, gdzie znany był jako *Vingt-et-Un* (dwadzieścia jeden). Współczesna nazwa gry powstała w USA, gdy kasyna wprowadziły specjalną premię dla gracza, który otrzymał asa pik oraz waleta w kolorze czarnym (czarny walet = *black jack*). Choć zasada bonusu zniknęła, nazwa pozostała i stała się jedną z najpopularniejszych gier hazardowych na świecie.
+
+### Przygotowanie do gry
+Do gry w Blackjacka potrzebujesz standardowej talii 52 kart (bez jokerów). W profesjonalnych kasynach używa się kilku talii naraz, ale w warunkach domowych jedna wystarczy dla 2–7 graczy.
+*   **Krupier:** Jedna osoba pełni rolę rozdającego (krupiera), przeciwko której grają pozostali uczestnicy.
+*   **Żetony:** Warto ustalić stawkę początkową (może to być cokolwiek, co pełni funkcję punktów).
+*   **Miejsce:** Powierzchnia, na której wygodnie rozłożycie karty.
+
+### Zasady gry
+**Cel gry:** Uzyskanie sumy punktów bliższej 21 niż krupier, ale nieprzekraczającej tej liczby (tzw. "busta").
+
+**Wartość kart:**
+*   **Karty 2–10:** Wartość nominalna.
+*   **Walet, Dama, Król:** 10 punktów.
+*   **As:** 1 lub 11 punktów (zależnie od tego, co jest korzystniejsze dla gracza w danej chwili).
+
+**Co wolno:**
+*   **Hit (Dobierz):** Dobranie kolejnej karty.
+*   **Stand (Pas):** Zatrzymanie obecnego układu.
+*   **Double Down (Podwojenie):** Podwojenie stawki w zamian za wzięcie dokładnie jednej dodatkowej karty.
+*   **Split (Rozdzielenie):** Jeśli masz dwie karty o tej samej wartości, możesz rozdzielić je na dwie osobne ręce.
+
+### Przebieg rozgrywki
+1.  **Zakłady:** Gracze obstawiają swoje stawki przed rozdaniem kart.
+2.  **Rozdanie:** Krupier rozdaje każdemu graczowi (i sobie) po dwie karty. Karty graczy są odkryte, krupier ma jedną kartę odkrytą, a drugą zakrytą.
+3.  **Tura gracza:** Gracze po kolei decydują, czy dobierają karty (hit), czy pasują (stand). Jeśli gracz przekroczy 21 punktów, natychmiast przegrywa (busta).
+4.  **Tura krupiera:** Gdy wszyscy gracze zakończą swoje ruchy, krupier odkrywa swoją zakrytą kartę. Krupier musi dobierać karty, dopóki nie osiągnie minimum 17 punktów. Jeśli krupier przekroczy 21 punktów, wszyscy gracze, którzy jeszcze są w grze, wygrywają.
+5.  **Rozstrzygnięcie:** Porównuje się sumy punktów graczy z wynikiem krupiera. Wygrywa ten, kto jest bliżej 21. Remis (Push) oznacza zwrot stawki. Blackjack (As + karta 10-punktowa) wypłacany jest zazwyczaj w wyższym stosunku (3:2).

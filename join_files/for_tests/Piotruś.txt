@@ -1,0 +1,26 @@
+# Piotruś
+
+Oto opis klasycznej gry karcianej „Piotruś”.
+
+---
+
+### 1. Historia gry
+„Piotruś” to jedna z najstarszych i najpopularniejszych gier dziecięcych, wywodząca się z tradycyjnych gier typu „odrzucanie par”. Jej mechanika bazuje na starych niemieckich grach takich jak *Schwarzer Peter* (Czarny Piotr), gdzie osoba, której na końcu zostanie w ręku karta bez pary, uznawana jest za przegraną. Gra na przestrzeni dekad zyskała ogromną popularność w Europie jako prosty sposób na naukę spostrzegawczości i emocjonującą zabawę towarzyską.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Do gry używamy standardowej talii 52 kart, z której usuwamy jedną z dwóch czarnych dam (np. damę pik). Pozostała dama trefl (lub dama pik, jeśli usuniemy trefl) staje się tytułowym „Piotrusiem”. W efekcie w talii zostaje 51 kart.
+*   **Liczba graczy:** Gra przeznaczona jest dla 2 lub więcej osób.
+*   **Miejsce:** Wystarczy dowolny stół lub płaska powierzchnia.
+*   **Przygotowanie:** Należy dokładnie przetasować talię i rozdać wszystkie karty między graczy (nie martw się, jeśli ktoś otrzyma o jedną kartę więcej – w tej grze to normalne).
+
+### 3. Zasady gry
+*   **Cel gry:** Pozbyć się wszystkich swoich kart poprzez tworzenie z nich par o tej samej wartości (np. dwa króle, dwie siódemki). Gracz, który na samym końcu zostanie z „Piotrusiem” w ręku, przegrywa.
+*   **Działanie kart:** Pary tworzy się w oparciu o ich rangę (np. dwa asy tworzą parę, niezależnie od koloru). Piotruś (samotna dama) nie ma pary i nie można się go pozbyć w tradycyjny sposób.
+*   **Czego nie wolno:** Nie wolno pokazywać innym graczom swoich kart ani podglądać kart przeciwnika podczas wybierania.
+
+### 4. Przebieg rozgrywki
+1.  **Odrzucanie par:** Po otrzymaniu kart każdy gracz sprawdza swój wachlarz i wykłada na stół wszystkie pary, które już posiada.
+2.  **Dobieranie kart:** Gracz rozpoczynający (zazwyczaj osoba siedząca po lewej stronie rozdającego) wyciąga jedną zakrytą kartę z wachlarza sąsiada siedzącego po jego lewej stronie.
+3.  **Sprawdzanie:** Jeśli wyciągnięta karta tworzy parę z którąś z kart, które gracz już posiada, odkłada tę parę na stół. Jeśli nie – zatrzymuje ją w swojej ręce.
+4.  **Kontynuacja:** Kolejka przechodzi na kolejnego gracza zgodnie z ruchem wskazówek zegara. Każdy kolejny uczestnik dobiera kartę od swojego sąsiada po lewej stronie.
+5.  **Zakończenie:** Rozgrywka toczy się tak długo, aż w grze pozostanie tylko jedna karta – „Piotruś”. Osoba, która trzyma go w ręku w momencie, gdy wszyscy inni gracze pozbyli się swoich kart, przegrywa grę.

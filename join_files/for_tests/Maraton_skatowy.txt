@@ -1,0 +1,32 @@
+# Maraton skatowy
+
+Oto opis gry **Maraton skatowy**, wariantu opartego na klasycznym skacie, zaprojektowanego z myślą o dłuższych rozgrywkach i rywalizacji w trybie turniejowym.
+
+---
+
+### 1. Zarys historii
+Maraton skatowy wywodzi się z tradycji śląskich i niemieckich klubów skatowych, gdzie gracze rywalizowali w wielogodzinnych sesjach, aby wyłonić najbardziej wytrwałego mistrza. Powstał jako odpowiedź na potrzebę ujednolicenia zasad w turniejach, w których liczy się nie tylko szczęście, ale przede wszystkim długofalowa strategia. Dziś to jedna z najbardziej wymagających form skata, kładąca nacisk na precyzyjne rozliczanie punktów w długich seriach rozdań.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Pełna talia 32 kart (od siódemek do asów) w stylu niemieckim (żołędzie, dzwonki, czerwienie, zielenie) lub francuskim.
+*   **Liczba graczy:** Gra przeznaczona jest dla **trzech osób**.
+*   **Akcesoria:** Blok papieru i długopis do zapisywania wyników (tzw. „listy”) oraz żetony lub monety do licytacji (opcjonalnie).
+*   **Otoczenie:** Wygodny stół, przy którym gracze siedzą w układzie trójkątnym. Przed rozpoczęciem należy ustalić liczbę rund (np. wielokrotność 3 rozdań, tak aby każdy był rozdającym taką samą liczbę razy).
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby punktów poprzez wygrywanie kontraktów (licytacji) lub obronę przed nimi jako kontrahent.
+*   **Wartość kart:** As (11 pkt), Dziesiątka (10 pkt), Król (4 pkt), Dama (3 pkt), Walet (2 pkt). Siódemki, ósemki i dziewiątki nie mają wartości punktowej (są „puste”).
+*   **Działanie kart (Atuty):** Wszystkie cztery Walety są zawsze najwyższymi atutami w grze (w kolejności: żołądź, dzwonek, czerwień, zieleń).
+*   **Zasady:**
+    *   Obowiązuje dokładanie do koloru (jeśli masz kartę w kolorze karty wyjściowej, musisz ją dołożyć).
+    *   Jeśli nie masz koloru, możesz „ciąć” (przebić atutem) lub dołożyć dowolną kartę.
+    *   Nie wolno podglądać „skatu” (dwóch zakrytych kart na środku) przed zakończeniem licytacji przez gracza, który wygrał.
+
+### 4. Przebieg rozgrywki
+Gra składa się z powtarzających się etapów:
+
+1.  **Rozdanie:** Rozdający rozdaje karty w kolejności: po 3 karty dla każdego, następnie 2 karty do „skatu” (środek stołu), a potem po 4 i po 3 karty dla graczy. Każdy gracz otrzymuje łącznie 10 kart.
+2.  **Licytacja:** Gracze licytują, kto podejmie się rozegrania partii. Licytacja odbywa się „na głosy” (np. 18, 20, 22...), przy czym gracz po lewej od rozdającego zaczyna, a rozdający odpowiada. Zwycięzca licytacji bierze dwie karty ze skatu i odrzuca dwie inne (zostawiając je jako swoje punkty).
+3.  **Deklaracja:** Zwycięzca ogłasza rodzaj gry (np. gra w kolor, gra „Grand” – gdzie atutami są tylko walety, lub gra bez atutów).
+4.  **Rozgrywka (Właściwe karty):** Gracze zagrywają karty zgodnie z ruchem wskazówek zegara. Po rozegraniu wszystkich 10 lew podlicza się punkty wzięte w lewach przez grającego oraz przez dwóch obrońców (przeciwników).
+5.  **Podliczanie:** Jeśli grający osiągnął wymagany kontrakt, zapisuje punkty na listę; jeśli przegrał, traci podwójną wartość kontraktu (tzw. „karę”). Po każdej serii trzech rozdań następuje zmiana rozdającego.

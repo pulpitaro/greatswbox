@@ -1,0 +1,27 @@
+# Kierki
+
+Oto opis gry karcianej **Kierki** przygotowany w przejrzystej formie:
+
+# Kierki (Hearts)
+
+### Historia gry
+Kierki wywodzą się z XIX-wiecznej amerykańskiej gry o nazwie „Reversis”, w której celem było unikanie brania określonych kart. Współczesna forma gry zyskała ogromną popularność w latach 90. XX wieku dzięki dołączeniu jej do systemów operacyjnych Windows. Dziś jest jedną z najbardziej rozpoznawalnych gier typu „bierz-lewe” na świecie.
+
+### Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby (gra się indywidualnie).
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Wartości kart:** Od najstarszej (As) do najmłodszej (Dwójka).
+*   **Rozdanie:** Wszystkie karty rozdaje się po równo, tak aby każdy gracz otrzymał 13 kart.
+
+### Zasady gry
+*   **Cel gry:** Zdobycie jak najmniejszej liczby punktów karnych. Gra kończy się, gdy któryś z graczy osiągnie ustalony limit (zazwyczaj 100 punktów).
+*   **Punktacja:** Każdy kier wzięty w lewach to 1 punkt karny. Dama pik jest kartą specjalną i jest warta aż 13 punktów karnych.
+*   **Zasada „koloru”:** Gracze muszą dokładać kartę w kolorze karty wyłożonej przez gracza rozpoczynającego lewę. Jeśli nie masz karty w danym kolorze, możesz wyrzucić dowolną inną kartę.
+*   **Ograniczenia:** Nie wolno zagrywać kierów ani damy pik w pierwszej lewie, ani też zagrywać kiera, dopóki „kier nie zostanie otwarty” (czyli dopóki ktoś nie wyrzucił go w poprzedniej lewie, nie mając karty w wymaganym kolorze).
+
+### Przebieg rozgrywki
+1.  **Podanie kart (opcjonalnie):** W wielu wariantach przed rozpoczęciem lew gracze wymieniają się trzema wybranymi kartami z sąsiadem (kierunek zmienia się co rozdanie).
+2.  **Rozpoczęcie:** Gracz, który posiada dwójkę trefl, zagrywa ją jako pierwszy, rozpoczynając pierwszą lewę.
+3.  **Tury:** Gracze po kolei dok dokładają po jednej karcie zgodnie z ruchem wskazówek zegara. Lewę wygrywa osoba, która położyła najstarszą kartę w kolorze karty wiodącej. Zwycięzca lewy zgarnia karty na stos przed sobą i rozpoczyna kolejną lewę.
+4.  **Podliczanie:** Po zagraniu wszystkich 13 lew, gracze liczą swoje punkty karne (kier = 1 pkt, dama pik = 13 pkt).
+5.  **„Wyprawa po księżyc”:** Jeśli jednemu graczowi uda się zebrać wszystkie 13 kierów oraz damę pik (tzw. *Shoot the Moon*), pozostali gracze otrzymują po 26 punktów karnych, a gracz ten – 0.

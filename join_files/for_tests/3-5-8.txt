@@ -1,0 +1,43 @@
+# 3-5-8
+
+Oto opis klasycznej gry karcianej **3-5-8** (znanej również jako *Sergeant Major*), przygotowany w przejrzysty sposób.
+
+---
+
+### 1. Historia gry
+Gra 3-5-8 to popularna w Europie Środkowej i Wielkiej Brytanii odmiana gry w „wist” dla trzech osób. Jej nazwa wywodzi się bezpośrednio od liczby lew, które poszczególni gracze muszą zebrać, aby wygrać swoją rundę. Przez dekady zyskała status gry towarzyskiej, cenionej za prostotę zasad przy jednoczesnym wymaganiu od graczy umiejętności planowania.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** Dokładnie 3 osoby.
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Starszeństwo kart:** Od najstarszego: As, Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Wartość (dla 3-5-8):** Aby gra była możliwa, z talii wyjmuje się wszystkie dwójki (z wyjątkiem dwójki pik, która służy jako licznik, jeśli nie używamy papieru i długopisu). Każdy gracz otrzymuje 16 kart.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie określonej liczby lew w zależności od pełnionej roli:
+    *   Gracz „8” musi zdobyć 8 lew.
+    *   Gracz „5” musi zdobyć 5 lew.
+    *   Gracz „3” musi zdobyć 3 lewy.
+*   **Atuty:** Rozdający wybiera kolor atutowy.
+*   **Zasady przebiegu:**
+    *   Należy obowiązkowo dokładać do koloru (jeśli masz kartę w kolorze zagranej karty, musisz ją dołożyć).
+    *   Jeśli nie masz karty w danym kolorze, możesz „przebić” atutem lub dorzucić dowolną inną kartę.
+    *   Zabrania się zagrywania atutem, dopóki gracz ma jeszcze karty w wyjściowym kolorze.
+    *   Osoba, która wygrała lewę, rozpoczyna kolejną.
+
+### 4. Przebieg rozgrywki
+Rozgrywka dzieli się na fazy w każdej partii:
+
+1.  **Rozdanie:** Rozdający rozdaje wszystkim graczom po 16 kart.
+2.  **Deklaracja atutu:** Rozdający wybiera kolor atutowy.
+3.  **Role:** Gracze dzielą się automatycznie według swoich celów:
+    *   Osoba siedząca na lewo od rozdającego to „3” (celuje w 3 lewy).
+    *   Następna osoba to „5” (celuje w 5 lew).
+    *   Trzecia osoba to „8” (celuje w 8 lew).
+4.  **Właściwa gra:**
+    *   Gracz „3” rozpoczyna pierwszą lewę.
+    *   Gra toczy się zgodnie z ruchem wskazówek zegara. Po każdej lewie sprawdzamy, kto ją wygrał.
+5.  **Podliczenie:** Po rozegraniu wszystkich 16 lew następuje podliczenie:
+    *   Jeśli gracz zebrał wymagane minimum (lub więcej), wypełnił zadanie.
+    *   Jeśli zebrał mniej niż wymagała jego rola, za każdą brakującą lewę musi oddać kartę wyższą niż 8 (np. asa, króla) z kolejnej ręki na rzecz gracza, który miał nadmiar lew.
+6.  **Kolejna runda:** Rozdający zmienia się zgodnie z ruchem wskazówek zegara. Gra trwa zazwyczaj określoną liczbę okrążeń, aż wszyscy będą rozdającymi tyle samo razy.

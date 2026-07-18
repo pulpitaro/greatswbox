@@ -1,0 +1,33 @@
+# Tarok
+
+Oto opis gry karcianej **Tarok** (w wersji popularnej w Europie Środkowej, m.in. w Polsce czy Austrii):
+
+### 1. Krótki zarys historii
+Tarok wywodzi się z XV-wiecznych Włoch, gdzie początkowo służył do gry towarzyskiej pod nazwą *tarocchini*. Z czasem gra rozprzestrzeniła się w Europie Środkowej, ewoluując w różne regionalne odmiany, które do dziś cieszą się dużą popularnością w klubach brydżowych i rodzinnych. Jest to jedna z najstarszych zachowanych gier karcianych, w której karty atutowe (taroki) pełnią kluczową rolę w strategii.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Specjalna talia do taroka składająca się z 54 kart (w odmianie 4-osobowej) lub 78 kart (w pełnej talii). Talia zawiera cztery kolory (kier, karo, pik, trefl) oraz zestaw 22 (lub więcej) kart atutowych zwanych "tarokami".
+*   **Liczba graczy:** Najlepiej 3 lub 4 osoby.
+*   **Dodatkowe przedmioty:** Kartka i długopis do zapisywania punktów.
+*   **Miejsce:** Stabilny stół, przy którym gracze mogą swobodnie układać karty.
+
+### 3. Zasady gry
+*   **Wartość kart:** Karty dzielą się na trzy grupy: „małe” (niskie punkty), „figury” (król, dama, kawaler, walet) oraz „taroki” (zawsze przebijają zwykłe kolory).
+*   **Cel gry:** Zdobycie jak największej liczby punktów poprzez wygrywanie lew oraz zbieranie wartościowych kart (głównie figur i taroków).
+*   **Co wolno/czego nie wolno:**
+    *   Wymóg dokładania do koloru: jeśli gracz posiada kartę w kolorze, który został zagrany, **musi** ją dołożyć.
+    *   Jeśli gracz nie ma karty w kolorze, musi zagrać taroka (tzw. "cięcie").
+    *   Nie wolno podglądać kart przeciwników ani konsultować się z partnerem w trakcie licytacji.
+
+### 4. Przebieg rozgrywki
+Rozgrywka składa się z czterech głównych etapów:
+
+1.  **Rozdanie:** Rozdający rozdaje wszystkie karty tak, aby każdy gracz otrzymał równą liczbę kart. W niektórych odmianach część kart trafia do tzw. „talonu” (zakrytego stosu na środku stołu).
+2.  **Licytacja:** Gracze deklarują, czy chcą grać samodzielnie, czy z partnerem (w zależności od wariantu), oraz określają kontrakt (jaki poziom punktowy chcą osiągnąć). Najwyższa oferta wygrywa prawo do ustalenia zasad rozdania.
+3.  **Wymiana kart (opcjonalnie):** W wielu wariantach zwycięzca licytacji może wymienić część swoich kart z talonem, aby wzmocnić swoją rękę.
+4.  **Rozgrywka (branie lew):** 
+    *   Gracz siedzący po lewej stronie rozdającego rozpoczyna pierwszą lewę.
+    *   Kolejni gracze dokładają po jednej karcie zgodnie z zasadą dokładania do koloru. 
+    *   Lewę wygrywa ten, kto zagrał najwyższą kartę w kolorze lub najwyższego taroka.
+    *   Zwycięzca lewy zbiera karty do swojego stosu i rozpoczyna kolejną lewę.
+5.  **Podliczenie:** Po wygraniu wszystkich lew, gracze zliczają punkty w zebranych kartach. Zwycięzca (lub drużyna) sprawdza, czy udało się zrealizować kontrakt zadeklarowany w fazie licytacji.

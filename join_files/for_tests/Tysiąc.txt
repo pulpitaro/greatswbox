@@ -1,0 +1,50 @@
+# Tysiąc
+
+Oto opis popularnej polskiej gry karcianej **Tysiąc**.
+
+---
+
+### 1. Zarys historii
+Tysiąc to jedna z najpopularniejszych gier karcianych w Polsce, wywodząca się z rodziny gier typu „wistowskiego”. Choć jej dokładne korzenie są niejasne, gra zyskała ogromną popularność w Europie Środkowej i Wschodniej w XX wieku jako wymagająca intelektualnie rozrywka towarzyska. Jest to gra polegająca na licytacji, w której kluczową rolę odgrywają nie tylko szczęście, ale przede wszystkim umiejętność blefu i liczenia kart.
+
+---
+
+### 2. Przygotowanie do gry
+*   **Talia:** Pełna talia 24 kart (od dziewiątek do asów).
+*   **Liczba graczy:** Optymalnie 3 osoby (można grać w 2 lub 4 osoby, ale wymaga to modyfikacji zasad).
+*   **Punktacja:** Kartka i długopis do zapisywania wyników.
+*   **Wartości kart:**
+    *   As (A) = 11 pkt
+    *   Dziesiątka (10) = 10 pkt
+    *   Król (K) = 4 pkt
+    *   Dama (Q) = 3 pkt
+    *   Walet (J) = 2 pkt
+    *   Dziewiątka (9) = 0 pkt
+*   **Meldunki (bonusy):** Król i Dama w tym samym kolorze (tzw. „małżeństwo”) mają specjalną wartość punktową, jeśli gracz posiada „atut” w tym kolorze.
+
+---
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jako pierwszemu 1000 punktów.
+*   **Działanie kart:** W grze obowiązuje hierarchia starszeństwa: A > 10 > K > Q > J > 9.
+*   **Atuty:** Podczas rozgrywki jeden kolor kart staje się „atutem” (przebija wszystkie inne kolory).
+*   **Czego nie wolno:** Nie wolno podpowiadać innym graczom, zmieniać kart po rozpoczęciu lew oraz ujawniać swoich kart przed końcem rozdania.
+*   **Meldunki (wartości bonusowe):**
+    *   Piki (czarne): 40 pkt
+    *   Trefle (czarne): 60 pkt
+    *   Kara (czerwone): 80 pkt
+    *   Kier (czerwone): 100 pkt
+
+---
+
+### 4. Przebieg rozgrywki
+Gra składa się z następujących etapów:
+
+1.  **Rozdanie:** Każdy gracz otrzymuje po 7 kart. Trzy karty odkłada się na stół jako tzw. „muszkę” (dodatkowe karty dla zwycięzcy licytacji).
+2.  **Licytacja:** Gracze deklarują, ile punktów są w stanie zdobyć w danej partii (minimum to 100 pkt). Zaczynając od osoby po lewej stronie rozdającego, gracze przebijają się w górę (wielokrotności 10 pkt) lub pasują.
+3.  **Wymiana kart:** Zwycięzca licytacji zabiera „muszkę”, po czym odrzuca dwie karty, których nie chce (przekazuje je pozostałym graczom po jednej). Następnie ogłasza, jaki kolor będzie atutem.
+4.  **Rozgrywka (branie lew):** Zwycięzca licytacji wychodzi jako pierwszy. Pozostali gracze muszą dokładać kartę w tym samym kolorze. Jeśli nie mają – muszą dołożyć atut lub dowolną inną kartę. Lewę bierze osoba, która wyłożyła najstarszą kartę.
+5.  **Podliczanie:** Po zebraniu wszystkich lew (łącznie 7 lew na gracza), sumuje się punkty z kart w wziętych lewach oraz punkty za ewentualne meldunki.
+    *   Jeśli zwycięzca licytacji osiągnął swój cel – dopisuje wynik.
+    *   Jeśli nie osiągnął – punkty są odejmowane od jego dotychczasowego stanu.
+6.  **Koniec:** Gra trwa do momentu, aż któryś z graczy osiągnie próg 1000 punktów.

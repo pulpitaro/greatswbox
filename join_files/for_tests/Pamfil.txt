@@ -1,0 +1,30 @@
+# Pamfil
+
+Oto opis gry karcianej **Pamfil**, znanej również w niektórych regionach jako „Pamfiliusz”.
+
+---
+
+### 1. Historia gry
+Pamfil to tradycyjna polska gra karciana o długiej historii, wywodząca się z kręgu gier hazardowych popularnych w XIX wieku. Przez dziesięciolecia była chętnie grywana w dworkach i kawiarniach jako towarzyska alternatywa dla bardziej skomplikowanego brydża czy preferansa. Choć jej popularność z czasem zmalała, do dziś przetrwała w wielu rodzinnych domach jako emocjonująca gra typu „wchodzenia” (trick-taking).
+
+### 2. Przygotowanie do gry
+*   **Talia:** Pełna talia 52 kart (od dwójek do asów).
+*   **Liczba graczy:** Optymalnie od 3 do 5 osób.
+*   **Miejsce:** Standardowy stół z miejscem na środek (tzw. „blat”).
+*   **Wartości kart:** W Pamfilu obowiązuje hierarchia: As (najsilniejszy), Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2 (najsłabsza).
+*   **Żetony:** Przed rozpoczęciem warto ustalić stawkę (można grać na zapałki lub żetony), gdyż gra posiada element licytacji.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby lew (kolejek) lub zrealizowanie zadeklarowanego zobowiązania, aby wygrać pulę żetonów.
+*   **Działanie kart:** Gra toczy się w kolorach. Obowiązuje „nakaz dokładania do koloru” – jeśli gracz rozpocznie lewę, pozostali muszą dołożyć kartę w tym samym kolorze, jeśli ją posiadają.
+*   **Czego nie wolno:** Nie wolno podglądać kart przeciwników, wycofywać zagranej karty po jej położeniu na stół ani – bez wcześniejszego ustalenia – porozumiewać się z innymi graczami w kwestii posiadanych kart.
+
+### 4. Przebieg rozgrywki
+
+1.  **Rozdanie:** Rozdający rozdaje każdemu graczowi po 5 kart (w kilku turach). Pozostałe karty tworzą tzw. „talon” (stos kart zakrytych na środku).
+2.  **Licytacja (Deklaracja):** Gracze kolejno deklarują, ile lew zamierzają wziąć. Najniższa deklaracja to zazwyczaj 1 lewa. Gracz, który zadeklaruje najwięcej, przejmuje inicjatywę i ustala atut (kolor, który przebija inne).
+3.  **Wymiana kart:** Przed rozpoczęciem zbierania lew, gracze mogą odrzucić niechciane karty i dobrać nowe z talonu, aby wzmocnić swoją rękę (zasady wymiany zależą od umówionego wariantu).
+4.  **Zbieranie lew:** Rozpoczyna gracz, który wygrał licytację. Kładzie pierwszą kartę, a pozostali muszą dołożyć kartę w tym samym kolorze. Kto wyłoży najsilniejszą kartę (lub atut), zabiera lewę i rozpoczyna kolejną.
+5.  **Rozliczenie:** Po rozegraniu wszystkich 5 lew następuje podliczenie. Jeśli gracz zrealizował swoją deklarację (wziął tyle lew, ile zapowiedział), wygrywa określoną część puli. Jeśli nie – przegrywa i dokłada żetony do wspólnej puli.
+
+*Wskazówka dla początkujących: W Pamfilu kluczowe jest sprawne zarządzanie atutami – nie „wypalaj” silnych atutów na słabe lewy przeciwnika, chyba że musisz przejąć inicjatywę, by zrealizować swoją deklarację.*

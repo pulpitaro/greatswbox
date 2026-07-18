@@ -1,0 +1,35 @@
+# Tressette
+
+Oto opis klasycznej włoskiej gry karcianej **Tressette**.
+
+---
+
+### 1. Historia gry
+Tressette to jedna z najstarszych i najbardziej prestiżowych włoskich gier karcianych, której korzenie sięgają XVIII wieku. Przez stulecia zyskała status narodowej gry Włoch, ewoluując z zabaw hazardowych do wymagającej gry strategicznej opartej na partnerstwie. Jej nazwa prawdopodobnie pochodzi od słowa „trzy” (tressette), co odnosi się do dawnej wartości punktowej kart.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Gra wymaga standardowej talii 40 kart (włoskiej lub francuskiej z usuniętymi ósemkami, dziewiątkami i dziesiątkami).
+*   **Liczba graczy:** Gra się w cztery osoby, parami (siedzą naprzeciwko siebie).
+*   **Wartości kart:** W Tressette kluczowe jest zapamiętanie punktacji:
+    *   **Trójka (3):** 1/3 punktu (najsilniejsza karta).
+    *   **Dwójka (2):** 1/3 punktu.
+    *   **As (A):** 1 punkt.
+    *   **Król (K), Dama (Q), Walet (J):** 1/3 punktu.
+    *   **Pozostałe (7, 6, 5, 4):** 0 punktów (tzw. "liscie").
+    *   *Uwaga:* Suma punktów w talii wynosi 11.
+
+### 3. Zasady gry
+*   **Cel gry:** Zgromadzenie jak największej liczby punktów (zazwyczaj gra toczy się do 21 lub 31 punktów).
+*   **Działanie kart:** Siła kart jest specyficzna: 3 > 2 > As > Król > Dama > Walet > 7 > 6 > 5 > 4.
+*   **Zasady:** 
+    *   Obowiązuje ścisły nakaz dokładania do koloru (jeśli masz kartę w kolorze karty wyłożonej jako pierwszej, musisz ją zagrać).
+    *   Nie ma atutów – wygrywa zawsze najwyższa karta w kolorze zagranym na początku lewy.
+    *   Komunikacja między partnerami jest zabroniona, poza ustalonymi w niektórych wersjach sygnałami (np. stuknięcie w stół przy zagrywaniu asa).
+
+### 4. Przebieg rozgrywki
+1.  **Rozdanie:** Rozdający rozdaje każdemu graczowi po 10 kart (zgodnie z ruchem wskazówek zegara).
+2.  **Rozpoczęcie:** Gracz po lewej stronie rozdającego kładzie pierwszą kartę.
+3.  **Licytacja (opcjonalnie):** W niektórych wariantach gracze mogą deklarować "Accuse" (np. posiadanie trzech trójek lub trzech asów), co daje dodatkowe punkty.
+4.  **Tury:** Gracze kolejno dok dokładają karty do koloru. Jeśli gracz nie posiada karty w danym kolorze, może wyrzucić dowolną inną kartę (nie bierze ona udziału w walce o tę lewę).
+5.  **Rozstrzygnięcie lewy:** Gracz, który położył najsilniejszą kartę w kolorze prowadzącym, zabiera lewę, kładzie ją przed sobą i wychodzi do następnej lewy.
+6.  **Podliczenie:** Po rozegraniu wszystkich 10 lew, gracze sumują punkty z kart znajdujących się w ich zdobytych lewach. Pamiętaj: za każde 3 punkty (oraz ułamek) przyznaje się 1 punkt do wyniku końcowego.

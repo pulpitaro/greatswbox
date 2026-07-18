@@ -1,0 +1,34 @@
+# Sueca
+
+Oto opis gry karcianej **Sueca**, która jest niezwykle popularną odmianą gry typu „wzięcia” (trick-taking), wywodzącą się z Portugalii.
+
+---
+
+### 1. Zarys historii
+Sueca to jedna z najpopularniejszych gier karcianych w Portugalii, wywodząca się z dawnej gry *Bisca*. Nazwa „Sueca” w języku portugalskim oznacza „Szwedka” i prawdopodobnie odnosi się do historycznych wpływów dyplomatycznych między tymi krajami. Gra cieszy się ogromną popularnością zarówno w Portugalii, jak i w Brazylii oraz Angoli.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Używa się standardowej talii 52 kart, ale **usuwa się z niej wszystkie ósemki, dziewiątki i dziesiątki**. Pozostaje 40 kart (as, król, dama, walet, 7, 6, 5, 4, 3, 2).
+*   **Liczba graczy:** Gra przeznaczona jest dla 4 osób, grających w dwóch parach (partnerzy siedzą naprzeciwko siebie).
+*   **Starszeństwo kart (wartość punktowa):**
+    1. As (11 punktów)
+    2. Siódemka (10 punktów)
+    3. Król (4 punkty)
+    4. Walet (3 punkty)
+    5. Dama (2 punkty)
+    6. Pozostałe (6, 5, 4, 3, 2) – 0 punktów.
+*   **Cel gry:** Celem jest zdobycie w swoich lewach (wzięciach) kart o łącznej wartości przekraczającej połowę wszystkich punktów (czyli zdobycie minimum 61 punktów ze 120 możliwych).
+
+### 3. Zasady gry
+*   **Atut:** W każdej partii jedna karta (odwrócona przez rozdającego z dołu talii) wyznacza kolor atutowy. Wszystkie karty w tym kolorze przebijają karty w innych kolorach.
+*   **Obowiązek dokładania:** Gracze **muszą** dokładać do koloru karty wyłożonej przez pierwszego gracza. Jeśli gracz nie posiada karty w wymaganym kolorze, może wyrzucić dowolną kartę (w tym atut).
+*   **Zakazy:** Nie wolno podglądać kart partnera ani komunikować się z nim w sposób sugerujący posiadane karty.
+*   **Wygrywanie lewy:** Lewę wygrywa osoba, która zagrała najwyższą kartę w kolorze wyjściowym, chyba że ktoś zagrał atut – wtedy wygrywa najwyższy atut.
+
+### 4. Przebieg rozgrywki
+1.  **Rozdanie:** Rozdający tasuje karty, daje do przełożenia graczowi z lewej strony, a następnie rozdaje każdemu graczowi po 10 kart (zgodnie z ruchem wskazówek zegara). Ostatnia karta (należąca do rozdającego) jest odkrywana na stół – jej kolor staje się atutem.
+2.  **Rozpoczęcie:** Gracz siedzący po lewej stronie rozdającego rozpoczyna pierwszą lewę, wykładając dowolną kartę.
+3.  **Tury:** Gracze kolejno dokładają karty zgodnie z zasadą „dokładania do koloru”.
+4.  **Zakończenie lewy:** Gdy wszyscy czterej gracze wyłożą po jednej karcie, gracz, który wygrał lewę, zgarnia wszystkie cztery karty na stos swojej drużyny. On również rozpoczyna kolejną lewę.
+5.  **Podliczanie punktów:** Po rozegraniu wszystkich 10 lew, każda drużyna podlicza punkty w swoich „wzięciach”.
+6.  **Wygrana:** Wygrywa drużyna, która zdobędzie więcej niż 60 punktów. Jeśli padnie remis (60:60), partia jest nierozstrzygnięta (często w kolejnym rozdaniu punkty przechodzą na zwycięzcę).

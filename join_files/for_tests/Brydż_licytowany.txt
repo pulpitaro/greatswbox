@@ -1,0 +1,28 @@
+# Brydż licytowany
+
+Oto opis gry w brydża licytowanego przygotowany zgodnie z Twoimi wytycznymi.
+
+# Brydż licytowany
+
+### Historia gry
+Brydż licytowany wyewoluował na początku XX wieku z wcześniejszej gry zwanej „brydżem”, zyskując ogromną popularność dzięki wprowadzeniu systemu licytacji, która pozwala na dokładniejsze określenie potencjału kart. Przez dekady był uważany za najważniejszą grę karcianą świata, aż do momentu, gdy w latach 30. został w dużej mierze wyparty przez jeszcze bardziej zaawansowany wariant – brydża kontraktowego.
+
+### Przygotowanie do gry
+Do gry potrzebujesz standardowej talii 52 kart oraz trzech innych osób (gra się w parach: ty i twój partner kontra dwójka przeciwników). Gracze siedzący naprzeciwko siebie tworzą zespół. Przed rozpoczęciem gry należy przetasować talię i rozdać wszystkim graczom po 13 kart tak, aby każdy trzymał swoje karty w tajemnicy przed pozostałymi.
+
+### Zasady gry
+*   **Starszeństwo kart:** Od najwyższej do najniższej: As, Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Starszeństwo kolorów (w licytacji):** Bez atu (najwyższy), Piki, Kiery, Karo, Trefle (najniższy).
+*   **Cel gry:** Zdobycie określonej liczby lew (grup kart) zadeklarowanej podczas licytacji.
+*   **Czego nie wolno:** Nie wolno pokazywać swoich kart innym graczom przed wyłożeniem ich na stół, nie wolno podpowiadać partnerowi ani zmieniać raz wypowiedzianych deklaracji w licytacji.
+
+### Przebieg rozgrywki
+Rozgrywka dzieli się na dwa kluczowe etapy:
+
+1.  **Licytacja:** Gracze, zaczynając od rozdającego, kolejno deklarują, ile lew (powyżej sześciu) ich para zobowiązuje się wziąć i który kolor ma być „atutem” (kartą bijącą inne). Licytację kończą trzy kolejne spasowania („pas”). Para, która zadeklarowała najwyższy kontrakt, wygrywa licytacją i zobowiązuje się do jego wykonania.
+2.  **Rozgrywka:**
+    *   Gracz z pary wygrywającej, który jako pierwszy wymienił kolor kontraktu, zostaje „rozgrywającym”.
+    *   Partner rozgrywającego staje się „dziadkiem” – kładzie swoje karty odkryte na stole i nie bierze udziału w decyzjach.
+    *   Gracz po lewej stronie rozgrywającego wykonuje pierwszy ruch (wist).
+    *   Następnie gra toczy się zgodnie z ruchem wskazówek zegara – każdy gracz musi dołożyć kartę w kolorze wyjścia. Jeśli nie ma karty w tym kolorze, może „przebić” (rzucić atut) lub dołożyć dowolną kartę.
+    *   Po rozegraniu wszystkich 13 lew podlicza się punkty. Jeśli para spełniła deklarację, zapisuje punkty; jeśli nie – punkty otrzymują przeciwnicy.

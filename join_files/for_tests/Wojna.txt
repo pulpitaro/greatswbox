@@ -1,0 +1,27 @@
+# Wojna
+
+Oto opis klasycznej gry karcianej „Wojna”, przygotowany w przejrzystej formie:
+
+### Historia gry
+„Wojna” to jedna z najstarszych i najprostszych gier karcianych, wywodząca się z tradycyjnych zabaw europejskich. Ze względu na swój czysty, losowy charakter, stała się klasyczną grą dziecięcą, w której główną rolę odgrywa szczęście, a nie strategia. Jej popularność wynika z faktu, że zasady można wytłumaczyć w niespełna minutę każdemu, niezależnie od wieku.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez Jokerów).
+*   **Liczba graczy:** Zazwyczaj 2 osoby.
+*   **Rozdanie:** Należy potasować talię i rozdać wszystkie karty po równo pomiędzy graczy. Gracze otrzymują swoje stosy zakryte i nie powinni podglądać wartości swoich kart.
+
+### Zasady gry
+*   **Cel gry:** Zdobycie wszystkich kart z talii przeciwnika.
+*   **Wartości kart:** Siła kart rośnie w kolejności: 2, 3, 4, 5, 6, 7, 8, 9, 10, Walet (J), Dama (Q), Król (K), As (A). As jest kartą najwyższą.
+*   **Zasada główna:** W każdym starciu wygrywa karta o wyższej wartości. W przypadku „wojny” (remisu), decyduje kolejna wyłożona karta.
+*   **Czego nie wolno:** Nie wolno podglądać własnych kart przed ich zagraniem ani zmieniać kolejności kart w swoim stosie.
+
+### Przebieg rozgrywki
+1.  **Tura:** Obaj gracze jednocześnie odkrywają wierzchnią kartę ze swoich stosów i kładą ją na środku stołu.
+2.  **Rozstrzygnięcie:** Osoba, która położyła kartę o wyższej wartości, zabiera obie karty i wkłada je na spód swojego stosu.
+3.  **Wojna:** Jeśli obie wyłożone karty mają taką samą wartość, następuje „wojna”:
+    *   Gracze kładą na wierzchu swoich wyłożonych kart jedną kartę zakrytą, a następnie drugą kartę odkrytą.
+    *   Wygrywa ten, czyja druga karta odkryta jest wyższa.
+    *   Zwycięzca zgarnia całą pulę ze stołu (wszystkie karty użyte w tej „wojnie”).
+    *   Jeśli po raz kolejny karty są równe, procedurę wojny powtarza się.
+4.  **Zakończenie:** Gra toczy się tak długo, aż jeden z graczy zdobędzie wszystkie karty z talii przeciwnika lub gdy jeden z graczy straci wszystkie swoje karty.

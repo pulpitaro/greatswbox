@@ -1,0 +1,28 @@
+# Blef
+
+Oto opis gry karcianej **Blef** (znanej również pod nazwami „Łgarz”, „Prezydent” lub „I doubt it”), przygotowany w przejrzystej formie.
+
+***
+
+### 1. Historia gry
+Gra Blef wywodzi się z rodziny gier opartych na mechanice oszustwa, które zyskały popularność w Europie w połowie XX wieku jako towarzyska alternatywa dla wymagających gier strategicznych. Jej korzenie są niejasne, jednak ewoluowała ona z dawnych gier hazardowych, w których blefowanie było kluczowym elementem wygrywania. Dziś jest uznawana za klasyczną grę imprezową, cenioną za prostotę i interakcje między graczami.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 3 do 6 osób.
+*   **Przygotowanie:** Wszystkie karty należy rozdać po równo między graczy. Nie martw się, jeśli ktoś otrzyma o jedną kartę więcej – w tej grze to dopuszczalne. Gracze trzymają swoje karty w tajemnicy, wachlarzem przed sobą.
+
+### 3. Zasady gry
+*   **Cel gry:** Celem jest jak najszybsze pozbycie się wszystkich kart z ręki.
+*   **Działanie kart:** W Blefie wartości kart (As, Król, Dama itd.) są deklarowane przez graczy. Każdy gracz w swojej turze musi położyć jedną lub więcej kart na stosie, deklarując ich wartość (np. „dwie damy”).
+*   **Zasada złota:** Możesz położyć dowolne karty, pod warunkiem, że deklarujesz ich wartość zgodnie z aktualnym „poziomem” (patrz: Przebieg rozgrywki).
+*   **Ograniczenia:** Nie wolno podglądać kart przeciwników. Nie wolno mówić prawdy, jeśli nie chcesz – to istota gry!
+
+### 4. Przebieg rozgrywki
+1.  **Start:** Gracz siedzący po lewej stronie rozdającego zaczyna grę, deklarując wartość (zazwyczaj zaczyna się od Asów). Kładzie zakryte karty na środku stołu.
+2.  **Kolejność:** Każdy kolejny gracz musi położyć karty o wartości o jeden wyższej niż poprzednik (po Asach są Dwójki, potem Trójki itd., aż do Króli, po których cykl zaczyna się od nowa).
+3.  **Tura:** Gracz może położyć od 1 do 4 kart. Musi przy tym powiedzieć głośno, co kładzie (np. „trzy dziesiątki”).
+4.  **Blefowanie:** Jeśli którykolwiek z graczy podejrzewa, że osoba kładąca karty łże, może w dowolnym momencie krzyknąć **„Blef!”** (lub „Sprawdzam!”).
+    *   **Jeśli gracz blefował:** Musi zabrać cały stos kart ze środka do swojej ręki.
+    *   **Jeśli gracz mówił prawdę:** Osoba, która krzyknęła „Blef!”, musi zabrać cały stos kart do swojej ręki.
+5.  **Koniec:** Gra toczy się w kółko do momentu, aż jeden z graczy pozbędzie się wszystkich swoich kart. Osoba ta wygrywa, a pozostali kontynuują rozgrywkę do wyłonienia kolejnych miejsc.

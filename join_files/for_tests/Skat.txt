@@ -1,0 +1,27 @@
+# Skat
+
+Oto przejrzysty opis gry w Skata, przygotowany z myślą o wprowadzeniu do Twojej bazy danych.
+
+# Skat
+
+### Historia gry
+Skat powstał około 1810 roku w Altenburgu w Niemczech, wywodząc się z lokalnych gier typu „tarok” i „l’hombre”. Jest to jedna z najbardziej wymagających strategicznie gier karcianych, która od 2016 roku znajduje się na liście niematerialnego dziedzictwa kulturowego UNESCO w Niemczech.
+
+### Przygotowanie do gry
+*   **Gracze:** Gra przeznaczona jest dla 3 osób (choć istnieje wariant dla 4, w którym rozdający pauzuje).
+*   **Talia:** Używa się talii 32 kart (od siódemek do asów).
+*   **Wartości kart:** As (11 pkt), Dziesiątka (10 pkt), Król (4 pkt), Dama (3 pkt), Walet (2 pkt). Siódemki, ósemki i dziewiątki są „puste” (0 pkt).
+*   **Cel:** Celem gry jest zdobycie większej liczby punktów w swoich lewach niż przeciwnicy lub zrealizowanie deklarowanego kontraktu (tzw. „gra”).
+
+### Zasady gry
+*   **Walety (Bauer):** Są zawsze najwyższymi atutami w grze, niezależnie od koloru atutowego. Ich hierarchia to: Trefl (najwyższy), Pik, Kier, Karo.
+*   **Deklaracje:** Przed rozpoczęciem gry gracze licytują się, aby ustalić, kto będzie „grającym” (solistą) i jaki będzie kolor atutowy (lub czy gra będzie bezatutowa).
+*   **Zakaz:** Nie wolno podglądać kart przeciwników, a grający musi zmierzyć się z dwoma pozostałymi graczami, którzy łączą siły przeciwko niemu.
+*   **Starszeństwo kart w kolorze atutowym:** Walet, As, 10, Król, Dama, 9, 8, 7.
+
+### Przebieg rozgrywki
+1.  **Rozdanie:** Każdy z trzech graczy otrzymuje po 10 kart, a 2 karty trafiają zakryte na stół (tzw. *Skat*).
+2.  **Licytacja:** Gracze licytują wartości kontraktów, używając stałych mnożników zależnych od posiadanych waletów (tzw. „matadorów”). Gracz z najwyższą ofertą zostaje „grającym”.
+3.  **Wymiana kart:** Grający podnosi dwie karty ze *Skata*, może je wymienić na dwie dowolne ze swojej ręki (które stają się jego punktami końcowymi) i ogłasza ostateczny kontrakt (kolor atutowy lub jego brak).
+4.  **Rozgrywka:** Gra składa się z 10 lew. Gracz siedzący po lewej stronie rozdającego wychodzi jako pierwszy. Obowiązuje tzw. „dokładanie do koloru” (jeśli masz kartę w kolorze wyjścia, musisz ją zagrać).
+5.  **Podliczanie:** Po zakończeniu 10 lew, grający sumuje punkty ze swoich lew oraz karty ze *Skata*. Jeśli zebrał 61 punktów lub więcej, wygrywa. Jeśli nie – przegrywa i płaci pozostałym graczom zgodnie z wartością kontraktu.

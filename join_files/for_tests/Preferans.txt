@@ -1,0 +1,34 @@
+# Preferans
+
+Oto opis gry w Preferansa, przygotowany z myślą o przejrzystej bazie danych.
+
+***
+
+# Preferans
+
+### 1. Historia gry
+Preferans wywodzi się z XIX-wiecznej Rosji, gdzie powstał jako ewolucja wcześniejszych gier typu wista, szybko stając się ulubioną rozrywką tamtejszej inteligencji. Gra ta zyskała ogromną popularność dzięki swojej wysokiej złożoności strategicznej i wymagającemu charakterowi, stając się narodową grą karcianą Rosji. Dziś uważana jest za jedną z najbardziej wyrafinowanych gier w karty, wymagającą od graczy doskonałej pamięci i umiejętności przewidywania.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Pełna talia 32 kart (od siódemek do asów).
+*   **Liczba graczy:** Klasycznie 3 osoby (możliwa gra w 4, gdzie czwarty gracz pauzuje w każdej rundzie).
+*   **Rozdanie:** Rozdaje się wszystkie karty tak, aby każdy gracz otrzymał po 10 kart. Pozostałe 2 karty tworzą tzw. **talon** (muszkę), który leży zakryty na stole.
+*   **Wartość kart:** As (11 pkt), Dziesiątka (10 pkt), Król (4 pkt), Dama (3 pkt), Walet (2 pkt). Siódemki, ósemki i dziewiątki nie mają wartości punktowej w liczeniu (są tzw. "pustakami").
+
+### 3. Zasady gry
+*   **Cel gry:** Zadeklarowanie zobowiązania (ile lew gracz jest w stanie wziąć) i wykonanie go.
+*   **Starszeństwo kolorów (od najsilniejszego):** Kier, Karo, Trefl, Pik.
+*   **Działanie kart:** Obowiązuje nakaz dokładania do koloru. Jeśli gracz nie ma karty w wymaganym kolorze, może zagrać atutem (jeśli gra toczy się w kolorze atutowym) lub dowolną inną kartą.
+*   **Zakazy:** Nie wolno podglądać talonu przed wylicytowaniem kontraktu. Po jego wzięciu nie wolno zmieniać decyzji co do odrzucanych kart.
+
+### 4. Przebieg rozgrywki
+Gra składa się z czterech głównych etapów:
+
+1.  **Licytacja:** Gracze deklarują, ile lew (ponad 6) są w stanie wziąć. Licytacja toczy się w kierunku ruchu wskazówek zegara. Gracz może powiedzieć "pas" lub podbić stawkę. Najwyższy licytujący wygrywa kontrakt.
+2.  **Talon i deklaracja:** Zwycięzca licytacji zabiera talon, pokazuje go pozostałym graczom, a następnie odrzuca dwie dowolne karty (ukryte przed innymi). Następnie ogłasza ostateczny kontrakt (np. "8 lew w kierach").
+3.  **Rozgrywka:** Gracze zagrywają po jednej karcie. Lewę bierze osoba, która położyła najsilniejszą kartę w kolorze (lub najwyższy atut). Zwycięzca lewy wychodzi do kolejnej.
+4.  **Podliczenie:** Po rozegraniu 10 lew sprawdza się, czy licytujący wywiązał się ze swojego zobowiązania.
+    *   Jeśli zrealizował kontrakt – otrzymuje punkty.
+    *   Jeśli nie wykonał zobowiązania – otrzymuje punkty karne (tzw. "wiza").
+
+Rozgrywka toczy się do momentu ustalenia wcześniej z góry określonej liczby rozdań lub osiągnięcia celu punktowego.

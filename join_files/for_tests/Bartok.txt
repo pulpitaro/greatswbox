@@ -1,0 +1,27 @@
+# Bartok
+
+Oto opis gry karcianej **Bartok**, znanej również jako wariant „Crazy Eights” (Ósemki), charakteryzujący się dynamiczną rozgrywką i dużą interakcją między graczami.
+
+---
+
+### 1. Krótki zarys historii
+Bartok to gra wywodząca się z rodziny gier typu „zrzucanie kart”, której korzenie sięgają połowy XX wieku. Nazwa gry jest hołdem dla węgierskiego kompozytora Béli Bartóka, co podkreśla jej niestandardowy i pełen zmiennych rytm charakter. Współcześnie Bartok jest popularny w środowiskach akademickich i hackerskich jako gra, w której gracze mogą tworzyć własne, wymyślne zasady specjalne.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Optymalnie od 2 do 6 osób.
+*   **Cel:** Być pierwszym, który pozbędzie się wszystkich kart z ręki.
+*   **Rozdanie:** Każdy gracz otrzymuje na start 5 kart. Pozostałe karty kładzie się zakryte na środku jako stos do dobierania (talon). Pierwszą kartę z talonu odwraca się i kładzie obok – rozpoczyna ona stos kart odrzuconych.
+
+### 3. Zasady gry
+*   **Działanie kart:** W swojej turze musisz położyć kartę na stosie, która pasuje do wierzchniej karty kolorem lub figurą.
+*   **Ósemki:** Ósemki są „dzikimi kartami” – można je zagrać w dowolnym momencie, niezależnie od tego, co leży na stosie. Gracz zagrywający ósemkę deklaruje nowy kolor, który obowiązuje następną osobę.
+*   **Ograniczenia:** Jeśli nie masz karty pasującej do koloru lub figury (i nie chcesz zagrać ósemki), musisz dobrać jedną kartę z talonu. Jeśli po dobraniu karta pasuje, możesz ją od razu zagrać.
+*   **Zasada „Bartok!”:** Gracz, któremu zostaje w ręku tylko jedna karta, musi głośno powiedzieć „Bartok!”. Jeśli zapomni o tym przed rozpoczęciem kolejki następnego gracza, musi dobrać karną kartę z talonu.
+
+### 4. Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracz po lewej stronie rozdającego rozpoczyna turę.
+2.  **Tura:** W każdej turze gracz może zagrać tylko jedną kartę spełniającą wymogi (chyba że zasady domu stanowią inaczej).
+3.  **Brak ruchu:** Jeśli gracz nie może wykonać ruchu, dobiera kartę. Jeśli karta nie pasuje, traci kolejkę („pasuje”) i ruch przechodzi na kolejną osobę.
+4.  **Akcja:** Gra toczy się zgodnie z ruchem wskazówek zegara. Emocje rosną, gdy talia do dobierania się kończy – wtedy stos odrzuconych (z wyłączeniem wierzchniej karty) należy potasować i użyć jako nowy stos do dobierania.
+5.  **Zakończenie:** Partia kończy się natychmiast, gdy którykolwiek z graczy pozbędzie się wszystkich kart. Można punktować w kilku rundach, sumując wartości kart pozostałych w rękach przeciwników (np. figury = 10 pkt, ósemki = 20 pkt, karty liczbowe = wartość nominalna).

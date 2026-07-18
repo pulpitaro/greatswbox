@@ -1,0 +1,32 @@
+# Remik
+
+Oto opis gry w Remika, przygotowany w przejrzysty sposób dla Twojej bazy danych.
+
+---
+
+### Remik
+
+#### Historia gry
+Remik wywodzi się z rodziny gier typu „dobierz i odrzuć”, której korzenie sięgają XIX-wiecznego Meksyku (gra *Conquian*). Współczesna popularność Remika rozkwitła w Stanach Zjednoczonych w latach 20. XX wieku, stając się fundamentem dla wielu późniejszych wariantów, takich jak Gin Remik czy Remik Rummy.
+
+#### Przygotowanie do gry
+*   **Liczba graczy:** Zazwyczaj 2 do 4 osób.
+*   **Talia:** Standardowa talia 52 kart (bez jokerów lub z nimi – zależnie od wariantu).
+*   **Przygotowanie:** Należy potasować karty i rozdać każdemu graczowi odpowiednią liczbę kart (zazwyczaj 7 przy 3-4 graczach lub 10 przy 2 graczach).
+*   **Stół:** Pozostałe karty tworzą stos zakryty na środku, a wierzchnia karta z tego stosu jest odwracana i kładziona obok, tworząc stos kart odrzuconych.
+
+#### Zasady gry
+*   **Cel gry:** Pozbycie się wszystkich kart z ręki poprzez układanie ich w grupy lub serie i wyłożenie ich na stół.
+*   **Układy:**
+    *   **Grupa (meldunek):** 3 lub 4 karty o tej samej wartości (np. trzy walety).
+    *   **Sekwens:** Co najmniej 3 karty w tym samym kolorze, ułożone kolejno (np. 5, 6, 7 kier).
+*   **Działanie kart:** Asy mogą być niskie (przed dwójką) lub wysokie (po królu), zależnie od ustaleń przed grą. Jokery (jeśli używane) zastępują dowolną kartę.
+*   **Ograniczenia:** Nie wolno podglądać kart przeciwników. Nie można dobierać więcej niż jednej karty w swojej turze.
+
+#### Przebieg rozgrywki
+Rozgrywka toczy się w turach zgodnie z ruchem wskazówek zegara:
+
+1.  **Dobieranie:** Gracz rozpoczyna turę, dobierając jedną kartę – albo ze stosu zakrytego, albo wierzchnią kartę ze stosu odrzuconych.
+2.  **Wykładanie:** Jeśli gracz posiada gotowe układy (grupy lub sekwense), może wyłożyć je na stół przed siebie. Może również „dołączać” karty do już wyłożonych na stole układów (swoich lub przeciwników).
+3.  **Odrzucanie:** Tura kończy się obowiązkowym odrzuceniem jednej karty na stos kart odrzuconych (chyba że gracz wyłożył wszystkie karty, kończąc tym samym partię).
+4.  **Zakończenie:** Gra kończy się, gdy jeden z graczy pozbędzie się wszystkich kart. Pozostali gracze zliczają punkty za karty, które zostały im na rękach (karty z ręki to punkty ujemne dla nich). Wygrywa osoba, która po kilku rozdaniach zdobędzie najmniejszą sumę punktów karnych lub pierwsza osiągnie ustalony limit punktowy.

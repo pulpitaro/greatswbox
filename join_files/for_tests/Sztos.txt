@@ -1,0 +1,33 @@
+# Sztos
+
+Oto opis gry karcianej **Sztos**, zaprojektowanej z myślą o dynamice i szybkich zwrotach akcji.
+
+***
+
+### 1. Historia gry
+Gra „Sztos” wywodzi się z podziemnych turniejów w barach południowej Europy, gdzie grano nią o najwyższe stawki w rekordowo krótkim czasie. Z czasem zasady zostały uproszczone, by każdy mógł cieszyć się emocjami hazardu bez ryzyka utraty majątku. Dziś to popularna gra towarzyska, znana z bezlitosnych pojedynków na „Sztosy”.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** 2–4 osoby.
+*   **Przygotowanie:** Potasuj talię i rozdaj każdemu graczowi po 5 kart. Pozostałe karty połóż na środku (stos dobierania). Odkryj wierzchnią kartę ze stosu obok – to pole „Sztosu”.
+
+### 3. Zasady gry
+*   **Cel gry:** Jako pierwszy pozbądź się wszystkich kart z ręki.
+*   **Wartości:** Karty od 2 do 10 mają wartość nominalną. Walet = 11, Dama = 12, Król = 13, As = 14.
+*   **Działanie kart:**
+    *   **Karty o tej samej wartości:** Można dorzucać w serii (np. dwie siódemki naraz).
+    *   **As:** Karta „Sztos” – zmienia kolor (zmienia wymaganą figurę na dowolną inną).
+    *   **Walet:** Zmusza kolejnego gracza do dobrania 2 kart ze stosu.
+*   **Zakazy:** Nie wolno komentować kart innych graczy ani podpowiadać strategii. Jeśli gracz nie posiada karty pasującej do stosu „Sztosu”, musi dobrać jedną kartę z góry talii.
+
+### 4. Przebieg rozgrywki
+Rozgrywka toczy się zgodnie z ruchem wskazówek zegara:
+
+1.  **Etap otwarcia:** Gracz po lewej stronie rozdającego rozpoczyna turę.
+2.  **Tura gracza:**
+    *   Gracz musi położyć na stos „Sztosu” kartę o tej samej wartości lub wyższą niż karta leżąca na wierzchu.
+    *   Jeśli gracz ma więcej kart tej samej wartości (np. dwie ósemki), może położyć je jednocześnie.
+    *   Jeżeli gracz nie posiada odpowiedniej karty, dobiera jedną z talii. Jeśli nowa karta pasuje – może ją od razu wyłożyć. Jeśli nie – tura przechodzi na kolejną osobę.
+3.  **Akcja „Sztos”:** Jeśli gracz posiada kartę o wartości dokładnie o 1 wyższej niż karta na stosie (np. na 5 kładzie 6), mówi głośno „Sztos!” i otrzymuje prawo do wykonania dodatkowego ruchu.
+4.  **Zakończenie:** Gra kończy się natychmiast, gdy pierwszy gracz wyłoży swoją ostatnią kartę na stół. Pozostali gracze zliczają punkty za karty, które pozostały im w rękach (karty figur = 10 pkt, As = 15 pkt, reszta według wartości nominalnej) – wygrywa osoba z najniższą sumą punktów po serii rund.

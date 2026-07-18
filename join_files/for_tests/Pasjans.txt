@@ -1,0 +1,28 @@
+# Pasjans
+
+Oto opis klasycznego pasjansa (wersja najbardziej popularna, tzw. Klondike) przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### 1. Historia gry
+Początki pasjansa sięgają XVIII wieku, a jego popularność wybuchła w Europie Północnej i we Francji, gdzie przypisywano mu właściwości wróżbiarskie. W XIX wieku gra zyskała światową sławę dzięki licznym publikacjom zbiorów układanek karcianych. Obecnie kojarzona jest głównie jako cyfrowa rozrywka, spopularyzowana przez systemy operacyjne Windows.
+
+### 2. Przygotowanie do gry
+Do gry potrzebujesz standardowej talii **52 kart** (bez jokerów).
+*   **Przygotowanie stołu:** Potasuj talię i rozłóż karty w 7 kolumnach. Pierwsza kolumna zawiera 1 kartę, druga 2, trzecia 3 i tak dalej, aż do siódmej, która zawiera 7 kart.
+*   **Wierzchnia karta:** W każdej kolumnie tylko najwyższa (ostatnia) karta powinna być odwrócona awersem do góry. Resztę kart kładzie się rewersem do góry.
+*   **Stos główny:** Pozostałe karty tworzą tzw. „talon”, z którego będziesz dobierać karty w trakcie gry.
+*   **Baza:** Nad kolumnami zostaw puste miejsce na 4 stosy bazowe, na których będziesz układać karty od asa do króla.
+
+### 3. Zasady gry
+*   **Cel gry:** Ułożyć wszystkie karty w 4 stosach bazowych według kolorów, zaczynając od asa, a kończąc na królu.
+*   **Działanie kart:** Karty w kolumnach muszą być układane naprzemiennie kolorami (np. czerwona szóstka na czarną siódemkę) i w kolejności malejącej.
+*   **Ograniczenia:** Na puste miejsce po kolumnie możesz przenieść tylko króla (lub sekwencję zaczynającą się od króla). Nie wolno przesuwać pojedynczych kart w sposób dowolny – muszą one tworzyć logiczne ciągi.
+*   **Bazy:** Na stosy bazowe (u góry) przekładasz karty od asa w górę w tym samym kolorze (np. na asa kier kładziesz dwójkę kier, trójkę kier itd.).
+
+### 4. Przebieg rozgrywki
+1.  **Analiza:** Sprawdź, czy w kolumnach na stole możesz wykonać ruch (przełożyć kartę z kolumny na kolumnę lub na stos bazowy).
+2.  **Odsłanianie:** Jeśli przesuniesz kartę, która przykrywała inną, odwróć zakrytą kartę – staje się ona dostępna do gry.
+3.  **Dobieranie:** Jeśli nie masz żadnego ruchu na stole, dobieraj karty z talonu (pojedynczo lub po trzy, zależnie od wybranego wariantu). Jeśli karta z talonu pasuje do kolumny lub bazy, użyj jej.
+4.  **Kontynuacja:** Powtarzaj te czynności, aż do momentu, w którym ułożysz wszystkie karty na stosach bazowych (zwycięstwo) lub gdy żadne kolejne ruchy nie będą możliwe (porażka).
+5.  **Tura:** W pasjansie nie ma tur w tradycyjnym sensie – gra toczy się aż do zablokowania możliwości ruchu lub wygranej. Jeśli masz jeszcze karty w talonie, możesz go przetasować i zacząć dobierać od nowa (jeśli reguły danej wersji na to pozwalają).

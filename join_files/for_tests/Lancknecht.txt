@@ -1,0 +1,35 @@
+# Lancknecht
+
+Oto opis gry karcianej **Lancknecht** (często znanej również pod nazwą *Lansquenet*), przygotowany w formie przejrzystego przewodnika.
+
+---
+
+### 1. Rys historyczny
+Lancknecht to jedna z najstarszych znanych gier hazardowych, która zyskała ogromną popularność w Europie w XV i XVI wieku wśród niemieckich najemników (landsknechtów). Była grą o bardzo szybkim tempie, często rozgrywaną w obozach wojskowych przy użyciu talii 52 kart. Choć dawniej służyła do wysokich zakładów, dziś jest ceniona jako dynamiczna gra losowa dla większej grupy graczy.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 2 do dowolnej liczby (najlepiej 3–6 osób).
+*   **Bankier:** Wybieramy jedną osobę, która będzie pełniła rolę „bankiera”. Reszta graczy to „pontonierzy” (obstawiający).
+*   **Układ:** Bankier kładzie dwie odkryte karty po bokach – są to tzw. **karty ręczne**. Trzecią kartę, wyciągniętą ze środka talii, nazywamy **kartą bankiera**.
+
+### 3. Zasady gry
+*   **Cel gry:** Wygranie zakładu poprzez dopasowanie swojej karty do odpowiedniej „bazy”.
+*   **Działanie kart:**
+    *   Jeśli podczas odkrywania kart z talii pojawi się karta o tej samej wartości co jedna z kart ręcznych, wygrywa gracz obstawiający tę kartę.
+    *   Jeśli pojawi się karta o tej samej wartości co karta bankiera, wygrywa bankier.
+*   **Zasady:**
+    *   Gracze obstawiają określoną kwotę na jedną z dwóch kart ręcznych.
+    *   Nie można obstawiać karty bankiera.
+    *   Bankier ma przewagę: jeśli wylosowana karta nie pasuje do żadnej z kart ręcznych, ale pasuje do karty bankiera, bankier zgarnia wszystkie stawki.
+
+### 4. Przebieg rozgrywki
+1.  **Obstawianie:** Gracze kładą swoje stawki przy jednej z dwóch kart ręcznych (lewej lub prawej).
+2.  **Odkrywanie:** Bankier zaczyna odkrywać karty z góry talii po jednej sztuce.
+3.  **Rozstrzygnięcie:**
+    *   **Trafienie ręczne:** Jeśli odkryta karta pasuje do lewej lub prawej karty ręcznej, bankier wypłaca graczom, którzy postawili na tę kartę, równowartość ich stawki (1:1). Te karty zostają „odłożone” jako wygrane dla tej strony.
+    *   **Trafienie bankiera:** Jeśli odkryta karta pasuje do karty bankiera, bankier zgarnia wszystkie postawione w tej rundzie pieniądze.
+    *   **Brak dopasowania:** Jeśli wylosowana karta nie pasuje do żadnej z trzech leżących na stole, bankier odkłada ją na bok i odkrywa kolejną.
+4.  **Zmiana:** Po wyczerpaniu talii lub zakończeniu rundy, rola bankiera przechodzi na kolejną osobę (zazwyczaj zgodnie z ruchem wskazówek zegara) lub bankier może zostać zmieniony na własne życzenie.
+
+*Wskazówka: Lancknecht to gra oparta niemal w całości na szczęściu, dlatego kluczem do dobrej zabawy jest szybkie tempo i zachowanie dystansu do losowych wyników.*

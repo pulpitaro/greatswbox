@@ -1,0 +1,32 @@
+# Poker
+
+Oto opis gry w pokera, przygotowany w przejrzysty sposób dla Twojej bazy danych.
+
+---
+
+# Poker
+
+### Historia gry
+Początki pokera są przedmiotem sporów historyków, ale najprawdopodobniej wywodzi się on z połączenia perskiej gry *As Nas*, francuskiego *Poque* oraz niemieckiego *Pochen*. Gra zyskała ogromną popularność w Stanach Zjednoczonych w XIX wieku, szczególnie wśród żeglarzy i podróżujących statkami po rzece Missisipi. Dzisiaj poker jest uznawany za najpopularniejszą na świecie grę karcianą, łączącą elementy strategii, psychologii oraz matematycznego rachunku prawdopodobieństwa.
+
+### Przygotowanie do gry
+Aby rozpocząć rozgrywkę (w najpopularniejszą odmianę *Texas Hold'em*), potrzebujesz:
+*   **Talia kart:** Standardowa talia 52 kart (bez jokerów).
+*   **Żetony:** Służą do obstawiania zakładów; każdy kolor zazwyczaj odpowiada innej wartości.
+*   **Dealer Button:** Oznacznik „rozdającego” (może to być plastikowy krążek lub moneta), który przesuwa się zgodnie z ruchem wskazówek zegara po każdym rozdaniu.
+*   **Miejsce:** Stół dla 2 do 10 graczy.
+
+### Zasady gry
+*   **Cel gry:** Zdobycie puli (wszystkich żetonów postawionych przez graczy) poprzez stworzenie najlepszego pięciokartowego układu lub zmuszenie przeciwników do spasowania (wycofania się) poprzez licytację.
+*   **Ranking układów (od najsilniejszego):** Poker królewski, Poker, Kareta, Full, Kolor, Strit, Trójka, Dwie pary, Para, Wysoka karta.
+*   **Co wolno:** Wolno blefować (udawać silniejszą rękę), sprawdzać zakłady, podbijać (zwiększać stawkę) oraz pasować w dowolnym momencie, gdy przyjdzie twoja kolej.
+*   **Czego nie wolno:** Nie wolno pokazywać swoich kart innym graczom przed zakończeniem rozdania, rozmawiać o strategii z innymi graczami przy stole („collusion”) ani dotykać cudzych żetonów.
+
+### Przebieg rozgrywki
+Gra toczy się w czterech głównych etapach licytacji:
+
+1.  **Pre-flop:** Każdy gracz otrzymuje dwie karty zakryte (*hole cards*). Gracze po lewej stronie „dealera” wpłacają obowiązkowe zakłady (tzw. *Small Blind* i *Big Blind*). Następuje pierwsza runda licytacji.
+2.  **Flop:** Na środek stołu wykładane są trzy karty wspólne (odsłonięte). Następuje druga runda licytacji.
+3.  **Turn:** Wykładana jest czwarta karta wspólna. Następuje trzecia runda licytacji.
+4.  **River:** Wykładana jest piąta, ostatnia karta wspólna. Odbywa się finalna, czwarta runda licytacji.
+5.  **Showdown (Odsłonięcie):** Jeśli po ostatniej rundzie w grze pozostało więcej niż jeden gracz, pokazują oni swoje karty. Gracz z najlepszym pięciokartowym układem (stworzonym z dwóch własnych i pięciu wspólnych) wygrywa pulę. Jeśli ktoś postawił zakład, którego nikt nie sprawdził, wygrywa on pulę automatycznie bez pokazywania kart.

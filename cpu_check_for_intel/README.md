@@ -7,12 +7,14 @@ This tool detects **Intel Hybrid Architecture (P/E Cores)** and tracks temperatu
 To compile you can use standard `golang` compiler (Tested on ver. 1.18.x and above) using command:
 
 ```bash
+go mod tidy
 go build -o "build/intel_cpu_check" main.go
 ```
 
 or with `ldflags` to strip debugging symbols and optimize the binary size:
 
 ```bash
+go mod tidy
 go build -ldflags="-s -w" -o "build/intel_cpu_check" main.go
 ```
 
@@ -44,7 +46,7 @@ Examples:
 ## Typical problems and fixes
 
 * Problem with `golang` mod file
-* Fix: Run `go mod init [main or own module name]` and then `go mod tidy` to initialize the project context.
+* Fix: Remove `go.mod` and `go.sum` (if exist), then run `go mod init [module name]` and `go mod tidy` to initialize the project context.
 
 * Problem with execute the compiled binary file
 * Fix: Run `sudo chmod +x [binary filename]`

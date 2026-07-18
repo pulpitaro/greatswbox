@@ -1,0 +1,40 @@
+# 500
+
+Oto opis popularnej gry karcianej **500**, będącej wariantem gry w wist z elementami licytacji.
+
+---
+
+### 1. Historia gry
+Gra 500 powstała w USA na początku XX wieku (opatentowana w 1904 roku przez firmę US Playing Card Company) jako próba uatrakcyjnienia popularnego wówczas brydża. Szybko zdobyła ogromną popularność jako gra towarzyska, łącząc zasady wista z licytacją, co czyni ją dynamiczną i wymagającą myślenia taktycznego.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart, z której usuwa się niektóre karty w zależności od liczby graczy (zazwyczaj gra się w 3 osoby, używając 43 kart – usuwa się dwójki, trójki oraz czwórki poza czwórkami czerwonymi).
+*   **Liczba graczy:** Optymalnie 3 (można grać w 4, wtedy gra się parami).
+*   **Dodatki:** Kartka i długopis do zapisywania punktów.
+*   **Wartości kart:** As jest najwyższy, potem Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4 (wartość zależy od wariantu, ale tradycyjnie siła kart w kolorze atutowym jest zmieniona – najwyższym atutem jest Walet tego koloru, a drugim najwyższym Walet w kolorze o tym samym kolorze).
+
+### 3. Zasady gry
+*   **Cel gry:** Pierwszym graczem (lub parą), który osiągnie 500 punktów, wygrywa.
+*   **Działanie kart:** W trakcie licytacji wybiera się "atut" (kolor dominujący). W kolorze atutowym dwa najwyższe walety (tzw. "Bowers") są kartami nadrzędnymi: najwyższy to "Prawy Bauer" (walet w kolorze atutu), drugi to "Lewy Bauer" (walet w tym samym kolorze, np. przy atucie kier, lewym bauerem jest walet karo).
+*   **Co wolno/Czego nie wolno:**
+    *   Wymuszenie koloru: Gracz, który wygra licytację, może dokonać wymiany kart z "muszką" (kartami leżącymi na stole).
+    *   Nie wolno podglądać "muszki" przed zakończeniem licytacji.
+    *   Należy dokładać do koloru, jeśli posiada się kartę w kolorze zagranym przez pierwszego gracza.
+
+### 4. Przebieg rozgrywki
+
+**Etap 1: Rozdanie i Licytacja**
+Każdy gracz otrzymuje po 10 kart, a 3 karty kładzione są zakryte na środku („muszka”). Gracze licytują, ile lew (z 10 możliwych) zobowiązują się wziąć przy wybranym atucie (lub grze bez atutu). Licytacja zaczyna się od 6 lew.
+
+**Etap 2: Wymiana kart**
+Zwycięzca licytacji zabiera "muszkę", dodaje ją do swojej ręki i odrzuca dowolne 3 karty, tak aby znów mieć 10 kart.
+
+**Etap 3: Rozgrywka (Wykładanie lew)**
+Zwycięzca licytacji zagrywa pierwszą kartę. Gracze muszą dokładać do koloru. Jeśli nie mają karty w kolorze, mogą zagrać atut lub dowolną inną kartę. Lewę wygrywa osoba, która zagrała najwyższą kartę lub najwyższy atut.
+
+**Etap 4: Punktacja**
+*   Jeśli licytujący wygra zadeklarowaną liczbę lew, dopisuje punkty zgodnie z tabelą (wartość zależy od koloru atutu).
+*   Jeśli licytujący nie wygra zadeklarowanej liczby lew, otrzymuje punkty ujemne o wartości licytacji.
+*   Pozostali gracze otrzymują po 10 punktów za każdą wygraną przez siebie lewę.
+
+Gra toczy się do momentu, aż któryś z graczy przekroczy próg 500 punktów.

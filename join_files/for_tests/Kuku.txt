@@ -1,0 +1,33 @@
+# Kuku
+
+Oto opis gry karcianej **Kuku** przygotowany w przejrzysty sposób.
+
+---
+
+### Historia gry
+Kuku (znana również jako „Kukułka”) to popularna w Polsce i Europie Środkowej gra o długiej tradycji, wywodząca się z dawnych gier hazardowych opartych na blefie. Jej nazwa nawiązuje do okrzyku, który gracze wznoszą w momentach kluczowych dla rozgrywki. Choć posiada proste zasady, jest ceniona za dużą dawkę emocji i szybkie tempo.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 2 do 8 osób.
+*   **Cel:** Celem gry jest pozbycie się kart o niskiej wartości i uniknięcie posiadania w ręku ostatniej, najsłabszej karty w momencie, gdy ktoś inny ogłosi „Kuku!”.
+*   **Rozdanie:** Każdy gracz otrzymuje na rękę po 3 karty. Pozostałe karty tworzą stos do dobierania, a pierwsza z nich jest odkrywana i kładzie na stole, tworząc stos kart odrzuconych.
+
+### Zasady gry
+*   **Wartości kart:** As jest najwyższy, dalej król, dama, walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Działanie kart:** W podstawowej wersji gry nie ma specjalnych efektów kart – liczy się tylko ich wysokość. Gracze dążą do wymiany swoich niskich kart na wyższe, które dobierają ze stosu lub biorą od poprzedniego gracza.
+*   **Zasady:**
+    *   W swojej turze możesz wymienić jedną kartę z ręki na kartę ze stosu (odrzuconą) lub dobrać kartę z talii.
+    *   Nie wolno podglądać kart innych graczy.
+    *   Jeśli posiadasz kartę, którą chcesz się pozbyć, możesz zaproponować wymianę innemu graczowi (w zależności od wariantu – gracz zapytany musi wymienić kartę, jeśli nie posiada „ochrony”).
+    *   **Kuku:** Gdy gracz uzna, że jego karty są wystarczająco silne, by nie przegrać, mówi „Kuku!”. Od tego momentu pozostali gracze mają jeszcze jedną kolejkę, po czym następuje ujawnienie kart.
+
+### Przebieg rozgrywki
+1.  **Start:** Pierwszy gracz zaczyna wymianę lub dobieranie.
+2.  **Tura:** W każdej turze gracz decyduje:
+    *   Czy zabiera kartę odkrytą ze stołu (wymieniając ją na swoją słabszą kartę).
+    *   Czy dobiera kartę z talii (jeśli karta mu odpowiada, zatrzymuje ją i odrzuca inną; jeśli nie – odrzuca dobraną kartę).
+3.  **Wymiana:** W niektórych wariantach gracze mogą wymieniać się kartami między sobą, oferując kartę z ręki w ciemno.
+4.  **Finał:** Gdy ktoś powie „Kuku!”, wszyscy gracze mają ostatnią szansę na poprawienie swojego układu.
+5.  **Podliczanie:** Po ostatniej kolejce wszyscy odkrywają karty. Osoba z kartą o najniższej wartości przegrywa rundę.
+6.  **Koniec:** Gra toczy się do momentu, aż jeden z graczy uzbiera określoną liczbę punktów karnych (np. przegra 3 razy) i odpada z gry. Zwycięzcą zostaje osoba, która jako jedyna pozostanie „w grze”.

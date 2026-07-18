@@ -1,0 +1,31 @@
+# Minnesota wist
+
+Oto opis gry karcianej **Minnesota Wist**, przygotowany w przejrzysty sposób dla Twojej bazy danych.
+
+---
+
+### Minnesota Wist
+
+#### Historia gry
+Minnesota Wist to wariant klasycznego wista, który wyewoluował w Stanach Zjednoczonych jako gra wymagająca większego zaangażowania intelektualnego dzięki mechanice licytacji. W przeciwieństwie do tradycyjnego wista, gra ta wprowadziła element przewidywania liczby lew, co zbliża ją do późniejszych gier typu „contract bridge”.
+
+#### Przygotowanie do gry
+*   **Liczba graczy:** Gra przeznaczona jest dla 4 osób, tworzących dwie dwuosobowe drużyny (partnerzy siedzą naprzeciwko siebie).
+*   **Talia:** Pełna talia 52 kart (bez jokerów).
+*   **Starszeństwo kart:** Od najstarszego do najmłodszego: As, Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Wartość kolorów:** W licytacji kolory mają ustaloną hierarchię (od najstarszego): Pik (najwyższy), Kier, Karo, Trefl.
+
+#### Zasady gry
+*   **Cel gry:** Zdobycie deklarowanej liczby lew przez drużynę.
+*   **Działanie kart:** Obowiązuje „nakaz dokładania do koloru”. Jeśli gracz posiada kartę w kolorze, w którym rozpoczęto lewę, musi ją dołożyć. Jeśli nie posiada – może „przebić” (położyć atut) lub dołożyć dowolną inną kartę.
+*   **Ograniczenia:** Nie wolno podpowiadać partnerowi ani sugerować kart na ręce. Po zakończeniu lewy, karty leżą przed graczami do momentu rozegrania wszystkich kart.
+
+#### Przebieg rozgrywki
+1.  **Rozdanie:** Każdy gracz otrzymuje po 13 kart.
+2.  **Licytacja:** Gracze, zaczynając od osoby po lewej stronie rozdającego, deklarują liczbę lew, którą ich drużyna zobowiązuje się wziąć (minimum 7). Licytacja toczy się w kolejności hierarchii kolorów. Ostatnia oferta (najwyższa liczba lew lub wyższy kolor) staje się kontraktem.
+3.  **Wybór atutu:** Kolor, w którym wylicytowano kontrakt, staje się kolorem atutowym dla danego rozdania.
+4.  **Rozgrywka (lewy):**
+    *   Gracz siedzący po lewej stronie rozgrywającego (osoby, która wygrała licytację) wykonuje pierwszy ruch.
+    *   Gracze dokładają po jednej karcie. Lewę wygrywa osoba, która położyła najwyższą kartę w kolorze wyjścia lub najwyższy atut.
+    *   Zwycięzca lewy zbiera karty i rozpoczyna następną turę.
+5.  **Podliczenie:** Po rozegraniu wszystkich 13 lew, drużyny zliczają wygrane lewy. Jeśli drużyna zrealizowała kontrakt, otrzymuje punkty. Jeśli nie – punkty otrzymują przeciwnicy (tzw. „podkowa” lub kara za wpadkę).

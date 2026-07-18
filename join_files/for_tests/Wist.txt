@@ -1,0 +1,28 @@
+# Wist
+
+Oto opis gry karcianej **Wist** (ang. *Whist*), która jest protoplastą dzisiejszego brydża i jedną z najbardziej klasycznych gier w karty.
+
+***
+
+### 1. Zarys historii
+Wist wyewoluował w XVIII-wiecznej Anglii z popularnej wcześniej gry „Triumph” i zyskał ogromną popularność w salonach europejskiej arystokracji. Przez niemal dwa stulecia był uważany za grę dżentelmenów, stając się fundamentem, na którym później zbudowano zasady brydża.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby, grające w parach (partnerzy siedzą naprzeciwko siebie).
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Starszeństwo kart:** Od najstarszej: As, Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Przygotowanie:** Potasuj talię i rozdaj wszystkim graczom po 13 kart tak, aby każdy miał pełny wachlarz. Ostatnia karta (należąca do rozdającego) jest odkrywana i kładziona na stole – jej kolor staje się **atutem** na całą rozgrywkę.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby „lew” (grup czterech kart zagranych w jednej rundzie). Para, która zbierze więcej niż 6 lew, zdobywa punkty.
+*   **Działanie kart:** Obowiązuje nakaz dokładania do koloru. Jeśli gracz nie posiada karty w kolorze, który został zagrany jako pierwszy, może dołożyć dowolną inną kartę (w tym atut).
+*   **Atuty:** Karty w kolorze atutowym są silniejsze od wszystkich kart w kolorach nieatutowych. Wygrywają lewę, nawet jeśli mają niższą wartość liczbową niż karty w innych kolorach.
+*   **Zasady:** Nie wolno podglądać kart przeciwników ani komunikować się z partnerem w sprawie posiadanych kart.
+
+### 4. Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracz siedzący po lewej stronie rozdającego kładzie pierwszą kartę na środek stołu (tzw. wyjście do lewy).
+2.  **Tura:** Pozostali gracze, zgodnie z ruchem wskazówek zegara, dokładają po jednej karcie. Muszą pamiętać o zasadzie dokładania do koloru.
+3.  **Rozstrzygnięcie lewy:** Po zagraniu czterech kart osoba, która dołożyła najwyższą kartę w kolorze wyjściowym (lub najwyższego atuta), wygrywa lewę.
+4.  **Kontynuacja:** Zwycięzca lewy zbiera karty, kładzie je przed sobą i wykonuje wyjście do następnej lewy.
+5.  **Zakończenie:** Gra toczy się do momentu wyczerpania wszystkich 13 kart w rękach graczy.
+6.  **Punktacja:** Po zebraniu wszystkich kart, para zlicza zdobyte lewy. Za każdą lewę powyżej 6 otrzymuje się 1 punkt. Gra zazwyczaj toczy się do momentu, gdy jedna z par osiągnie ustaloną liczbę punktów (np. 5 lub 7).

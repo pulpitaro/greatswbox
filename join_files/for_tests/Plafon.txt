@@ -1,0 +1,31 @@
+# Plafon
+
+Oto opis gry karcianej **Plafon**, znanej w niektórych regionach jako wariant gry w „Tysiąca” lub „Prefera”, charakteryzującej się specyficznym sposobem licytacji i układaniem kart na stole.
+
+---
+
+### Historia gry
+Plafon wywodzi się z dawnych salonowych gier karcianych XIX-wiecznej Europy Środkowej, będąc uproszczoną i bardziej dynamiczną formą klasycznych gier w „wistowanie”. Przez lata zyskała popularność jako gra towarzyska, w której sukces zależy bardziej od umiejętności przewidywania ruchów przeciwnika niż od samego szczęścia w kartach.
+
+### Przygotowanie do gry
+*   **Talia:** Pełna talia 52 kart (od dwójek do asów). W przypadku gry w 3 osoby można usunąć dwójki i trójki (talia 40 kart).
+*   **Liczba graczy:** 2 do 4 osób.
+*   **Cel:** Zdobycie ustalonej liczby punktów (zazwyczaj 500 lub 1000) poprzez wygrywanie lew i realizację kontraktu.
+*   **Wartości kart:** As (11), Dziesiątka (10), Król (4), Dama (3), Walet (2), pozostałe karty (0).
+
+### Zasady gry
+*   **Starszeństwo:** As (najwyższy), 10, Król, Dama, Walet, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Działanie:** Gracze starają się „wziąć” jak najwięcej punktów w lewach. Kolor atutowy (jeśli jest wybrany) bije wszystkie inne karty.
+*   **Czego nie wolno:** Nie wolno podglądać kart przeciwników, nie wolno zmieniać decyzji po zagraniu karty, ani komunikować się z innymi graczami w sprawie posiadanych kart przed końcem rozdania.
+*   **Cel:** Zrealizować zadeklarowaną w licytacji liczbę punktów.
+
+### Przebieg rozgrywki
+
+1.  **Rozdanie:** Rozdający rozdaje karty zgodnie z ruchem wskazówek zegara, aż każdy gracz otrzyma po 10 kart. Pozostałe karty tworzą tzw. „plafon” (stos zakryty na środku stołu).
+2.  **Licytacja:** Gracze patrzą na swoje karty i licytują, ile punktów są w stanie zdobyć w danej rundzie. Zaczyna osoba po lewej od rozdającego. Można pasować lub przebijać wyższą liczbą punktów.
+3.  **Wybór atutu:** Gracz, który wygrał licytację, ogłasza kolor atutowy lub deklaruje grę bez atutów. Następnie odsłania wierzchnią kartę z „plafonu” – ta karta wyznacza bonus, który gracz może wziąć do ręki, odrzucając w zamian jedną ze swoich kart.
+4.  **Rozgrywka (Wykładanie lew):**
+    *   Gracz rozpoczynający kładzie dowolną kartę.
+    *   Pozostali gracze muszą dołożyć kartę w tym samym kolorze. Jeśli nie mają, muszą dołożyć atut lub dowolną inną kartę.
+    *   Wygrywający lewę (najstarsza karta) zgarnia karty do swojego stosu i rozpoczyna kolejną lewę.
+5.  **Podliczenie:** Po rozegraniu wszystkich kart gracze zliczają punkty ze swoich lew. Jeśli gracz, który wylicytował kontrakt, zdobył zadeklarowaną liczbę punktów – zapisuje je na swoje konto. Jeśli nie – punkty są odejmowane (tzw. „wpadka”). Wygrywa osoba, która jako pierwsza przekroczy próg punktowy.

@@ -1,0 +1,32 @@
+# Taroki
+
+Oto opis gry **Taroki** (często znanej również jako *Tarok* lub *Tarot*), przygotowany w przejrzystej formie.
+
+---
+
+### 1. Zarys historii
+Taroki wywodzą się z Włoch XV wieku, gdzie pierwotnie służyły do celów rozrywkowych, a nie wróżbiarskich. Z czasem gra ewoluowała, rozprzestrzeniając się w Europie Środkowej, szczególnie w krajach byłej Monarchii Austro-Węgierskiej, gdzie stała się grą narodową. Dziś uznawana jest za jedną z najbardziej złożonych i strategicznych gier karcianych na świecie.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Potrzebujesz specjalnej talii 54 kart do taroka (lub 78 w wersji klasycznej, zależnie od wariantu – najpopularniejszy wariant turniejowy to talia 54-kartowa).
+*   **Gracze:** Optymalna liczba to 3 lub 4 osoby.
+*   **Miejsce:** Stolik, na którym można swobodnie rozłożyć karty w wachlarz.
+*   **Dodatki:** Kartka i ołówek do zapisywania punktów.
+*   **Dystrybucja:** Rozdający (wybrany losowo) rozdaje wszystkim graczom równą liczbę kart, a pozostałe karty tworzą tzw. „talon” (stos na środku).
+
+### 3. Zasady gry
+*   **Działanie kart:**
+    *   **Taroki (Atuty):** Karty specjalne, które przebijają wszystkie inne kolory. Najważniejszymi atutami są: *Pagat* (I), *Mond* (XXI) oraz *Skiz* (Głupiec).
+    *   **Kolory:** Pozostałe karty (pik, kier, karo, trefl) mają wartości punktowe, ale w hierarchii zawsze ustępują tarokom.
+*   **Cel gry:** Celem jest zebranie jak największej liczby punktów w lewach (kartach zebranych z każdego rozdania) oraz poprawne zadeklarowanie kontraktu.
+*   **Czego nie wolno:** Nie wolno podglądać kart przeciwników ani zdradzać zawartości swojej ręki przed wyłożeniem karty. Należy obowiązkowo dokładać kartę w kolorze karty zagranej przez pierwszego gracza (jeśli nie masz koloru, dokładasz atut).
+
+### 4. Przebieg rozgrywki
+Gra składa się z czterech głównych faz:
+
+1.  **Licytacja:** Gracze na podstawie otrzymanych kart zgłaszają kontrakty (np. "jedynka", "dwojka" itd.). Określa to, czy gracz gra sam, czy z partnerem (w zależności od wariantu) oraz ile punktów musi zdobyć.
+2.  **Talon i wymiana:** Zwycięzca licytacji może wymienić część swoich kart z talonem, aby wzmocnić swój układ.
+3.  **Rozgrywka (branie lew):** Pierwszy gracz zagrywa kartę. Pozostali muszą dołożyć kartę w tym samym kolorze. Jeśli nie mają – muszą dorzucić atut (taroka). Gracz, który wyłożył najwyższą kartę (atut lub najwyższy kolor), zabiera „lewę” na swój stos.
+4.  **Podliczanie:** Po zebraniu wszystkich kart, gracze zliczają punkty na podstawie wartości zebranych kart (karty figurują jako wartości liczbowe). Zwycięzca licytacji wygrywa rundę, jeśli zrealizował swój kontrakt, w przeciwnym razie punkty przypisuje się przeciwnikom.
+
+*Uwaga: W zależności od regionu (np. Polska, Czechy, Austria) zasady punktacji i liczebność talii mogą się różnić – powyższy opis odnosi się do standardowego modelu gry towarzyskiej.*

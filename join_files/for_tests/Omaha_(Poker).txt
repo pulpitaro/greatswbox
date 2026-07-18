@@ -1,0 +1,37 @@
+# Omaha (Poker)
+
+Oto opis gry w pokera w odmianie Omaha, przygotowany z myślą o przejrzystej bazie wiedzy.
+
+---
+
+### 1. Zarys historii
+Omaha wywodzi się z wariantu pokera znanego jako "Twice Three", który zyskał popularność w Stanach Zjednoczonych w latach 80. XX wieku. Swoją nazwę zawdzięcza kasynu w Detroit (Golden Nugget), gdzie wprowadzono ją po raz pierwszy, a z czasem stała się drugą najpopularniejszą odmianą pokera na świecie zaraz po Texas Hold'em.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Gracze:** Zazwyczaj od 2 do 10 osób przy jednym stole.
+*   **Żetony:** Potrzebny jest zestaw żetonów reprezentujących wartość pieniężną (lub punktową).
+*   **Dealer Button:** Znacznik (tzw. "button"), który oznacza wirtualnego rozdającego i przesuwa się zgodnie z ruchem wskazówek zegara po każdym rozdaniu.
+*   **Blindy:** Przed rozdaniem dwaj gracze po lewej stronie dealera wnoszą obowiązkowe zakłady w ciemno (*Small Blind* i *Big Blind*).
+
+### 3. Zasady gry
+*   **Cel gry:** Celem jest wygranie puli poprzez ułożenie najsilniejszego układu pięciokartowego lub zmuszenie przeciwników do spasowania (odrzucenia kart).
+*   **Kluczowa zasada (Złota zasada Omahy):** Każdy gracz otrzymuje na rękę **4 karty zakryte** (*hole cards*). Aby stworzyć układ, gracz **musi** użyć dokładnie **dwóch** kart ze swojej ręki oraz dokładnie **trzech** kart wspólnych ze stołu (to najważniejsza różnica względem Texas Hold'em).
+*   **Ranking układów:** Obowiązuje standardowa hierarchia układów pokerowych (od najwyższego: Poker królewski, Poker, Kareta, Full, Kolor, Strit, Trójka, Dwie pary, Para, Wysoka karta).
+
+### 4. Przebieg rozgrywki
+Gra składa się z czterech rund licytacji:
+
+1.  **Pre-flop:** Każdy gracz otrzymuje 4 karty zakryte. Następuje pierwsza runda licytacji, zaczynając od gracza siedzącego po lewej stronie Big Blinda.
+2.  **Flop:** Na stole wykładane są 3 karty wspólne (odkryte). Następuje druga runda licytacji.
+3.  **Turn:** Na stole wykładana jest czwarta karta wspólna. Następuje trzecia runda licytacji.
+4.  **River:** Na stole wykładana jest piąta, ostatnia karta wspólna. Następuje finałowa runda licytacji.
+
+**Akcje w trakcie licytacji:**
+*   **Check (Czekanie):** Jeśli nikt przed Tobą nie postawił żetonów, możesz czekać bez dodawania żetonów do puli.
+*   **Bet (Zakład):** Postawienie żetonów jako pierwszy w rundzie.
+*   **Call (Sprawdzenie):** Wyrównanie zakładu postawionego przez innego gracza.
+*   **Raise (Podbicie):** Zwiększenie kwoty zakładu.
+*   **Fold (Spasowanie):** Odrzucenie kart i wycofanie się z bieżącego rozdania (tracisz wszystkie żetony włożone do puli).
+
+**Showdown:** Jeśli po ostatniej rundzie licytacji w grze zostaje więcej niż jedna osoba, następuje pokazanie kart. Wygrywa gracz z najsilniejszym układem (pamiętając o zasadzie 2 karty z ręki + 3 ze stołu). Jeśli układy są identyczne, pula jest dzielona.

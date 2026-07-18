@@ -1,0 +1,31 @@
+# Pan
+
+Oto opis popularnej polskiej gry karcianej **„Pan”** przygotowany w przejrzysty sposób.
+
+---
+
+### 1. Historia gry
+„Pan” to klasyczna, polska gra karciana o charakterze towarzyskim, której korzenie wywodzą się z popularnych w Europie Środkowej gier typu „pozbądź się kart”. Choć nie posiada precyzyjnie udokumentowanej daty powstania, od pokoleń stanowi nieodłączny element spotkań rodzinnych i integracyjnych. Jest ceniona za prostotę zasad oraz dynamiczną rozgrywkę, w której szczęście przeplata się ze strategią.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (od dwójek do asów).
+*   **Liczba graczy:** Od 2 do 6 osób.
+*   **Cel:** Pierwsze pozbycie się wszystkich kart z ręki.
+*   **Rozdanie:** Rozdający tasuje karty i rozdaje każdemu graczowi równą liczbę kart (jeśli karty nie dzielą się równo, pozostałe tworzą stos dobierania). Każdy gracz otrzymuje również po 3 karty „zakryte” (leżące przed nim na stole, awersem do dołu) oraz 3 karty „odkryte” (leżące na zakrytych, awersem do góry). Resztę kart trzymamy w ręce.
+
+### 3. Zasady gry i działanie kart
+*   **Hierarchia:** Karty układa się rosnąco: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A.
+*   **Działanie kart specjalnych:**
+    *   **2:** „Czyści” stos (można położyć na każdą kartę, po zagraniu dwójki stos odkłada się na bok, a gracz, który ją położył, wykonuje kolejny ruch).
+    *   **10:** „Czyści” stos (działa tak samo jak dwójka).
+    *   **As:** Przebija każdą kartę (poza 2 i 10, chyba że as zostanie położony na nie jako wyższa karta).
+*   **Zasada „Panowania”:** Jeśli gracz położy cztery karty o tej samej wartości (np. cztery dziewiątki) jedna po drugiej lub w jednym ruchu, stos również zostaje wyczyszczony.
+*   **Zakaz:** Nie wolno zagrywać karty niższej niż ta, która aktualnie leży na wierzchu stosu (chyba że używamy karty specjalnej).
+
+### 4. Przebieg rozgrywki
+1.  **Etap ręki:** Rozgrywkę zaczyna osoba, która posiada najniższą kartę (zazwyczaj dwójkę lub trójkę). Gracze kolejno kładą na stos kartę o wartości równej lub wyższej od poprzedniej. Jeśli gracz nie może wykonać ruchu, musi zabrać cały stos kart ze stołu do ręki.
+2.  **Etap kart odkrytych:** Gdy gracz wyzbędzie się wszystkich kart z ręki, przechodzi do kart leżących przed nim na stole (najpierw musi „ograć” karty odkryte).
+3.  **Etap kart zakrytych:** Gdy skończą się karty odkryte, gracz zaczyna losowo podnosić karty zakryte. Nie wie, co podnosi – jeśli karta pozwala na ruch, zagrywa ją, jeśli nie – musi zabrać cały stos kart ze stołu.
+4.  **Zakończenie:** Gra toczy się do momentu, aż na placu boju zostanie tylko jeden gracz z kartami. Zostaje on okrzyknięty „Panem” (przegranym).
+
+*Uwaga: W zależności od regionu zasady dotyczące asów lub liczby kart specjalnych mogą się nieznacznie różnić – warto ustalić je przed rozpoczęciem partii!*

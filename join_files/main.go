@@ -56,11 +56,11 @@ func main() {
 	var finalBuilder strings.Builder
 	runes := []rune(templateStr)
 	length := len(runes)
-	
+
 	var currentBlock strings.Builder
 	inBlock := false
 
-	// Single-pass parser to extract literal text and placeholder targets {}
+	// Single-pass parser optimized to avoid nested rune slice casting
 	for i := 0; i < length; i++ {
 		r := runes[i]
 
@@ -77,8 +77,7 @@ func main() {
 				fmt.Fprintln(os.Stderr, "Error: Unmatched closing bracket '}'.")
 				os.Exit(1)
 			}
-			
-			// targetPath processed out of the block context
+
 			targetPath := strings.TrimSpace(currentBlock.String())
 			currentBlock.Reset()
 			inBlock = false
@@ -87,7 +86,6 @@ func main() {
 				continue
 			}
 
-			// Clean any internal escapes that could reside in target path names
 			targetPath = parseEscapeSequences(targetPath)
 
 			fileData, err := processTarget(targetPath, *dirFlag, *devFlag, *extFlag, parsedPrefix, parsedSuffix)
@@ -97,12 +95,13 @@ func main() {
 			}
 			finalBuilder.WriteString(fileData)
 		} else {
-			// FIX: Safe multi-byte rune backslash removal for literal printing of \{ or \}
+			// Efficiently handle backslash escapes for brackets without full-slice re-allocations
 			if (r == '{' || r == '}') && i > 0 && runes[i-1] == '\\' {
-				blockRunes := []rune(currentBlock.String())
-				if len(blockRunes) > 0 {
-					currentBlock.Reset()
-					currentBlock.WriteString(string(blockRunes[:len(blockRunes)-1]))
+				// We already wrote the '\' in the previous iteration. We need to replace/remove it.
+				str := currentBlock.String()
+				currentBlock.Reset()
+				if len(str) > 0 {
+					currentBlock.WriteString(str[:len(str)-1]) // Safe slice of ASCII backslash
 				}
 			}
 			currentBlock.WriteRune(r)
@@ -120,7 +119,6 @@ func main() {
 	fmt.Println(finalBuilder.String())
 }
 
-// processTarget checks if the target path is a file or folder and processes it accordingly
 func processTarget(path string, allowDir, devMode bool, extFilter, prefix, suffix string) (string, error) {
 	info, err := os.Stat(path)
 	if err != nil {
@@ -136,7 +134,6 @@ func processTarget(path string, allowDir, devMode bool, extFilter, prefix, suffi
 			fmt.Fprintf(os.Stderr, "[DEV] Merging directory target: %s\n", path)
 		}
 
-		// Normalize filter format (ensure it starts with a dot unless it's a wildcard)
 		filter := strings.ToLower(extFilter)
 		if filter != "*" && filter != "all" && filter != "" && !strings.HasPrefix(filter, ".") {
 			filter = "." + filter
@@ -151,7 +148,6 @@ func processTarget(path string, allowDir, devMode bool, extFilter, prefix, suffi
 				return nil
 			}
 
-			// Match extension filter
 			fileExt := strings.ToLower(filepath.Ext(d.Name()))
 			shouldProcess := filter == "*" || filter == "all" || filter == "" || fileExt == filter
 
@@ -164,14 +160,13 @@ func processTarget(path string, allowDir, devMode bool, extFilter, prefix, suffi
 			}
 			return nil
 		})
-		
+
 		return dirBuilder.String(), err
 	}
 
 	return readFileWithMetadata(path, devMode, prefix, suffix)
 }
 
-// readFileWithMetadata loads a file and injects contextual macros into prefixes/suffixes
 func readFileWithMetadata(path string, devMode bool, prefix, suffix string) (string, error) {
 	if devMode {
 		fmt.Fprintf(os.Stderr, "[DEV] Reading file stream: %s\n", path)
@@ -196,9 +191,7 @@ func readFileWithMetadata(path string, devMode bool, prefix, suffix string) (str
 	return localPrefix + string(data) + localSuffix, nil
 }
 
-// applyMacros replaces custom structural strings with actual metadata values
 func applyMacros(target, name, ext, relPath, absPath string) string {
-	// FIX: Longest matching macro (\full_path) must be handled BEFORE the shorter substring macro (\path)
 	res := strings.ReplaceAll(target, `\full_path`, absPath)
 	res = strings.ReplaceAll(res, `\path`, relPath)
 	res = strings.ReplaceAll(res, `\name`, name)
@@ -206,7 +199,6 @@ func applyMacros(target, name, ext, relPath, absPath string) string {
 	return res
 }
 
-// parseEscapeSequences manually decodes standard control characters like \n and \t
 func parseEscapeSequences(s string) string {
 	s = strings.ReplaceAll(s, `\n`, "\n")
 	s = strings.ReplaceAll(s, `\t`, "\t")
@@ -214,7 +206,6 @@ func parseEscapeSequences(s string) string {
 	return s
 }
 
-// printHelp displays the dynamic formatting instructions for the user terminal
 func printHelp() {
 	fmt.Println(`joinf - Continuous Text Concatenation Utility via F-Strings
 
@@ -224,15 +215,14 @@ Usage:
 Flags:
   -h            Show this help manual
   -d            Process entire directory structure if a directory path is found inside {}
-  -dev         Enable developer mode with dynamic tracking logs on stderr
+  -dev          Enable developer mode with dynamic tracking logs on stderr
   -ext          Extension filter for -d mode (default: ".txt", use "*" or "all" to merge everything)
-  -prefix      String tokens to insert BEFORE each processed file block
-  -suffix      String tokens to insert AFTER each processed file block
+  -prefix       String tokens to insert BEFORE each processed file block
+  -suffix       String tokens to insert AFTER each processed file block
 
 Macros allowed inside --prefix and --suffix (Triggered per-file context):
   \name         Outputs the file name (e.g., source.txt)
   \ext          Outputs the file extension (e.g., .txt)
   \path         Outputs the relative directory path from execution scope
-  \full_path    Outputs the absolute computed path from filesystem root
-`)
+  \full_path    Outputs the absolute computed path from filesystem root`)
 }

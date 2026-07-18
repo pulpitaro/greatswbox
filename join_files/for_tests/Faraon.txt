@@ -1,0 +1,38 @@
+# Faraon
+
+Oto opis gry karcianej „Faraon” przygotowany w przejrzysty sposób.
+
+---
+
+### 1. Historia gry
+Faraon to popularna w Polsce gra karciana, wywodząca się z rodziny gier typu „zrzutki”, do której należy również światowy hit – UNO. Jej korzenie sięgają gier takich jak brytyjskie *Crazy Eights* (szalone ósemki), które ewoluowały w lokalne warianty z użyciem standardowej talii kart. Gra cieszy się niesłabnącą popularnością dzięki prostym zasadom i dużej dawce negatywnej interakcji.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 2 do 5 osób.
+*   **Cel:** Pozbyć się wszystkich kart z ręki jako pierwszy.
+*   **Rozdanie:** Każdy gracz otrzymuje po 5 kart. Pozostałe karty kładzie się na środku (tzw. „stos główny” lub „kupka”), a jedną kartę z góry odsłania się obok – to początek „stosu wyrzuconych”.
+
+### 3. Zasady gry
+W swojej turze możesz położyć na stosie kartę, która pasuje do wierzchniej karty pod względem **koloru** (kier, karo, trefl, pik) lub **figury** (np. 9 na 9, walet na waleta).
+
+**Karty specjalne (akcyjne):**
+*   **As:** Zmienia kolor gry na wybrany przez gracza, który go położył.
+*   **Walet:** Gracz prosi o konkretną figurę (np. „proszę o damy”). Następny gracz musi położyć daną figurę lub dobrać kartę.
+*   **Dama:** „Hamulec”. Jeśli gracz położy damę, może położyć na nią jeszcze jedną kartę (dowolną), co pozwala pozbyć się dodatkowej karty.
+*   **Król (pikowy):** Najmocniejsza karta; gracz, na którego została wyrzucona, musi dobrać 5 kart.
+*   **Król (kierowy):** Gracz, na którego została wyrzucona, musi dobrać 1 kartę.
+*   **Ósemka:** Gracz tracący kolejkę (traci turę).
+*   **Dwójka:** Gracz, na którego została wyrzucona, musi dobrać 2 karty.
+
+**Czego nie wolno:**
+*   Nie wolno zagrywać karty, która nie pasuje kolorem ani figurą (chyba że używasz asa lub waleta).
+*   Nie wolno podpowiadać innym graczom.
+
+### 4. Przebieg rozgrywki
+1.  **Start:** Gracz siedzący po lewej stronie rozdającego rozpoczyna grę.
+2.  **Tura:** Gracz dokłada pasującą kartę na stos wyrzuconych. Jeśli nie ma pasującej karty, musi pobrać jedną kartę ze stosu głównego. Jeśli pobrana karta pasuje, może ją od razu położyć. Jeśli nie – tura przechodzi na kolejną osobę.
+3.  **Koniec talii:** Jeśli stos główny się skończy, należy przetasować stos wyrzuconych (zostawiając tylko wierzchnią kartę) i utworzyć z nich nowy stos do dobierania.
+4.  **Wygrana:** Gra kończy się, gdy jeden z graczy pozbędzie się wszystkich swoich kart. Pozostali gracze mogą dokończyć partię, aby ustalić kolejne miejsca („Faraon” kończy się, gdy zostaje jeden przegrany z kartami na ręku).
+
+*Wskazówka: W niektórych wariantach gracze muszą wypowiedzieć słowo „Faraon”, gdy zostaje im ostatnia karta w ręku. Jeśli zapomną to zrobić przed położeniem przedostatniej karty, muszą dobrać karne karty.*

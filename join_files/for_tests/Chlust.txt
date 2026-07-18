@@ -1,0 +1,27 @@
+# Chlust
+
+Oto opis gry karcianej **„Chlust”**, dynamicznej gry typu *party game*, w której refleks i szybkość są ważniejsze niż skomplikowana strategia.
+
+---
+
+### 1. Zarys historii
+Gra „Chlust” wywodzi się z nadmorskich tawern, gdzie marynarze w chwilach nudy rzucali karty do kufli z piwem, by rozstrzygnąć, kto płaci za kolejną rundę. Z czasem brutalna zasada „chlustania” napojem została zastąpiona bezpieczniejszym uderzeniem dłonią w stos kart, co uczyniło grę popularną rozrywką towarzyską. Dziś to szybki sprawdzian spostrzegawczości, w którym liczy się tylko jedno: nie przegapić odpowiedniego momentu.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Gracze:** Od 2 do 6 osób.
+*   **Miejsce:** Płaska powierzchnia (stół).
+*   **Przygotowanie:** Potasuj talię i rozdaj wszystkie karty między graczy w zakrytych stosach. Każdy gracz trzyma swój stos przed sobą, nie patrząc na karty.
+
+### 3. Zasady gry
+*   **Cel gry:** Celem jest pozbycie się wszystkich kart z ręki lub zebranie całej talii (zależnie od wariantu zakończenia).
+*   **Działanie kart:** Każda karta ma wartość (od 2 do Asa). W tej grze kolory (kier, karo itp.) nie mają znaczenia.
+*   **Zasada „Chlustu”:** Jeśli na stole pojawią się dwie karty o tej samej wartości pod rząd (np. dwie siódemki jedna po drugiej), gracze muszą jak najszybciej uderzyć dłonią w stos kart na środku.
+*   **Czego nie wolno:** Nie wolno podglądać swoich kart przed zagraniem. Uderzenie w stos, gdy nie ma „Chlustu” (tzw. „fałszywy chlust”), skutkuje karą – gracz, który się pomylił, musi oddać jedną swoją kartę z ręki na spód stosu głównego.
+
+### 4. Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracze kolejno (zgodnie z ruchem wskazówek zegara) wykładają po jednej karcie ze swojego stosu na środek stołu, tworząc tzw. „stos główny”. Karty kładzie się odkryte.
+2.  **Akcja:** Gracze zagrywają karty błyskawicznie. Jeśli w dowolnym momencie na stosie głównym wylądują dwie karty o tej samej wartości (np. 10 i 10), gracze muszą jak najszybciej położyć dłoń na stosie.
+3.  **Nagroda:** Gracz, którego dłoń jako pierwsza dotknie kart, zabiera cały stos główny i dokłada go na spód swojego stosu (zwiększając tym samym liczbę swoich kart).
+4.  **Kontynuacja:** Gra toczy się dalej od osoby, która wygrała stos (zaczyna ona nową kolejkę wykładania kart).
+5.  **Eliminacja:** Jeśli gracz straci wszystkie karty, odpada z gry. Zwycięzcą zostaje osoba, która przejmie wszystkie karty w talii.

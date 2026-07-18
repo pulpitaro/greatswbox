@@ -1,0 +1,30 @@
+# Oszust
+
+Oto opis popularnej gry karcianej „Oszust” (znanej również jako „Wierzę – nie wierzę”), przygotowany w czytelnym formacie.
+
+---
+
+### 1. Historia gry
+„Oszust” to klasyczna gra towarzyska o nieustalonym pochodzeniu, która zyskała ogromną popularność dzięki swojej prostocie i naciskowi na psychologię graczy. Jej głównym celem jest zmylenie przeciwników i pozbycie się kart poprzez blefowanie, co czyni ją grą opartą bardziej na „czytaniu” ludzi niż na szczęściu w kartach.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Zwykła talia 52 kart (bez jokerów). W przypadku dużej liczby graczy (powyżej 5 osób) można użyć dwóch talii.
+*   **Liczba graczy:** Od 2 do 6 (optymalnie 3–5).
+*   **Rozdanie:** Wszystkie karty należy rozdać po równo między graczy. Nie martw się, jeśli ktoś otrzyma o jedną kartę więcej – w tej grze nie ma to znaczenia dla wyniku.
+
+### 3. Zasady gry
+*   **Cel gry:** Pozbycie się wszystkich swoich kart jako pierwszy.
+*   **Działanie kart:** Gracze wykładają karty na środek stołu „koszulkami” do góry, deklarując ich wartość (np. „dwie damy”).
+*   **Zasady uczciwości:** Możesz położyć dowolne karty, pod warunkiem, że deklarujesz ich wartość zgodnie z aktualną kolejką (lub kłamiesz).
+*   **Oskarżenie:** Każdy gracz w dowolnym momencie (zanim kolejna osoba dołoży swoje karty) może powiedzieć: **„Oszust!”**.
+    *   Jeśli sprawdzany gracz skłamał – zabiera cały stos kart ze środka.
+    *   Jeśli sprawdzany gracz mówił prawdę – osoba, która rzuciła oskarżenie, zabiera cały stos.
+
+### 4. Przebieg rozgrywki
+1.  **Start:** Pierwszy gracz zaczyna, wykładając na środek dowolną liczbę kart (np. od jednej do czterech) i deklarując ich wartość (np. „Asy”).
+2.  **Kolejność:** Kolejni gracze muszą dokładać karty o tej samej wartości co poprzednik (np. jeśli poprzednik powiedział „Asy”, następny też musi deklarować „Asy”), ale mogą to być karty dowolne (blef) lub faktycznie asy.
+3.  **Kolejne tury:** Gracze poruszają się zgodnie z ruchem wskazówek zegara. Jeśli ktoś nie chce dokładać kart, może spasować, jednak musi wtedy poczekać na kolejną rundę.
+4.  **Sprawdzanie (Oszust):** W każdym momencie, gdy ktoś wyłoży karty, następny gracz ma prawo powiedzieć „Oszust!”. Następuje wtedy weryfikacja kart:
+    *   Odkrywa się karty wyłożone przez osobę oskarżoną.
+    *   Osoba, która przegrała sprawdzanie, bierze wszystkie karty ze stosu do ręki.
+5.  **Koniec:** Gra toczy się do momentu, aż jeden z graczy pozbędzie się wszystkich swoich kart. Osoba ta zostaje zwycięzcą.

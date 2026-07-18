@@ -1,0 +1,29 @@
+# Dupa biskupa
+
+Oto opis popularnej, polskiej gry towarzyskiej „Dupa biskupa”, charakteryzującej się dużą dynamiką i elementami blefu.
+
+---
+
+### Historia gry
+„Dupa biskupa” to tradycyjna polska gra karciana, której korzenie wywodzą się z kultury studenckiej i żołnierskiej, gdzie ceniono gry szybkie oraz wymagające czujności. Choć nazwa może wydawać się kontrowersyjna, w rzeczywistości odnosi się do humorystycznego elementu zaskoczenia, który jest wpisany w mechanikę rozgrywki. Gra przetrwała dekady jako popularny sposób na szybką integrację w większym gronie.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 3 do 8 osób.
+*   **Miejsce:** Dowolny stół, przy którym gracze mogą swobodnie kłaść karty.
+*   **Cel:** Pozbycie się wszystkich kart z ręki.
+*   **Przygotowanie:** Potasuj karty i rozdaj je po równo między wszystkich graczy. Jeśli karty nie dzielą się idealnie, jeden lub dwóch graczy może mieć o jedną kartę więcej – nie ma to wpływu na szanse wygranej.
+
+### Zasady gry
+*   **Hierarchia:** W tej grze wartości kart mają przypisane nazwy, które należy wypowiadać w odpowiedniej kolejności (najczęściej: As, 2, 3, 4, 5, 6, 7, 8, 9, 10, Walet, Dama, Król).
+*   **Zasada „Dupa biskupa”:** Jeśli karta wyłożona przez gracza zgadza się z nazwą, którą gracz w tym momencie wypowiada, wszyscy gracze muszą natychmiast położyć dłoń na stosie kart. Ostatnia osoba, która to zrobi, zabiera cały stos do swojej ręki.
+*   **Blef:** Gracz może wyłożyć kartę, która nie zgadza się z wypowiadaną nazwą (np. wyłożyć 5, mówiąc „As”). Jeśli inni gracze tego nie zauważą, gra toczy się dalej. Jeśli ktoś podważy uczciwość gracza i okaże się, że ten kłamał – musi on zabrać cały stos. Jeśli jednak sprawdzający się pomylił – stos zabiera sprawdzający.
+
+### Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracz po lewej stronie rozdającego zaczyna, kładąc kartę zakrytą na środek stołu i mówiąc „As”.
+2.  **Kolejka:** Kolejni gracze wykładają swoje karty po kolei, wypowiadając następne wartości (2, 3, 4... aż do Króla, po którym ponownie zaczyna się od Asa).
+3.  **Reakcje:**
+    *   Jeśli karta pasuje do nazwy i nikt nie zauważył – gra toczy się dalej.
+    *   Jeśli karta pasuje do nazwy – następuje „odruchowa” reakcja kładzenia ręki na stos (kto ostatni, ten zabiera karty).
+    *   Jeśli ktoś podejrzewa oszustwo – mówi „Sprawdzam!”. Jeśli gracz skłamał, zabiera karty. Jeśli gracz mówił prawdę, „sprawdzający” zabiera karty.
+4.  **Koniec gry:** Gra kończy się, gdy jeden z graczy pozbędzie się wszystkich swoich kart. Pozostali gracze kontynuują rozgrywkę do momentu, aż wyłoni się osoba, która została z największą liczbą kart (często nazywana „przegranym”).

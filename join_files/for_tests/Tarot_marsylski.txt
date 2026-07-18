@@ -1,0 +1,34 @@
+# Tarot marsylski
+
+Oto opis gry w Tarot marsylski, przygotowany w przystępny sposób dla użytkownika budującego bazę danych gier.
+
+# Tarot marsylski
+
+### Historia gry
+Tarot marsylski to jedna z najstarszych i najbardziej ikonicznych talii kart, której standardowy wzór utrwalił się w XVII-wiecznej Francji. Choć obecnie kojarzony głównie z ezoteryką i wróżbiarstwem, pierwotnie służył jako pełnoprawna gra karciana typu „branie lew” (podobnie jak brydż czy tarot francuski). Jest on uważany za fundament europejskiej tradycji kart tarota.
+
+### Przygotowanie do gry
+Do gry potrzebujesz talii 78 kart, podzielonej na dwie główne sekcje:
+1. **Arkana Wielkie (22 karty):** Figury o znaczeniu symbolicznym (np. Głupiec, Mag, Śmierć).
+2. **Arkana Małe (56 kart):** Podzielone na cztery kolory (Buławy, Kielichy, Miecze, Denary), gdzie każdy kolor zawiera karty numerowane od Asa do 10 oraz cztery figury (Walet, Rycerz, Dama, Król).
+*   **Liczba graczy:** Zazwyczaj 4 osoby (grające w parach lub każdy na siebie).
+*   **Stół:** Wystarczy płaska powierzchnia, na której gracze będą kłaść swoje karty.
+
+### Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby punktów poprzez wygrywanie lew (kolejek) zawierających wartościowe karty.
+*   **Działanie kart:** Arkana Wielkie pełnią rolę atutów (przebijają karty z Arkanów Małych). Wśród nich najważniejszy jest „Głupiec” (często działa jako karta specjalna, tzw. „wymówka”).
+*   **Co wolno i czego nie wolno:** 
+    *   Wymagane jest dokładanie do koloru, jeśli masz kartę w danym kolorze. 
+    *   Jeśli nie masz karty w wymaganym kolorze, możesz użyć atutu (Arkanów Wielkich).
+    *   Nie wolno podglądać kart przeciwników ani wymieniać się informacjami przed zakończeniem licytacji.
+
+### Przebieg rozgrywki
+Rozgrywka dzieli się na trzy główne etapy:
+
+1. **Rozdanie:** Rozdający rozdaje wszystkie karty (po równo każdemu graczowi). Część kart może trafić do tzw. „talonu” (puli zakrytych kart na środku).
+2. **Licytacja:** Gracze deklarują, czy chcą podjąć wyzwanie zdobycia określonej liczby punktów. Osoba z najwyższą deklaracją staje się „rozgrywającym” i może (w zależności od wariantu) wymienić swoje karty z talonem.
+3. **Rozgrywka (branie lew):** 
+    *   Gracze po kolei wykładają po jednej karcie na środek stołu.
+    *   Osoba, która położyła najwyższą kartę w kolorze lub najsilniejszy atut, zabiera całą „lewę” (zbiór wyłożonych kart) i odkłada ją na swój stos punktowy.
+    *   Zwycięzca lewy rozpoczyna kolejną turę.
+4. **Podliczanie:** Po zagraniu wszystkich kart z ręki, gracze sumują punkty zebrane w lewach. Wygrywa osoba (lub para), która osiągnęła cel zadeklarowany podczas licytacji.

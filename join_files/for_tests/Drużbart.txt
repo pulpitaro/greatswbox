@@ -1,0 +1,33 @@
+# Drużbart
+
+Oto opis gry karcianej **Drużbart**, zaprojektowany z myślą o przejrzystości i łatwości wdrożenia do bazy danych.
+
+***
+
+### 1. Historia gry
+Drużbart wywodzi się z dawnych karczemnych rozgrywek na pograniczu królestw, gdzie handlarze rozstrzygali spory o pierwszeństwo w dostępie do rynku. Legenda głosi, że nazwa pochodzi od połączenia słów „drużba” oraz „bart” (dawne określenie ciężaru), co symbolizuje konieczność współpracy przy dźwiganiu wspólnego ciężaru kart. Dziś to szybka i emocjonująca gra strategiczna, w której liczy się przewidywanie ruchów przeciwnika.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez Jokerów).
+*   **Liczba graczy:** 2–4 osoby.
+*   **Przygotowanie:**
+    1.  Potasuj talię i rozdaj każdemu graczowi po 5 kart.
+    2.  Pozostałe karty połóż zakryte na środku jako stos dobierania (zwanym „Spiżarnią”).
+    3.  Odsłoń wierzchnią kartę ze Spiżarni i połóż ją obok – to początek „Stosu Drużbartów”.
+
+### 3. Zasady gry
+*   **Cel gry:** Jako pierwszy pozbądź się wszystkich kart z ręki.
+*   **Działanie kart:** Karty o tym samym kolorze lub tej samej wartości co wierzchnia karta na stosie mogą być na nią kładzione. Figury mają specjalne moce:
+    *   **Walet:** Zmusza kolejnego gracza do dobrania 2 kart (chyba że przebije innym Waletem).
+    *   **Dama:** Pozwala zmienić aktualny kolor gry na dowolny inny.
+    *   **Król:** Odwraca kierunek rozgrywki.
+*   **Czego nie wolno:** Nie wolno zagrywać więcej niż jednej karty w turze, chyba że gracz posiada dokładnie takie same karty (np. dwa Asy pik), wtedy może wyłożyć oba naraz.
+*   **Kary:** Jeśli gracz nie może wykonać ruchu, musi dobrać jedną kartę ze Spiżarni. Jeśli karta pasuje – może ją od razu wyłożyć.
+
+### 4. Przebieg rozgrywki
+Gra toczy się zgodnie z ruchem wskazówek zegara i składa się z powtarzalnych tur:
+
+1.  **Etap zagrania:** W swojej turze gracz próbuje dopasować kartę z ręki do karty leżącej na górze Stosu Drużbartów (kolorem lub wartością).
+2.  **Etap efektu:** Jeśli gracz zagrał figurę specjalną (Walet, Dama, Król), jej efekt jest rozpatrywany natychmiast po położeniu karty.
+3.  **Etap dociągu:** Jeśli gracz nie posiada karty pasującej do stosu, dobiera jedną kartę ze Spiżarni. Jeśli nowa karta pasuje, może ją wyłożyć w tej samej turze. Jeśli nie – tura przechodzi na kolejnego gracza.
+4.  **Zakończenie:** Rozgrywka kończy się w momencie, gdy pierwszy gracz pozbędzie się wszystkich kart. Pozostali gracze podliczają punkty za karty, które zostały im na rękach (karty liczbowe = wartość nominalna, figury = 10 pkt, As = 15 pkt) – wygrywa ten, kto po kilku rundach ma najmniej punktów.

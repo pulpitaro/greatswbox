@@ -1,0 +1,32 @@
+# 7 kartowy stud (Poker)
+
+Oto przejrzysty przewodnik po grze w 7-kartowy Stud.
+
+# 7-kartowy Stud (Poker)
+
+### Historia gry
+7-kartowy Stud był najpopularniejszą odmianą pokera w USA przed erą Texas Hold’em, szczególnie w okresie wojny secesyjnej oraz w połowie XX wieku. Wywodzi się z wcześniejszych gier typu "Stud", w których gracze otrzymują mieszankę kart zakrytych i odkrytych. Do dziś pozostaje klasyczną grą kasynową, wymagającą doskonałej pamięci i umiejętności obserwacji kart przeciwników.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Gracze:** Od 2 do 8 osób.
+*   **Żetony:** Każdy gracz otrzymuje zestaw żetonów na początku rozgrywki.
+*   **Ante:** Przed rozdaniem każdy gracz wpłaca do puli niewielką, obowiązkową opłatę początkową zwaną *ante*.
+*   **Stolik:** Wystarczy płaska powierzchnia; ważne, aby każdy miał miejsce na swoje karty (część będzie leżeć odkryta, część zakryta).
+
+### Zasady gry
+*   **Cel gry:** Celem jest stworzenie najsilniejszego układu pięciokartowego przy użyciu siedmiu kart otrzymanych w trakcie gry. Możesz również wygrać, zmuszając wszystkich przeciwników do wycofania się z rozdania (*fold*) poprzez obstawianie zakładów.
+*   **Układy:** Obowiązuje standardowa hierarchia układów pokerowych (od najwyższego: Poker Królewski, Poker, Kareta, Full, Kolor, Strit, Trójka, Dwie Pary, Para, Wysoka Karta).
+*   **Działanie kart:** Gracze otrzymują łącznie 7 kart (3 zakryte, 4 odkryte). Twoim zadaniem jest ułożenie najlepszej kombinacji 5 kart z tych siedmiu.
+*   **Ograniczenia:** Nie wolno pokazywać swoich zakrytych kart przed zakończeniem gry. Podczas licytacji gracz może: **Sprawdzić** (*Call* – dorzucić do puli tyle samo, co poprzednik), **Podbić** (*Raise* – zwiększyć stawkę), **Spasować** (*Fold* – zrezygnować z gry i stracić dotychczasowe żetony) lub **Czekać** (*Check* – jeśli nikt wcześniej nie podbił).
+
+### Przebieg rozgrywki
+Gra składa się z 5 rund licytacji:
+
+1.  **Trzecia ulica (Third Street):** Każdy gracz otrzymuje 3 karty (2 zakryte, 1 odkrytą). Gracz z najniższą odkrytą kartą wnosi tzw. *bring-in* (obowiązkowy zakład). Następuje pierwsza runda licytacji.
+2.  **Czwarta ulica (Fourth Street):** Gracze otrzymują czwartą kartę (odkrytą). Następuje kolejna runda licytacji.
+3.  **Piąta ulica (Fifth Street):** Gracze otrzymują piątą kartę (odkrytą). Od tego momentu stawki w licytacji zazwyczaj są wyższe (podwójne).
+4.  **Szósta ulica (Sixth Street):** Gracze otrzymują szóstą kartę (odkrytą). Następuje kolejna runda licytacji.
+5.  **Siódma ulica (Seventh Street / River):** Gracze otrzymują ostatnią, siódmą kartę (zakrytą). Następuje ostatnia, decydująca runda licytacji.
+
+**Finał (Showdown):** Jeśli po ostatniej rundzie w grze zostało więcej niż dwóch graczy, następuje pokazanie kart. Gracz z najlepszym układem pięciokartowym wygrywa pulę. Jeśli wszyscy oprócz jednej osoby spasują w trakcie gry, wygrywa ona pulę bez pokazywania kart.

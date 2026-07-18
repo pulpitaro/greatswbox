@@ -1,0 +1,38 @@
+# Botifarra
+
+Oto opis gry **Botifarra**, popularnej katalońskiej gry karcianej, która łączy elementy strategii, licytacji i współpracy w parach.
+
+---
+
+### 1. Krótki zarys historii
+Botifarra wywodzi się z Katalonii, gdzie jest uznawana za narodową grę karcianą, wywodzącą się z tradycji gry w „tute” lub „brisca”. Jej nazwa pochodzi od lokalnej kiełbasy, co w żargonie graczy symbolizuje „zjedzenie” przeciwników poprzez zdobycie dużej liczby punktów. Gra zyskała ogromną popularność w kawiarniach i klubach towarzyskich, stając się fundamentem katalońskiej kultury gier planszowych.
+
+### 2. Przygotowanie do gry
+*   **Gracze:** 4 osoby podzielone na dwie współpracujące pary (partnerzy siedzą naprzeciwko siebie).
+*   **Talia:** Standardowa talia 48 kart (bez ósemek i dziewiątek). Jeśli masz pełną talię 52 kart, usuń wszystkie ósemki i dziewiątki przed rozpoczęciem.
+*   **Cel:** Celem jest zdobycie co najmniej 36 punktów (z 72 możliwych w talii), aby wygrać rozdanie.
+*   **Wartości kart:** As (1 pkt), Dziesiątka (1 pkt), Król (3 pkt), Skoczek/Walet (2 pkt), Dama/Koń (1 pkt). Pozostałe karty (2-7) są warte 0 punktów. Dodatkowo, każdy "lewy" (trick) zdobyty powyżej szóstego jest wart 1 punkt.
+
+### 3. Zasady gry
+*   **Atut:** W Botifarra kolor atutowy jest ustalany w fazie licytacji (lub poprzez grę „bez atutów”).
+*   **Wymóg dokładania:** Obowiązuje tzw. *obowiązek koloru* – gracz musi dołożyć kartę w kolorze karty zagranej jako pierwszej w danej lewie. Jeśli nie posiada koloru, musi (jeśli może) zagrać atut. Jeśli nie ma atutu, może wyrzucić dowolną kartę.
+*   **Zakaz:** Nie wolno komunikować się z partnerem w żaden sposób (gesty, słowa), poza samą grą kartami.
+*   **Strategia:** Ważne jest zbieranie kart punktowych i przejmowanie lew przy zachowaniu czujności wobec atutów przeciwnika.
+
+### 4. Przebieg rozgrywki
+
+**Etap 1: Rozdanie i Licytacja**
+Każdy gracz otrzymuje 12 kart. Osoba po prawej stronie rozdającego rozpoczyna licytację. Gracze mogą ogłosić:
+*   Wybór koloru atutowego.
+*   "Botifarra" (gra bez atutów, gdzie punkty liczy się podwójnie).
+*   "Pass" (pasowanie).
+Można również podnieść stawkę (zwiększyć wartość punktową rozdania).
+
+**Etap 2: Rozgrywka (Lewy)**
+*   Gracz po prawej stronie rozdającego kładzie pierwszą kartę na środek.
+*   Pozostali gracze dokładają po jednej karcie zgodnie z ruchem wskazówek zegara, przestrzegając zasady dokładania koloru.
+*   Lewę wygrywa osoba, która zagrała najwyższą kartę w kolorze prowadzącym lub najwyższy atut.
+*   Zwycięzca lewy zbiera karty i rozpoczyna kolejną.
+
+**Etap 3: Podliczenie punktów**
+Po rozegraniu wszystkich 12 lew, pary liczą punkty ze swoich kart oraz doliczają punkty za lewy (każda lewa powyżej szóstej daje 1 punkt). Jeśli para, która licytowała, zdobyła wymagane punkty, wygrywa rozdanie. W przeciwnym razie punkty przypisuje się przeciwnikom. Gra toczy się zazwyczaj do osiągnięcia przez jedną ze stron 101 punktów w całym meczu.

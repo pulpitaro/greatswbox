@@ -1,0 +1,27 @@
+# Koko
+
+Oto opis gry karcianej **Koko**, opracowany na potrzeby Twojej bazy danych.
+
+***
+
+### 1. Zarys historii
+Gra Koko wywodzi się z tradycyjnych gier typu „zbieranie par”, popularnych w krajach basenu Morza Śródziemnego na początku XX wieku. Została uproszczona w latach 50. jako szybka rozrywka dla podróżnych, zyskując nazwę od dźwięku charakterystycznego „pukania” w stół przy zdobywaniu ostatniej karty. Dziś Koko funkcjonuje jako dynamiczna gra rodzinna, w której liczy się spostrzegawczość i dobra pamięć.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 2 do 4 osób.
+*   **Przygotowanie:** Należy dokładnie potasować talię i rozdać każdemu graczowi po 5 kart. Pozostałe karty kładziemy na środku stołu jako stos zakryty (tzw. „baza”). Jedną kartę z wierzchu bazy odkrywamy i kładziemy obok, tworząc „stos odrzuconych”.
+*   **Cel:** Celem gry jest zebranie jak największej liczby par kart o tej samej wartości (np. dwie siódemki, dwa walety).
+
+### 3. Zasady gry
+*   **Działanie kart:** Wszystkie karty mają wartość zgodną z ich oznaczeniem (figury traktowane są jako osobne wartości, as to „1”).
+*   **Co wolno:** Gracz może w swojej turze dobrać kartę z bazy lub wziąć wierzchnią kartę ze stosu odrzuconych, jeśli tworzy ona parę z kartą trzymaną w ręku.
+*   **Czego nie wolno:** Nie wolno podpowiadać innym graczom, jakie karty mają na ręce. Nie wolno również dobierać więcej niż jednej karty w turze, chyba że zasady specjalne (jeśli wariant gry na to pozwala) stanowią inaczej.
+*   **Zakończenie:** Gra kończy się w momencie, gdy stos „bazy” zostanie całkowicie wyczerpany, a gracze pozbędą się swoich kart z ręki.
+
+### 4. Przebieg rozgrywki
+1.  **Start:** Pierwszy gracz (zazwyczaj osoba na lewo od rozdającego) wykonuje swój ruch.
+2.  **Tura:** Gracz dobiera jedną kartę (z bazy lub stosu odrzuconych).
+3.  **Akcja:** Jeśli gracz posiada parę (dwie karty tej samej wartości), może wyłożyć ją na stół przed siebie, punktując za nią. Jeśli gracz nie posiada pary, musi odrzucić jedną dowolną kartę na stos odrzuconych, kończąc tym samym swoją turę.
+4.  **Kontynuacja:** Kolejka przechodzi zgodnie z ruchem wskazówek zegara.
+5.  **Finał:** Gdy skończą się karty w „bazie”, gracze kończą grę swoimi pozostałymi na ręce kartami. Wygrywa osoba, która zgromadziła najwięcej par przed sobą na stole. W przypadku remisu, wygrywa gracz, który jako ostatni wykonał ruch.

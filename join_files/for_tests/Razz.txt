@@ -1,0 +1,29 @@
+# Razz
+
+Oto opis gry karcianej **Razz** w przejrzystym formacie.
+
+***
+
+### 1. Historia gry
+Razz to odmiana pokera typu Seven Card Stud, w której zwycięża gracz posiadający najniższy możliwy układ kart („lowball”). Gra zyskała ogromną popularność w połowie XX wieku, stając się jednym z fundamentów turniejów serii World Series of Poker. Jest ceniona za unikalne podejście do hierarchii kart, gdzie as zawsze liczy się jako jeden, a strit i kolor nie przeszkadzają w wygranej.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** Od 2 do 8 osób.
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Żetony:** Potrzebne do obstawiania zakładów (tzw. „anty” oraz zakłady w poszczególnych rundach).
+*   **Cel początkującego:** Warto zapamiętać, że w Razzu najsilniejszym układem jest tzw. „Wheel”: **A-2-3-4-5**.
+
+### 3. Zasady gry
+*   **Hierarchia:** W Razzu strit i kolor nie są brane pod uwagę (nie obniżają wartości ręki). As jest zawsze najniższą kartą (1). Najlepszy układ to 5 najniższych, różnych kart.
+*   **Czego nie wolno:** Nie wolno pokazywać swoich zakrytych kart innym graczom przed końcem rozdania.
+*   **Cel gry:** Zdobycie puli poprzez posiadanie najniższego układu pięciu kart spośród siedmiu otrzymanych w trakcie gry lub zmuszenie innych graczy do spasowania („fold”).
+
+### 4. Przebieg rozgrywki
+Gra toczy się w następujących etapach:
+
+1.  **Ante i Third Street:** Każdy gracz wnosi obowiązkową opłatę (ante). Następnie każdy otrzymuje 3 karty: dwie zakryte i jedną odkrytą. Gracz z najwyższą odkrytą kartą wnosi tzw. „bring-in” (obowiązkowy zakład). Pozostali mogą sprawdzić (call), przebić (raise) lub spasować (fold).
+2.  **Fourth Street:** Każdy otrzymuje czwartą kartę (odkrytą). Rozpoczyna się kolejna runda licytacji, którą otwiera osoba z najlepszym (najniższym) widocznym układem dwóch kart.
+3.  **Fifth Street:** Każdy otrzymuje piątą kartę (odkrytą). Następuje kolejna runda licytacji. Od tego momentu wszystkie zakłady zazwyczaj podwajają swoją wartość.
+4.  **Sixth Street:** Każdy otrzymuje szóstą kartę (odkrytą). Następuje kolejna runda licytacji.
+5.  **Seventh Street (River):** Każdy otrzymuje siódmą, ostatnią kartę (zakrytą). Następuje finalna runda licytacji.
+6.  **Showdown:** Gracze, którzy nie spasowali, pokazują swoje karty. Wygrywa osoba, która z siedmiu dostępnych kart wybierze pięć tworzących najniższy układ. Jeśli gracze mają identyczne układy, pula jest dzielona.

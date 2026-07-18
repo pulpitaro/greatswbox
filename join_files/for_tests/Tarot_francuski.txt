@@ -1,0 +1,30 @@
+# Tarot francuski
+
+Oto opis gry **Tarot francuski**, przygotowany w formie przejrzystego przewodnika dla początkujących.
+
+***
+
+### 1. Zarys historii
+Tarot francuski wywodzi się z XV-wiecznych Włoch, gdzie karty tarota służyły początkowo wyłącznie do celów wróżbiarskich i rozrywkowych. Z czasem w Europie, a szczególnie we Francji, przekształcił się w jedną z najbardziej złożonych i strategicznych gier karcianych, zyskując ogromną popularność w XIX wieku. Dziś jest uznawany za „króla gier karcianych” we Francji, wymagającym niezwykłej umiejętności przewidywania ruchów przeciwnika.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Specjalna talia do Tarota francuskiego składa się z **78 kart**: 56 kart w czterech kolorach (kier, karo, trefl, pik), 21 kart atutowych (tzw. *taroty*) oraz 1 karta specjalna zwana *Osobą* (lub *Excuse*).
+*   **Liczba graczy:** Najlepiej gra się w **4 osoby** (możliwe warianty na 3 lub 5 osób).
+*   **Przygotowanie:** Gracze siadają wokół stołu, a karty rozdaje się zgodnie z ruchem wskazówek zegara. Przed rozpoczęciem ustala się liczbę rozdań lub docelową liczbę punktów.
+
+### 3. Zasady gry
+*   **Cel gry:** Celem jest zdobycie odpowiedniej liczby punktów w swoich lewach, aby „pokonać kontrakt” (obietnicę wykonania określonego wyniku).
+*   **Wartości kart:**
+    *   *Karty punktowe:* Asy, figury (Król, Dama, Kawaler, Walet) oraz karty atutowe mają różną wartość punktową. Najcenniejsze są tzw. *Oudlers* (I atut, XXI atut oraz Excuse).
+*   **Zasady ruchu:**
+    *   Należy dokładać do koloru (jeśli masz kartę w kolorze, który został zagrany, musisz ją dołożyć).
+    *   Jeśli nie masz koloru, musisz przebić atutem (jeśli to możliwe).
+    *   *Excuse* to karta specjalna – możesz ją zagrać w dowolnym momencie, nie tracąc „obowiązku dokładania do koloru”.
+
+### 4. Przebieg rozgrywki
+Rozgrywka dzieli się na cztery główne etapy:
+
+1.  **Rozdanie i Licytacja:** Każdy gracz otrzymuje po 18 kart, a 6 kart trafia na środek jako „pies” (talon). Gracze licytują, zobowiązując się do zdobycia określonej liczby punktów. Ten, kto zaoferuje najwyższy kontrakt, staje się „Rozgrywającym”.
+2.  **Pies (Talon):** Rozgrywający odkrywa karty z „psa”, dodaje je do swojej ręki, a następnie odrzuca 6 dowolnych kart (nie mogą to być króle ani atuty). Odrzucone karty liczą się do puli punktów Rozgrywającego.
+3.  **Rozgrywka (Lewy):** Rozgrywający wykonuje pierwszy ruch. Gracze po kolei dokładają karty zgodnie z zasadami kolorów i atutów. Zwycięzca lewy zbiera karty i rozpoczyna następną turę.
+4.  **Podliczenie:** Po rozegraniu wszystkich 18 lew, gracze liczą punkty w zdobytych lewach. Rozgrywający sprawdza, czy udało mu się osiągnąć zadeklarowany wcześniej kontrakt. Jeśli tak – wygrywa; jeśli nie – przegrywa i płaci punkty pozostałym graczom.

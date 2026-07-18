@@ -1,0 +1,33 @@
+# Makao
+
+Oto zestawienie zasad popularnej polskiej gry karcianej **Makao**.
+
+### 1. Zarys historii
+Makao to jedna z najpopularniejszych polskich gier karcianych, wywodząca się z rodziny gier typu „eights” (ósemki). Choć jej dokładne pochodzenie nie jest w pełni udokumentowane, gra zyskała ogromną popularność w Polsce w XX wieku jako przystępna alternatywa dla bardziej złożonych gier, takich jak brydż czy remik. Dziś jest uznawana za klasyczną grę towarzyską, w którą grają zarówno dzieci, jak i dorośli.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** Od 2 do 6 osób.
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Cel:** Celem gry jest jak najszybsze pozbycie się wszystkich kart z ręki.
+*   **Rozdanie:** Rozdający tasuje karty i rozdaje każdemu graczowi po 5 kart. Pozostałe karty kładzie się na środku stołu jako stos dobierania (zakryty). Jedną kartę ze stosu kładzie się obok – jest to stos kart odrzuconych.
+
+### 3. Zasady gry i działanie kart
+Gracze dokładają karty do stosu odrzuconego, dopasowując je kolorem lub figurą do karty leżącej na wierzchu.
+
+**Karty funkcyjne:**
+*   **Dwa i Trzy:** Kolejny gracz musi pobrać odpowiednio 2 lub 3 karty. Jeśli ma „dwójkę” lub „trójkę”, może je dołożyć, kumulując karę dla następnej osoby.
+*   **Czwórka:** Gracz traci kolejkę (postój).
+*   **Walet:** Gracz może zażądać dowolnej figury (z wyjątkiem funkcyjnych).
+*   **As:** Gracz może zażądać zmiany koloru kart.
+*   **Król (pik lub kier):** Działa jak „dwójka” lub „trójka” – zmusza kolejnego gracza do pobrania 5 kart (o ile nie posiada on innego króla do obrony).
+
+**Ważne zasady:**
+*   Jeśli nie możesz dołożyć karty, musisz dobrać jedną ze stosu.
+*   **Makao:** Gdy w ręku zostaje Ci ostatnia karta, musisz powiedzieć „Makao!”. Jeśli zapomnisz, a przeciwnik to zauważy, musisz dobrać 5 kart karnych.
+*   Nie wolno zagrywać kart funkcyjnych na inne karty funkcyjne (z wyjątkami, jak sumowanie kar).
+
+### 4. Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracz po lewej stronie rozdającego rozpoczyna turę.
+2.  **Tura:** W swojej kolejce możesz wyłożyć jedną lub więcej kart (jeśli mają tę samą figurę). Jeśli nie masz pasującej karty, dobierasz jedną ze stosu. Jeśli dobrana karta pasuje, możesz ją od razu wyłożyć.
+3.  **Wymuszanie:** Jeśli w trakcie gry zostałeś obłożony karami (np. ktoś rzucił dwójkę), a nie masz karty, by się „bronić” (kolejną dwójką), musisz pobrać przypisaną liczbę kart i pominąć swój ruch.
+4.  **Zakończenie:** Rozgrywka toczy się do momentu, aż jeden z graczy pozbędzie się wszystkich kart. Po zakończeniu partii pozostali gracze mogą podliczyć punkty za karty, które zostały im w ręku, lub po prostu rozpocząć kolejne rozdanie.

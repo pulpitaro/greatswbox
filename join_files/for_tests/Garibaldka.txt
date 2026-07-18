@@ -1,0 +1,32 @@
+# Garibaldka
+
+Oto opis zasad gry karcianej **Garibaldka**, dynamicznej gry typu „zbieranie”, w której kluczowe znaczenie ma spryt i przewidywanie ruchów przeciwnika.
+
+---
+
+### 1. Zarys historii
+Garibaldka wywodzi się z XIX-wiecznych salonów Europy Środkowej, gdzie była popularną rozrywką wśród wojskowych i podróżników. Jej nazwa nawiązuje do charakterystycznych czerwonych koszul zwolenników Giuseppe Garibaldiego, co odzwierciedla ducha rywalizacji i zwrotów akcji w samej rozgrywce. Współcześnie gra zyskała nowe życie jako szybka alternatywa dla klasycznych gier typu „wojna” czy „makao”.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez Jokerów).
+*   **Liczba graczy:** Od 2 do 4 osób.
+*   **Przygotowanie:** Potasuj karty i rozdaj każdemu z graczy po 5 kart. Pozostałe karty połóż w zakrytym stosie na środku stołu (tzw. „baza”). Odkryj wierzchnią kartę z bazy i połóż ją obok – to początek „pola bitwy”.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby punktów poprzez kompletowanie zestawów kart o tej samej wartości (np. cztery asy) lub w tym samym kolorze.
+*   **Działanie kart:**
+    *   **Karty cyfrowe (2-10):** Mają wartość nominalną.
+    *   **Walety, Damy, Króle:** Liczone są jako 10 punktów.
+    *   **Asy:** Są „kartami specjalnymi” – mogą zastąpić dowolną kartę w zestawie lub służyć jako przebicie (As bije każdą kartę).
+*   **Co wolno i czego nie wolno:**
+    *   Wolno zagrywać kartę na „pole bitwy”, jeśli jest ona wyższa od poprzedniej lub pasuje kolorem.
+    *   Nie wolno zagrywać dwóch kart naraz, chyba że gracz posiada „Garibaldkę” (trzy karty tej samej wartości w ręku).
+    *   W każdej turze gracz musi dobrać kartę z bazy, aby mieć na ręce zawsze 5 kart.
+
+### 4. Przebieg rozgrywki
+Gra toczy się zgodnie z ruchem wskazówek zegara i dzieli się na tury:
+
+1.  **Etap ataku:** Gracz wykłada jedną kartę z ręki na „pole bitwy”. Jeśli karta jest wyższa lub pasuje do poprzedniej, gracz przejmuje (zabiera do swojej puli zdobytych kart) cały stos z pola bitwy.
+2.  **Etap uzupełniania:** Po wykonaniu ruchu, gracz dobiera jedną kartę z bazy, aby uzupełnić rękę do 5 kart.
+3.  **Wariant „Garibaldki”:** Jeśli gracz posiada na ręce trzy karty tej samej wartości, może je wyłożyć w dowolnym momencie swojej tury, zgarniając wszystkie karty z pola bitwy bez względu na ich wartość (tzw. „atak z zaskoczenia”).
+4.  **Zakończenie:** Rozgrywka kończy się, gdy w bazie skończą się karty, a gracze wyłożą ostatnie karty z rąk. Wygrywa osoba, która zgromadziła największą liczbę punktów ze zdobytych stosów.

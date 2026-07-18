@@ -1,0 +1,42 @@
+# Pikieta
+
+Oto opis gry **Pikieta**, jednej z najstarszych i najbardziej eleganckich gier karcianych dla dwóch osób.
+
+---
+
+### 1. Historia gry
+Pikieta (fr. *Piquet*) powstała we Francji w XIV lub XV wieku i przez stulecia cieszyła się statusem arystokratycznej rozrywki na dworach europejskich. Była tak popularna, że w literaturze często określano ją po prostu mianem „gry”. Jej nazwa pochodzi prawdopodobnie od terminu *piquet*, oznaczającego w dawnej francuszczyźnie „punkt” lub „ukłucie”.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Używamy talii 32 kart (od siódemek do asów). Karty od 2 do 6 są usuwane.
+*   **Gracze:** Gra przeznaczona jest wyłącznie dla dwóch osób.
+*   **Starszeństwo kart:** As jest najwyższy (11 punktów), następnie Król (4), Dama (3), Walet (2), Dziesiątka (10), a 9, 8 i 7 nie mają wartości punktowej (liczą się tylko jako "trzymane karty").
+*   **Rozdanie:** Każdy gracz otrzymuje po 12 kart (rozdaje się po dwie lub trzy naraz). Pozostałe 8 kart tworzy tzw. „talon” (stos zakryty), który kładzie się na środku stołu.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie jak największej liczby punktów poprzez tworzenie kombinacji (układów) oraz branie lew. Wygrywa osoba, która pierwsza osiągnie 100 punktów w kilku partiach (tzw. *partie*).
+*   **Działanie kart:** W Pikiecie kluczowe jest rozróżnienie między **wartością punktową układu** a **siłą karty w lewie**.
+*   **Czego nie wolno:** Nie wolno pokazywać kart przeciwnikowi przed ogłoszeniem swoich układów. Nie można zmieniać kart w ręku po zakończeniu fazy wymiany.
+
+### 4. Przebieg rozgrywki
+
+Gra dzieli się na cztery główne etapy:
+
+**Etap 1: Wymiana kart (Ecart)**
+*   Gracz „nie-rozdający” wymienia od 1 do 5 kart na karty z talonu.
+*   Następnie rozdający wymienia pozostałe karty z talonu (może wymienić wszystkie pozostałe, ale nie musi).
+
+**Etap 2: Deklaracje (Pikieta)**
+Gracze porównują swoje układy, aby zdobyć pierwsze punkty. Kolejność ogłaszania jest ściśle określona:
+1.  **Point (Punkt):** Gracz, który ma najwięcej kart w jednym kolorze (liczy się sumę wartości kart: As=11, figury=10, cyfry=wartość nominalna).
+2.  **Sequence (Sekwens):** Najdłuższa seria kart w jednym kolorze (min. 3 karty).
+3.  **Sets (Układy):** Zestawy trzech lub czterech jednakowych kart (trójki lub czwórki).
+*Gracz posiadający silniejszy układ w danej kategorii zgłasza go i zdobywa punkty.*
+
+**Etap 3: Rozgrywka (Wzięcia)**
+*   Gracze grają 12 lew. Nie ma obowiązku dokładania do koloru (można „dokładać” dowolną kartę).
+*   Ostatnia lewa jest warta dodatkowy punkt.
+*   Jeśli gracz wygra ponad 6 lew (tzw. *Carte Blanche* lub po prostu przewaga), zdobywa dodatkowe punkty.
+
+**Etap 4: Podliczanie punktów**
+Po rozegraniu wszystkich 12 lew następuje sumowanie punktów zdobytych z deklaracji oraz z wygranych lew. Wynik zapisuje się na kartce i rozpoczyna kolejne rozdanie. Gra kończy się, gdy jeden z graczy przekroczy ustalony próg (zwykle 100 punktów).

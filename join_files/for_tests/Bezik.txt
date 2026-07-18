@@ -1,0 +1,35 @@
+# Bezik
+
+Oto opis klasycznej gry karcianej **Bezik** (fr. *Bésigue*), przygotowany w formie przejrzystej bazy danych.
+
+***
+
+### 1. Historia gry
+Bezik to popularna w XIX wieku francuska gra karciana, która wywodzi się z wcześniejszej gry *marriage* (małżeństwo). W epoce wiktoriańskiej zdobyła ogromną popularność w Europie, stając się ulubioną rozrywką arystokracji i burżuazji. Do dziś jest ceniona za unikalne połączenie strategii, liczenia kart oraz premii za tworzenie konkretnych układów.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** Zazwyczaj 2 osoby (istnieją warianty na 3 lub 4).
+*   **Talia:** Używa się dwóch talii po 32 karty (od siódemek do asów w każdym kolorze), czyli łącznie 64 karty.
+*   **Cel:** Zdobycie określonej liczby punktów (zazwyczaj 1000 lub 1500) poprzez "meldowanie" układów oraz branie lew.
+*   **Przygotowanie:** Należy przygotować kartkę i ołówek do zapisywania wyników. Każdy gracz otrzymuje po 8 kart, a pozostałe tworzą stos do dobierania (talon). Wierzchnia karta z talonu jest odkrywana i określa kolor atutowy.
+
+### 3. Zasady gry
+*   **Wartości kart:** As (11 pkt), Dziesiątka (10 pkt), Król (4 pkt), Dama (3 pkt), Walet (2 pkt). Siódemki, ósemki i dziewiątki nie mają wartości punktowej (chyba że są atutowe).
+*   **Meldunki:** To klucz do zwycięstwa. Gracze zdobywają punkty, wykazując na stole określone kombinacje (np. "Bezik" – Walet karo i Dama pik, lub "Małżeństwo" – Król i Dama w tym samym kolorze).
+*   **Zasady:** W pierwszej fazie gry (dopóki jest talon) nie ma obowiązku dokładania do koloru ani przebijania atutem. Można zagrywać dowolną kartę.
+*   **Czego nie wolno:** Nie wolno pokazywać przeciwnikowi swoich kart przed zagraniem, ani wycofywać raz wyłożonego meldunku.
+
+### 4. Przebieg rozgrywki
+Gra składa się z dwóch głównych etapów:
+
+**Etap 1: Faza dobierania (do wyczerpania talonu)**
+1. Gracze naprzemiennie zagrywają po jednej karcie. Ten, kto położy kartę o wyższej wartości, bierze lewę.
+2. Zwycięzca lewy natychmiast wykłada na stół posiadany meldunek (jeśli chce zdobyć punkty) i zabiera wierzchnią kartę z talonu. Przegrany bierze kolejną kartę.
+3. Ważny ruch: Jeśli gracz posiada **siódemkę atutową**, może ją wymienić na odkrytą kartę atutową leżącą pod talonem, zyskując 10 punktów.
+
+**Etap 2: Faza końcowa (bez talonu)**
+1. Gdy talon się skończy, gracze biorą pozostałe karty na rękę.
+2. Od tego momentu obowiązuje **ścisły nakaz dokładania do koloru**. Jeśli nie ma się karty w kolorze, trzeba przebijać atutem.
+3. Ostatnią lewę w grze (tzw. "lewa końcowa") nagradza się dodatkowymi punktami (zazwyczaj 10).
+
+**Zakończenie:** Po rozegraniu wszystkich kart sumuje się punkty z meldunków oraz punkty za karty zebrane w lewach. Gracz, który pierwszy osiągnie ustaloną pulę punktów, wygrywa mecz.

@@ -1,0 +1,33 @@
+# Uno
+
+Oto zestawienie informacji o grze karcianej **Uno**, przygotowane zgodnie z Twoimi wytycznymi.
+
+***
+
+### 1. Krótki zarys historii
+Gra Uno została stworzona w 1971 roku przez fryzjera Merle’a Robbinsa z Ohio, który chciał rozwiązać spory ze swoim synem dotyczące zasad gry w „Ósemki”. Szybko zyskała popularność na całym świecie, stając się jedną z najpopularniejszych gier towarzyskich wydawanych przez firmę Mattel.
+
+### 2. Przygotowanie do gry
+Do rozgrywki potrzebujesz wyłącznie talii Uno, która składa się ze 108 kart (karty kolorowe z numerami oraz karty funkcyjne).
+*   **Liczba graczy:** od 2 do 10 osób.
+*   **Rozdanie:** Każdy gracz otrzymuje po 7 kart.
+*   **Stos:** Pozostałe karty kładzie się zakryte na środku, tworząc stos dobierania. Jedną kartę z góry stosu odkrywa się obok, tworząc stos kart odrzuconych (pola gry).
+
+### 3. Zasady gry
+*   **Cel gry:** Celem jest jak najszybsze pozbycie się wszystkich kart z ręki. Zwycięzca otrzymuje punkty za karty, które pozostały w rękach przeciwników.
+*   **Działanie kart:**
+    *   **Karty cyfrowe:** Dopasowuje się kolorem lub liczbą do karty na górze stosu.
+    *   **Karty funkcyjne:**
+        *   *Stop (blokada):* Następny gracz traci kolejkę.
+        *   *Odwrotna:* Zmienia kierunek gry na przeciwny.
+        *   *+2:* Następny gracz dobiera dwie karty i traci kolejkę.
+        *   *Wybór koloru (Wild):* Pozwala zmienić kolor na dowolny.
+        *   *Wybór koloru +4:* Zmienia kolor i zmusza kolejnego gracza do dobrania czterech kart.
+*   **Zasada „UNO”:** Gdy w ręce zostaje Ci tylko jedna karta, musisz głośno powiedzieć „Uno!”. Jeśli o tym zapomnisz i ktoś Cię przyłapie przed ruchem kolejnej osoby, musisz dobrać dwie karty karne.
+
+### 4. Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracze kolejno (zgodnie z ruchem wskazówek zegara) dokładają karty do stosu odrzuconych.
+2.  **Tura:** Gracz musi dołożyć kartę pasującą kolorem, liczbą lub symbolem do wierzchniej karty na stosie.
+3.  **Brak możliwości ruchu:** Jeśli gracz nie ma pasującej karty, musi pobrać jedną kartę ze stosu dobierania. Jeśli ta karta pasuje, może ją od razu dołożyć; jeśli nie – kolejka przechodzi na następną osobę.
+4.  **Zakończenie rundy:** Runda kończy się w momencie, gdy któryś z graczy pozbędzie się wszystkich swoich kart.
+5.  **Punktacja:** Zwycięzca otrzymuje punkty za wszystkie karty pozostałe w rękach innych graczy (karty cyfrowe = wartość nominalna, karty funkcyjne = 20 pkt, karty „Wybór koloru” = 50 pkt). Wygrywa osoba, która jako pierwsza zdobędzie określoną sumę punktów (np. 500).

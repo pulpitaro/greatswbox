@@ -1,0 +1,33 @@
+# Wint
+
+Oto opis gry karcianej **Wint**, stworzonej z myślą o szybkiej, dynamicznej rozgrywce logicznej.
+
+---
+
+### 1. Historia gry
+Wint wywodzi się z tradycji europejskich gier salonowych początku XX wieku, łącząc mechanikę zarządzania zasobami z elementami blefu. Przez dekady była uznawana za „grę matematyków”, ponieważ wymaga przewidywania ruchów przeciwnika w oparciu o ograniczoną liczbę kart. Współczesna wersja została uproszczona, aby stać się przystępną rozrywką dla każdego.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (od dwójek do asów).
+*   **Liczba graczy:** 2 do 4 osób.
+*   **Miejsce:** Płaska powierzchnia do wykładania kart (stół).
+*   **Cel:** Celem gry jest zdobycie dokładnie 21 punktów poprzez „wygrywanie” lew i kolekcjonowanie kart o określonej wartości.
+
+### 3. Zasady gry
+*   **Wartość kart:** Karty numerowane mają wartość nominalną (2–10). Walet = 11, Dama = 12, Król = 13, As = 14.
+*   **Działanie kart:** W każdej turze wyłaniany jest „Atut” (kolor dominujący). Karty w kolorze atutu biją wszystkie inne. Jeśli gracz nie ma koloru, w który zagrano, musi odrzucić kartę, która nie punktuje (tzw. „pusta karta”).
+*   **Co wolno/Czego nie wolno:** 
+    *   Wymóg koloru: Jeśli masz kolor, w który zagrano, musisz odpowiedzieć tym samym kolorem.
+    *   Zakaz komunikacji: Zabronione jest pokazywanie swoich kart innym graczom przed ich zagraniem.
+*   **Cel:** Gracz, który pierwszy zdobędzie 21 punktów, wygrywa. Jeśli gracz przekroczy 21 punktów (tzw. „przewintowanie”), jego wynik spada do 10 punktów.
+
+### 4. Przebieg rozgrywki
+Rozgrywka w Wint dzieli się na trzy etapy:
+
+1.  **Rozdanie:** Każdy gracz otrzymuje 5 kart. Pozostała talia stanowi stos dobierania („stos główny”).
+2.  **Licytacja Atutu:** Pierwszy gracz po lewej od rozdającego wybiera kolor atutowy na podstawie swoich kart.
+3.  **Faza Lew (Tury):**
+    *   Gracze zagrywają po jednej karcie zgodnie z ruchem wskazówek zegara.
+    *   Osoba, która wyłożyła najwyższą kartę w kolorze startowym (lub najwyższego atuta), zgarnia „lewę” (zebrane karty).
+    *   Po każdej lewie gracze dobierają po jednej karcie ze stosu głównego, aż do uzupełnienia ręki do 5 kart.
+4.  **Podliczanie:** Po zakończeniu każdej rundy (gdy stos główny się wyczerpie), gracze sumują wartości kart w swoich lewach zgodnie z wyżej wymienioną punktacją. Punkty zapisuje się na kartce. Gra toczy się przez kolejne rozdania, aż ktoś osiągnie 21 punktów.

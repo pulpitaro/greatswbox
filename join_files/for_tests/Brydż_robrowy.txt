@@ -1,0 +1,33 @@
+# Brydż robrowy
+
+Oto opis gry w **Brydża robrowego**, przygotowany w przejrzysty sposób dla użytkownika budującego bazę gier.
+
+---
+
+### 1. Historia gry
+Brydż wyewoluował z popularnej w XIX wieku gry zwanej wistem, zyskując nowoczesny kształt w latach 20. XX wieku dzięki reformom Harolda Vanderbilta. Brydż robrowy był przez dekady najpopularniejszą formą tej gry, zanim w turniejach został wyparty przez brydża porównawczego. Jest uznawany za jedną z najbardziej wymagających intelektualnie gier karcianych na świecie.
+
+### 2. Przygotowanie do gry
+Do gry potrzebne są:
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Cztery osoby, tworzące dwie rywalizujące ze sobą pary (partnerzy siedzą naprzeciwko siebie).
+*   **Dodatki:** Notes i ołówek do zapisywania punktów (tzw. protokół).
+*   **Cel:** Zebranie odpowiedniej liczby punktów w „robrze” (czyli wygranie dwóch „partii”), co wymaga zdobycia łącznie 100 punktów za wzięte lewy w kontraktach.
+
+### 3. Zasady gry
+*   **Działanie kart:** Siła kart jest standardowa: As (najsilniejszy), Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2 (najsłabsza).
+*   **Hierarchia kolorów (od najsilniejszego):** Bez atu (BA), Piki (♠), Kiery (♥), Karo (♦), Trefle (♣).
+*   **Zasady:** Gracze muszą dokładać do koloru, jeśli mają kartę w kolorze zagranym przez lidera lewy. Jeśli nie mają, mogą „przebić” (agrać atutem) lub „dokładać” (wyrzucić dowolną kartę).
+*   **Czego nie wolno:** Nie wolno podglądać kart partnera, sugerować zagrań gestami ani zmieniać decyzji po zagraniu karty.
+*   **Cel gry:** Wylicytowanie kontraktu (zadeklarowanie liczby lew) i zrealizowanie go.
+
+### 4. Przebieg rozgrywki
+Rozgrywka dzieli się na trzy główne etapy:
+
+1.  **Rozdanie:** Każdy gracz otrzymuje po 13 kart.
+2.  **Licytacja:** Gracze, zgodnie z ruchem wskazówek zegara, deklarują, ile lew (powyżej sześciu) ich para zobowiązuje się wziąć i w jakim kolorze (lub bez atutu). Licytacja kończy się, gdy trzy osoby z rzędu powiedzą „pas”. Ostatnia deklaracja staje się „kontraktem”.
+3.  **Rozgrywka (Wykładka):**
+    *   Osoba z pary, która wylicytowała kontrakt, będąca pierwsza w kolejności (tzw. rozgrywający), kładzie swoje karty na stole (staje się „dziadkiem”). Jego partner nie bierze udziału w zagrywkach tej rundy.
+    *   Obrońca po lewej stronie rozgrywającego zagrywa pierwszą kartę.
+    *   Wszyscy gracze dokładają po jednej karcie do lewy. Zwycięzca lewy (osoba, która dała najwyższą kartę) zagrywa kartę do kolejnej lewy.
+4.  **Punktacja:** Po rozegraniu 13 lew podlicza się punkty. Jeśli rozgrywający wygrali kontrakt, dopisują punkty „pod kreskę”. Jeśli przegrali – punkty trafiają do przeciwników. Robr kończy się, gdy jedna z par wygra dwie partie (zdobędzie 100 punktów „pod kreską”).

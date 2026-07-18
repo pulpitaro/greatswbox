@@ -1,0 +1,37 @@
+# Cribbage
+
+Oto zestawienie informacji o grze karcianej **Cribbage**, przygotowane w przejrzysty sposób.
+
+---
+
+### 1. Historia gry
+Cribbage został stworzony na początku XVII wieku przez angielskiego poetę sir Johna Sucklinga, który zaadaptował zasady starszej gry o nazwie „Noddy”. Jest to jedna z niewielu gier karcianych, która przetrwała wieki w niemal niezmienionej formie, stając się klasyką szczególnie popularną w krajach anglosaskich. Jej unikalność polega na użyciu specjalnej planszy z kołkami do liczenia punktów.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** Klasycznie 2 osoby (istnieją warianty dla 3 i 4 osób).
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Plansza (Cribbage board):** Służy do zaznaczania punktów za pomocą kołków (tzw. „pegging”). Jeśli jej nie masz, możesz użyć kartki papieru i ołówka.
+*   **Karty:** Wartości kart są proste: As = 1 punkt, karty od 2 do 10 mają wartość nominalną, natomiast Walet, Dama i Król = 10 punktów.
+
+### 3. Zasady gry
+*   **Cel gry:** Pierwszy gracz, który przesunie swoje kołki na planszy i dotrze do 121 punktu (tzw. „game hole”), wygrywa.
+*   **Kluczowa mechanika:** Gra opiera się na zdobywaniu punktów poprzez układanie kombinacji kart (pary, strit, sumy wynoszące 15) zarówno podczas „wykładania” kart na stół, jak i po zakończeniu rozdania (z ręki oraz z tzw. *Crib* – dodatkowego stosu należącego do rozdającego).
+*   **Czego nie wolno:** Nie wolno podpowiadać przeciwnikowi, nie wolno zmieniać decyzji po położeniu karty, a w fazie punktowania należy rzetelnie wyliczyć wszystkie przysługujące punkty (jeśli przeoczysz swoje punkty, przeciwnik może je „ukraść”).
+
+### 4. Przebieg rozgrywki
+Rozgrywka dzieli się na trzy główne etapy:
+
+**Etap 1: Rozdanie i „The Crib”**
+Każdy gracz otrzymuje 6 kart. Każdy gracz odkłada 2 karty na bok – tworzą one stos zwany *Crib* (należy on do rozdającego, ale jest punktowany na końcu). Następnie odkrywa się jedną kartę z talii (tzw. *starter*). Jeśli jest to Walet, rozdający otrzymuje 2 punkty („His Heels”).
+
+**Etap 2: Pegging (Wykładanie)**
+Gracze na zmianę wykładają po jednej karcie przed sobą, sumując ich wartości. Suma nie może przekroczyć 31.
+*   Za każdą kombinację (np. suma 15, para, strit) gracz przesuwa kołek na planszy.
+*   Jeśli nie możesz dołożyć karty bez przekroczenia 31, mówisz „Go” i przeciwnik gra dalej.
+
+**Etap 3: Punktowanie (Show)**
+Po wyłożeniu wszystkich kart, gracze podliczają punkty w rękach (najpierw nie-rozdający, potem rozdający, na końcu rozdający punktuje swój *Crib*).
+*   Punktuje się: każdą kombinację kart dającą 15, pary, trójki, czwórki (trójki), strit oraz „Flush” (kolor).
+*   Karta *starter* (odkryta wcześniej) liczy się do punktowania każdej ręki.
+
+Po zakończeniu punktowania, karty są tasowane i następuje kolejna runda z zamianą roli rozdającego.

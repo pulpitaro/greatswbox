@@ -1,0 +1,28 @@
+# Kent
+
+Oto opis gry karcianej **Kent** (znanej również pod nazwą „Wink” lub „Mruganie”), przygotowany w przejrzysty sposób.
+
+---
+
+### 1. Historia gry
+Kent to emocjonująca gra towarzyska oparta na komunikacji niewerbalnej i spostrzegawczości, wywodząca się z tradycji gier salonowych XX wieku. Choć jej dokładne pochodzenie jest niejasne, zyskała ogromną popularność jako gra dla par, w której kluczem do sukcesu jest stworzenie tajnego kodu z partnerem. Jest to jedna z niewielu gier, gdzie blefowanie i szybka reakcja liczą się bardziej niż posiadane karty.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** Gra wymaga parzystej liczby osób – najlepiej 4 (dwie pary), 6 lub 8.
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Ustawienie:** Gracze siadają naprzeciwko swoich partnerów.
+*   **Cel:** Celem jest zebranie 4 kart o tej samej wartości (np. cztery asy) i zasygnalizowanie tego partnerowi, aby ten mógł krzyknąć „Kent!”.
+
+### 3. Zasady gry
+*   **Układ:** Każdy gracz otrzymuje na start 4 karty. Dodatkowo na środku stołu wykłada się 4 karty odkryte.
+*   **Wymiana:** Gracze mogą wymieniać swoje karty z kartami leżącymi na środku (jedna za jedną).
+*   **Sygnale:** Para musi ustalić wcześniej tajny sygnał (np. dotknięcie nosa, mrugnięcie, położenie głowy na ręce). Gracz, który skompletuje czwórkę, musi użyć tego sygnału, aby dać znać partnerowi.
+*   **Oskarżenie:** Jeśli przeciwnik zauważy sygnał, może krzyknąć „Kent stop!”. Wtedy osoba sygnalizująca musi pokazać karty – jeśli miała czwórkę, para wygrywa rundę; jeśli nie, punkt trafia do przeciwników.
+*   **Zakaz:** Nie wolno mówić o swoich kartach ani sygnalizować w sposób jawny.
+
+### 4. Przebieg rozgrywki
+1.  **Rozdanie:** Rozdający rozdaje każdemu po 4 karty i wykłada 4 na środek.
+2.  **Wymiana:** Wszyscy gracze wymieniają karty jednocześnie (nie ma tur). Gracz bierze kartę ze środka i kładzie w jej miejsce własną. Jeśli nikt nie chce wymieniać kart, rozdający zbiera te ze środka i wykłada 4 nowe.
+3.  **Sygnalizacja:** Gdy gracz uzbiera cztery karty o tej samej wartości, wykonuje tajny sygnał. Jego partner musi wtedy krzyknąć „Kent!”.
+4.  **Koniec rundy:** Jeśli partner krzyknie „Kent!” poprawnie, para zdobywa punkt. Jeśli przeciwnik krzyknie „Kent stop!” i ma rację (sygnalizujący nie miał czwórki), punkt zdobywają przeciwnicy.
+5.  **Nowa runda:** Po zakończeniu rundy karty są zbierane, tasowane i następuje kolejne rozdanie. Wygrywa para, która pierwsza zdobędzie określoną liczbę punktów (np. 5 lub 10).

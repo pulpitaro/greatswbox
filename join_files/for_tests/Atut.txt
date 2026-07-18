@@ -1,0 +1,26 @@
+# Atut
+
+Oto opis gry karcianej **Atut**, przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### Historia gry
+Gra „Atut” wywodzi się z tradycyjnych gier typu *trick-taking* (biorących lewy), popularnych w Europie Środkowej na przełomie XIX i XX wieku. Powstała jako uproszczona, dynamiczna alternatywa dla złożonych gier brydżowych, zyskując popularność podczas wieczorów przy ognisku i rodzinnych spotkań. Jej głównym założeniem było wprowadzenie elementu nieprzewidywalności poprzez zmienny atut, co wymusza na graczach szybką adaptację strategii.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez Jokerów).
+*   **Liczba graczy:** Od 2 do 4 osób.
+*   **Przygotowanie:** Należy przetasować karty i rozdać każdemu graczowi po 7 kart. Pozostałe karty tworzą stos do dobierania („talon”), kładziony na środku stołu. Wierzchnia karta z talonu zostaje odwrócona – jej kolor staje się **kolorem atutowym** na bieżącą rundę.
+
+### Zasady gry
+*   **Działanie kart:** Karty w kolorze atutowym są silniejsze niż karty w kolorach zwykłych. W obrębie koloru obowiązuje starszeństwo: As (najsilniejszy), Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Co wolno:** Należy dokładać kartę w kolorze wywiedzionym (pierwszej karty w lewie). Jeśli nie masz karty w tym kolorze, możesz „przebić” (położyć atut), aby wygrać lewę, lub odrzucić dowolną inną kartę.
+*   **Czego nie wolno:** Nie wolno zagrywać innej karty niż w kolorze wywiedzionym, jeśli posiada się taką w ręce (obowiązek dokładania do koloru).
+*   **Cel gry:** Zebranie jak największej liczby lew (każda lewa to 1 punkt). Wygrywa gracz, który po zakończeniu talii zdobędzie najwięcej punktów.
+
+### Przebieg rozgrywki
+1.  **Rozpoczęcie:** Gracz siedzący po lewej stronie rozdającego zagrywa pierwszą kartę.
+2.  **Tura:** Kolejni gracze dok dokładają po jednej karcie zgodnie z ruchem wskazówek zegara. Gracz, który położył najwyższą kartę (w kolorze wywiedzionym lub najwyższy atut), wygrywa lewę i zabiera karty do swojego stosu.
+3.  **Dobieranie:** Po wygraniu lewy, każdy gracz dobiera z talonu jedną kartę, aby zawsze mieć w ręce 7 kart (aż do wyczerpania talonu).
+4.  **Kontynuacja:** Gracz, który wygrał poprzednią lewę, rozpoczyna kolejną.
+5.  **Zakończenie:** Gra kończy się, gdy gracze rozegrają wszystkie karty z ręki, a talon zostanie wyczerpany. Następuje podliczenie punktów – zwycięzcą zostaje osoba z największą liczbą zebranych lew.

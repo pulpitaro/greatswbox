@@ -1,0 +1,46 @@
+# Szturm
+
+Oto opis gry karcianej **Szturm**, zaprojektowanej z myślą o szybkiej i dynamicznej rywalizacji.
+
+---
+
+### 1. Historia gry
+Gra *Szturm* wywodzi się z dawnych zabaw żołnierskich, w których najważniejszą umiejętnością była umiejętność błyskawicznego przejmowania inicjatywy na polu bitwy. Według legendy, zasady zostały spisane przez anonimowego dowódcę na odwrocie mapy strategicznej podczas długiej zimowej kampanii. Dziś *Szturm* jest popularną rozrywką w środowiskach graczy ceniących taktykę i ryzyko.
+
+---
+
+### 2. Przygotowanie do gry
+Do rozgrywki potrzebujesz:
+*   **Standardowej talii 52 kart** (bez Jokerów).
+*   **2 do 4 graczy**.
+*   **Żetonów lub zapałek** (opcjonalnie, do liczenia punktów).
+
+**Przygotowanie:**
+1. Potasuj talię i rozdaj każdemu graczowi po 5 kart.
+2. Pozostałe karty połóż na środku stołu jako **stos dobierania** (zakryte).
+3. Odkryj pierwszą kartę ze stosu i połóż ją obok – to **stos odrzutu** (Szturmowisko).
+4. Wyznacz gracza, który zaczyna (zazwyczaj osoba po lewej stronie rozdającego).
+
+---
+
+### 3. Zasady gry
+*   **Cel gry:** Jako pierwszy pozbądź się wszystkich kart z ręki lub zdobądź najwięcej punktów, przejmując karty przeciwników.
+*   **Działanie kart:**
+    *   **Karty liczbowe (2-10):** Służą do ataku na stos odrzutu (musisz położyć kartę o tej samej wartości lub wyższą).
+    *   **Walety (J):** Zmieniają kierunek gry.
+    *   **Damy (Q):** Blokada – kolejny gracz traci turę.
+    *   **Króle (K):** "Szturm" – gracz wymusza na przeciwniku dobranie 2 kart.
+    *   **Asy (A):** Zmieniają kolor gry na wybrany przez gracza.
+*   **Czego nie wolno:** Nie wolno zagrywać więcej niż jednej karty w turze, chyba że posiadasz dwie identyczne karty (np. dwie siódemki) – wtedy możesz je wyrzucić jednocześnie.
+
+---
+
+### 4. Przebieg rozgrywki
+Gra toczy się w turach zgodnie z ruchem wskazówek zegara:
+
+1.  **Etap ataku:** W swojej turze musisz położyć na stos odrzutu kartę o wartości równej lub wyższej od tej leżącej na wierzchu (w tym samym kolorze). Jeśli nie możesz tego zrobić, musisz dobrać jedną kartę ze stosu.
+2.  **Etap akcji:** Jeśli położona karta jest kartą specjalną (J, Q, K, A), efekt karty rozpatruje się natychmiast po jej położeniu.
+3.  **Etap uzupełnienia:** Jeśli po zagraniu karty graczowi zostanie mniej niż 3 karty na ręce, może (ale nie musi) dobrać jedną kartę ze stosu, aby „odbudować swoje siły”.
+4.  **Koniec tury:** Przekazujesz ruch następnemu graczowi.
+
+**Zakończenie:** Rozgrywka kończy się, gdy jeden z graczy pozbędzie się wszystkich kart. Pozostali gracze podliczają punkty w swoich rękach (figury 10 pkt, karty liczbowe wg wartości nominalnej) – wygrywa ten, kto miał ich najmniej w całym cyklu rozgrywek.

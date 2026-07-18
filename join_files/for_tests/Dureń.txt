@@ -1,0 +1,26 @@
+# Dureń
+
+Oto opis klasycznej gry karcianej **Dureń**.
+
+### Historia gry
+Dureń to jedna z najpopularniejszych gier karcianych w krajach byłego ZSRR, której korzenie sięgają XIX-wiecznej Rosji. Pierwotnie była rozrywką warstw niższych społeczeństwa, jednak dzięki swojej dynamice i prostocie szybko zyskała popularność we wszystkich grupach społecznych. Dziś jest uznawana za narodową grę karcianą wielu krajów Europy Wschodniej.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 36 kart (od szóstek do asów).
+*   **Liczba graczy:** Od 2 do 6 osób.
+*   **Przygotowanie:** Każdy gracz otrzymuje po 6 kart. Kolejna karta z talii jest odkrywana i kładziona na stole – jej kolor wyznacza **atut** (kolor silniejszy od pozostałych). Reszta talii (tzw. „kupka”) jest kładziona na wierzchu odkrytego atuta.
+
+### Zasady gry
+*   **Cel gry:** Pozbycie się wszystkich kart z ręki. Osoba, która jako ostatnia zostanie z kartami na ręku, przegrywa i zostaje tytułowym „Durniem”.
+*   **Hierarchia kart:** Karty w danym kolorze mają standardową wartość (od szóstki do asa). Atut bije każdą kartę w innym kolorze.
+*   **Działanie kart:** Aby przebić kartę przeciwnika, należy położyć na niej kartę wyższą w tym samym kolorze lub dowolnego atuta (jeśli karta przeciwnika nie jest już atutem wyższego stopnia).
+*   **Ograniczenia:** Nie można „przebijać” kart w sposób dowolny – musi to być zgodne z zasadami wyższości kart lub atutów.
+
+### Przebieg rozgrywki
+1.  **Atak i obrona:** Rozpoczyna gracz, który ma najniższego atuta. Atakuje on sąsiada po lewej stronie, rzucając jedną kartę. Obrońca musi ją „przebić”.
+2.  **Podrzucanie:** Jeśli obrońca nie ma czym przebić lub po prostu nie chce, zabiera kartę. Jeśli przebije, inni gracze (a w kolejnych turach także atakujący) mogą „podrzucać” mu kolejne karty o tych samych wartościach, które już leżą na stole (np. jeśli leży walet, można dorzucić innego waleta).
+3.  **Koniec tury:**
+    *   Jeśli obrońca przebił wszystkie karty, są one odkładane na bok (poza grą), a atak przechodzi na niego.
+    *   Jeśli obrońca zabrał karty, traci kolejkę, a atakuje osoba po jego lewej stronie.
+4.  **Dobieranie:** Po zakończeniu tury każdy gracz musi uzupełnić rękę do 6 kart, dobierając je z talii (zaczyna atakujący, potem pozostali gracze).
+5.  **Zwycięstwo i przegrana:** Gra toczy się do momentu wyczerpania talii i pozbycia się kart przez graczy. Ostatnia osoba, która nie zdołała pozbyć się kart, zostaje Durniem.

@@ -1,0 +1,31 @@
+# Doppelkopf
+
+Oto opis gry karcianej **Doppelkopf** przygotowany w przejrzysty sposób.
+
+---
+
+### 1. Historia gry
+Doppelkopf to tradycyjna niemiecka gra karciana wywodząca się z XIX wieku, będąca rozwinięciem starszej gry *Schafkopf*. Przez dekady zyskała status narodowego klasyka, łączącego elementy strategii, współpracy w parach oraz licytacji. Dziś jest uznawana za jedną z najbardziej złożonych i satysfakcjonujących gier karcianych w Europie Środkowej.
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby (gra się w dwóch parach).
+*   **Talia:** Używa się 48 kart (z talii 52-kartowej usuwa się wszystkie dwójki, trójki, czwórki oraz piątki).
+*   **Wartość kart:** 
+    *   As (11 pkt), Dziesiątka (10 pkt), Król (4 pkt), Dama (3 pkt), Walet (2 pkt). 
+    *   *Uwaga:* Dziewiątki nie mają wartości punktowej.
+*   **Rozdanie:** Każdy gracz otrzymuje 12 kart (zazwyczaj w paczkach po 3 lub 4).
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie minimum 121 punktów ze 240 możliwych w puli.
+*   **Atuty:** Najważniejszymi kartami (atutami) są wszystkie **Damy** i **Walety** (w tej kolejności), a następnie wszystkie karty w kolorze **Trefl**. 
+*   **Dobieranie w pary:** Pary nie są stałe. Zazwyczaj partnerem gracza, który ma „rezerwację” (np. posiada konkretnego atuta, którego nie ma nikt inny), zostaje osoba, która jako pierwsza zagra tą kartą.
+*   **Zasada gry:** Należy dokładać do koloru (tzw. *Bedienzwang*). Jeśli nie masz karty w danym kolorze, możesz „przebić” atutem lub zrzucić dowolną kartę.
+
+### 4. Przebieg rozgrywki
+1.  **Licytacja / Deklaracja:** Gracze decydują, czy chcą grać (np. „zwykłą grę”, „solo” przeciwko pozostałym trzem graczom lub z wyborem partnera). 
+2.  **Rozgrywka (Stichspiel):** Gracz po lewej stronie rozdającego rozpoczyna pierwszą lewę. Gracze wykładają po jednej karcie zgodnie z ruchem wskazówek zegara.
+3.  **Zasada „Dwie Damy”:** Jeśli w pierwszej lewie padną dwie Damy Trefl (tzw. „Doppelkopf”), lewa ta jest warta podwójnie (choć zasada ta zależy od wariantu gry).
+4.  **Zakończenie:** Rozgrywka kończy się po rozegraniu wszystkich 12 lew. 
+5.  **Podliczanie:** Gracze sumują punkty w swoich lewach. Jeśli drużyna posiadająca „rezerwację” (licytująca) zdobyła 121 punktów lub więcej, wygrywa. W przeciwnym razie wygrywa strona przeciwna.
+
+*Wskazówka: Doppelkopf to gra pełna subtelności – kluczem do sukcesu jest komunikacja z partnerem poprzez zagrywanie konkretnych kart, by zasygnalizować posiadane atuty!*

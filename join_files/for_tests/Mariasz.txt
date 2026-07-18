@@ -1,0 +1,27 @@
+# Mariasz
+
+Oto opis popularnej gry karcianej **Mariasz** przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### Historia gry
+Mariasz to klasyczna gra wywodząca się z krajów niemieckojęzycznych, znana w Europie Środkowej od XVIII wieku. Jej nazwa pochodzi od francuskiego *mariage* (małżeństwo), co odnosi się do kluczowego elementu gry, czyli połączenia króla i damy w jednym kolorze. Przez dekady gra zyskała status tradycyjnej rozrywki towarzyskiej, szczególnie popularnej w Polsce i Czechach.
+
+### Przygotowanie do gry
+*   **Talia:** Do gry używa się talii 24 kart (od asa do dziewiątki w czterech kolorach). Jeśli używasz pełnej talii 52 kart, musisz odrzucić wszystkie karty od dwójek do ósemek.
+*   **Liczba graczy:** Klasycznie w Mariasza grają 2 osoby (istnieją też warianty na 3 lub 4 osoby).
+*   **Miejsce:** Wystarczy stół, przy którym gracze mogą swobodnie zagrywać karty.
+*   **Dodatki:** Warto mieć kartkę i ołówek do zapisywania punktów.
+
+### Zasady gry
+*   **Wartości kart:** As (11 pkt), Dziesiątka (10 pkt), Król (4 pkt), Dama (3 pkt), Walet (2 pkt), Dziewiątka (0 pkt).
+*   **Cel gry:** Zdobycie jak największej liczby punktów poprzez branie lew (grup kart) oraz meldowanie „mariaszy” (pary króla i damy w tym samym kolorze).
+*   **Zasady ogólne:** Należy zawsze dokładać do koloru, jeśli jest to możliwe. Jeśli nie masz karty w kolorze zagranym przez przeciwnika, możesz (ale nie musisz) przybić kartę atutową.
+*   **Mariasz (meldunek):** Jeśli gracz posiada króla i damę w jednym kolorze, może je „zameldować” (pokazać), co daje dodatkowe punkty (zwykły kolor – 20 pkt, kolor atutowy – 40 pkt).
+
+### Przebieg rozgrywki
+1.  **Rozdanie:** Każdy z graczy otrzymuje po 6 kart. Ostatnia karta z talii jest odkrywana i kładziona na stole – jej kolor staje się **atutem**. Pozostałe karty tworzą tzw. „talon” (stos do dobierania).
+2.  **Etap pierwszy (dobieranie):** Gracze zagrywają karty, a po każdej lewie dobierają po jednej karcie z talonu, aby zawsze mieć 6 kart w ręku. Osoba, która wzięła lewę, wychodzi jako pierwsza.
+3.  **Meldowanie:** Gracz może zameldować mariasz tylko wtedy, gdy sam wyszedł do lewy. Pokazuje wtedy obie karty (króla i damę), ogłasza punkty i zagrywa jedną z nich (zazwyczaj jedną z zameldowanych).
+4.  **Etap drugi (bez talonu):** Gdy talon się wyczerpie, gracze grają ostatnie 6 lew bez dobierania kart. Obowiązuje wtedy ścisły nakaz dokładania do koloru i przebijania atutem.
+5.  **Podliczenie:** Po zakończeniu wszystkich lew gracze sumują punkty z kart w swoich lewach oraz punkty za zameldowane mariasze. Zwycięża osoba z większą sumą punktów.

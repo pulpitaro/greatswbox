@@ -1,0 +1,32 @@
+# Świnie
+
+Oto opis gry karcianej „Świnie” (znanej również pod nazwą „Świnka”), która jest popularną, dynamiczną grą towarzyską opartą na szybkim pozbywaniu się kart i spostrzegawczości.
+
+***
+
+### Historia gry
+„Świnie” to klasyczna gra karciana o nieustalonym autorstwie, wywodząca się z tradycji gier „podwórkowych”, w których kluczowym elementem jest refleks. Przez dekady ewoluowała w wielu wariantach regionalnych, stając się popularną rozrywką w grupach przyjaciół szukających szybkich i emocjonujących rozgrywek. Jej prostota sprawiła, że zyskała status uniwersalnej gry imprezowej.
+
+### Przygotowanie do gry
+*   **Potrzebne akcesoria:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** Od 3 do 8 osób.
+*   **Przygotowanie:**
+    1. Usuwamy z talii karty tak, aby na każdego gracza przypadały dokładnie 4 karty (np. przy 4 graczach używamy 16 kart: 4 asów, 4 króli, 4 dam i 4 waletów).
+    2. Tasujemy wybrane karty i rozdajemy każdemu graczowi po 4 sztuki.
+    3. Resztę kart (jeśli zostały) odkładamy na bok.
+
+### Zasady gry
+*   **Cel gry:** Zebrać w ręce cztery karty o tej samej wartości (tzw. „czwórkę”) i jak najszybciej położyć rękę na środku stołu.
+*   **Działanie kart:** Każda karta ma taką samą wartość, liczy się tylko jej figura (np. cztery króle).
+*   **Zasady:**
+    *   W grze nie wolno pokazywać swoich kart przeciwnikom.
+    *   Każdy gracz przekazuje jedną kartę sąsiadowi z lewej strony w tym samym momencie (tzw. „podawanka”).
+    *   Gracz, który pierwszy zbierze w ręku 4 takie same karty, kładzie rękę na środku stołu. Pozostali gracze muszą natychmiast zrobić to samo.
+    *   Ostatnia osoba, która położy rękę na stosie, przegrywa rundę i otrzymuje literę ze słowa „Ś-W-I-N-I-A”.
+
+### Przebieg rozgrywki
+1.  **Etap „Podawanki”:** Gracze trzymają karty w wachlarzu. Na umówiony sygnał (np. słowo „raz, dwa, trzy – przekaz!”) wszyscy jednocześnie przekazują jedną kartę sąsiadowi z lewej strony.
+2.  **Kolejne tury:** Akcja powtarza się wielokrotnie. Gracze przyjmują kartę od sąsiada z prawej i oddają swoją wybraną kartę w lewo, dążąc do zebrania kompletu (4 identycznych kart).
+3.  **Finał rundy:** Gdy tylko ktoś skompletuje cztery karty (np. cztery damy), kładzie rękę na środku stołu. W tym momencie zabawa w przekazywanie kart ustaje, a wszyscy muszą położyć dłoń na dłoni zwycięzcy.
+4.  **Wyłonienie przegranego:** Osoba, która jako ostatnia położy dłoń na środku, przegrywa rundę i otrzymuje pierwszą literę słowa „ŚWINIA”.
+5.  **Koniec gry:** Gra toczy się do momentu, aż jeden z graczy uzbiera wszystkie litery słowa „ŚWINIA” i zostaje oficjalnie nazwany „Świnią”.

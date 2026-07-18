@@ -1,0 +1,33 @@
+# Oczko
+
+Oto opis popularnej gry karcianej „Oczko” przygotowany w przejrzystej formie:
+
+# Oczko (Blackjack)
+
+### Historia gry
+Oczko wywodzi się z francuskiej gry *vingt-et-un* („dwadzieścia jeden”), która zyskała ogromną popularność w XVIII-wiecznych kasynach. Z czasem gra ewoluowała i stała się jedną z najczęściej rozpoznawalnych gier hazardowych oraz towarzyskich na całym świecie. Jej prostota i szybkie tempo rozgrywki sprawiły, że na stałe weszła do kanonu gier karcianych.
+
+### Przygotowanie do gry
+*   **Talia:** Do gry potrzebna jest standardowa talia 52 kart (bez jokerów). W niektórych wariantach (np. bardzo popularnych w Polsce) gra się talią 24 kart (od dziewiątek do asów).
+*   **Liczba graczy:** Minimum 2 osoby (jedna z nich pełni rolę „krupiera”/bankiera).
+*   **Miejsce:** Dowolny stół, przy którym gracze mogą swobodnie rozkładać karty.
+*   **Wartości kart:**
+    *   **As:** 11 punktów.
+    *   **Figury (Król, Dama, Walet):** 2 punkty (często też król=4, dama=3, walet=2 – warto ustalić to przed grą).
+    *   **Karty liczbowe (2-10):** Ich wartość nominalna.
+
+### Zasady gry
+*   **Cel gry:** Zdobyć jak najbliższą liczbę 21 punktów, ale jej nie przekroczyć („przebicie” oznacza natychmiastową przegraną).
+*   **Kluczowe działania:**
+    *   **Dobieranie:** Gracz może prosić o kolejną kartę, jeśli uzna, że jego suma jest zbyt niska.
+    *   **Pasowanie:** Gracz zatrzymuje się na swojej obecnej sumie punktów.
+*   **Czego nie wolno:** Nie wolno dobierać kart po przekroczeniu 21 punktów (następuje „fura”/przebicie) oraz nie wolno podglądać kart zakrytych innych graczy przed końcem tury.
+
+### Przebieg rozgrywki
+1.  **Rozdanie:** Krupier rozdaje każdemu graczowi po jednej karcie (zakrytej).
+2.  **Tura gracza:** Gracze kolejno decydują, czy chcą dobrać kolejną kartę, aby zbliżyć się do 21, czy pasują. Można dobierać dowolną liczbę kart, dopóki suma nie przekroczy 21.
+3.  **Tura krupiera:** Gdy wszyscy gracze zakończą swoje ruchy (pasują lub „spalą się” przez przekroczenie 21), krupier odkrywa swoje karty. Krupier również może dobierać karty, zazwyczaj do osiągnięcia określonego progu (np. 17 lub 18 punktów).
+4.  **Rozstrzygnięcie:**
+    *   Gracz, który uzyskał sumę bliższą 21 niż krupier (i nie przekroczył tej liczby), wygrywa.
+    *   Jeśli krupier „przebije” 21, wszyscy gracze, którzy pozostali w grze, wygrywają.
+    *   W przypadku remisu (ta sama liczba punktów) zazwyczaj wygrywa krupier.

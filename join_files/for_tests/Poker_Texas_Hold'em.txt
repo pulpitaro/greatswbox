@@ -1,0 +1,36 @@
+# Poker Texas Hold'em
+
+Oto opis gry Texas Hold'em przygotowany w przejrzysty sposób dla Twojej bazy danych.
+
+---
+
+### 1. Historia gry
+Texas Hold'em wywodzi się z początków XX wieku z Teksasu, a jego nazwa została oficjalnie zarejestrowana w 1925 roku w Robstown. Światową popularność gra zdobyła w latach 70. XX wieku, stając się główną dyscypliną turniejową podczas World Series of Poker w Las Vegas. Dziś jest to najczęściej wybierana odmiana pokera na świecie, ceniona za balans między strategią a psychologią.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Żetony:** Służą do obstawiania (reprezentują wartość pieniężną).
+*   **Gracze:** Optymalnie od 2 do 10 osób przy jednym stole.
+*   **Dealer (Krupier):** Wyznaczony specjalnym znacznikiem („button”), który przesuwa się zgodnie z ruchem wskazówek zegara po każdym rozdaniu.
+*   **Blindy:** Przed rozdaniem dwaj gracze na lewo od dealera wnoszą obowiązkowe zakłady w ciemno (*Small Blind* i *Big Blind*), aby w puli zawsze znajdowały się pieniądze.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie całej puli (wszystkich żetonów na środku stołu) poprzez posiadanie najsilniejszego układu pięciu kart lub zmuszenie przeciwników do spasowania (wycofania się).
+*   **Działanie kart:** Każdy gracz otrzymuje dwie karty własne (zakryte), a na stół wykładanych jest pięć kart wspólnych (odkrytych). Gracze budują najlepszy układ 5-kartowy, łącząc swoje karty z kartami na stole.
+*   **Czego nie wolno:** Nie wolno pokazywać kart innym graczom w trakcie rozdania ani porozumiewać się z innymi graczami w kwestii strategii (tzw. „collusion”).
+*   **Ruchy gracza:**
+    *   *Check:* Czekanie (jeśli nikt przed Tobą nie postawił żetonów).
+    *   *Bet:* Postawienie zakładu.
+    *   *Call:* Sprawdzenie (wyrównanie kwoty zakładu przeciwnika).
+    *   *Raise:* Podbicie zakładu.
+    *   *Fold:* Spasowanie (rezygnacja z walki o pulę).
+
+### 4. Przebieg rozgrywki
+Gra składa się z czterech głównych rund licytacji:
+
+1.  **Pre-flop:** Każdy gracz otrzymuje dwie karty zakryte. Rozpoczyna się pierwsza runda licytacji (zaczynając od gracza na lewo od *Big Blinda*).
+2.  **Flop:** Na stół wykładane są trzy wspólne karty odkryte. Następuje druga runda licytacji (zaczynając od gracza na lewo od dealera).
+3.  **Turn:** Na stół wykładana jest czwarta karta wspólna. Następuje trzecia runda licytacji.
+4.  **River:** Na stół wykładana jest piąta i ostatnia karta wspólna. Odbywa się ostatnia, finałowa runda licytacji.
+
+**Showdown:** Jeśli po ostatniej rundzie w grze pozostaje więcej niż jeden gracz, następuje odsłonięcie kart. Wygrywa osoba z najlepszym układem pięciu kart. Jeśli wszyscy oprócz jednego gracza spasują na którymkolwiek etapie, ten jeden gracz wygrywa pulę bez konieczności pokazywania swoich kart.

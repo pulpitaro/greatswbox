@@ -1,0 +1,33 @@
+# Kanasta
+
+Oto opis gry karcianej Kanasta, przygotowany zgodnie z Twoimi wytycznymi.
+
+***
+
+### 1. Krótki zarys historii
+Kanasta powstała w 1939 roku w Urugwaju jako modyfikacja popularnego Remika. Bardzo szybko zyskała ogromną popularność w Ameryce Południowej, a następnie w USA, stając się w latach 50. XX wieku światowym fenomenem towarzyskim. Jej nazwa pochodzi od hiszpańskiego słowa oznaczającego "koszyk", co nawiązuje do sposobu zbierania zestawów kart.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Do gry używa się dwóch pełnych talii kart (łącznie 108 kart, wliczając 4 jokery).
+*   **Liczba graczy:** Klasycznie gra się w cztery osoby w dwóch dwuosobowych drużynach (partnerzy siedzą naprzeciwko siebie). Możliwa jest też gra w 2 lub 3 osoby przy zmodyfikowanych zasadach.
+*   **Rozdanie:** Każdy gracz otrzymuje na start po 11 kart.
+*   **Stół:** Pozostałe karty tworzą stos do dobierania, a jedna karta z wierzchu jest odwracana, by rozpocząć stos kart odrzuconych (tzw. "śmietnik").
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie 5000 punktów poprzez wykładanie meldunków (zestawów kart o tej samej wartości) i tworzenie "kanast" (układów składających się z co najmniej 7 kart).
+*   **Działanie kart:**
+    *   **Jokery i dwójki (dzikie karty):** Mogą zastępować każdą inną kartę w meldunku.
+    *   **Czerwone trójki:** Są kartami premiowymi; po dobraniu wykłada się je natychmiast na stół i dobiera nową kartę z talii.
+    *   **Czarne trójki:** Pełnią funkcję blokującą stos odrzuconych dla kolejnego gracza.
+*   **Co wolno:** Można dokładać karty do własnych meldunków oraz meldunków partnera.
+*   **Czego nie wolno:** Nie można wykładać meldunków składających się z mniej niż trzech kart tej samej rangi. Nie wolno również "otworzyć się" (pierwsze wyłożenie kart w grze), jeśli suma punktów wyłożonych kart nie spełnia wymagań minimalnych (zależnych od aktualnego wyniku drużyny).
+
+### 4. Przebieg rozgrywki
+Rozgrywka składa się z tur, które przebiegają według następującego schematu:
+
+1.  **Dobranie:** Gracz rozpoczyna turę, dobierając wierzchnią kartę ze stosu (lub biorąc cały stos odrzuconych, jeśli posiada kartę pasującą do wierzchu tego stosu).
+2.  **Meldowanie (opcjonalne):** Gracz może wyłożyć na stół zestawy kart o tej samej wartości (np. trzy króle, cztery siódemki).
+3.  **Dokładanie:** Gracz może dołożyć karty do zestawów już wcześniej wyłożonych przez siebie lub swojego partnera.
+4.  **Odrzucenie:** Turę kończy obowiązkowe odrzucenie jednej karty na stos odrzuconych (chyba że gracz "wychodzi", czyli pozbywa się wszystkich kart).
+
+**Koniec rozdania:** Rozdanie kończy się, gdy jeden z graczy pozbędzie się wszystkich kart, pod warunkiem, że jego drużyna stworzyła przynajmniej jedną kanastę (7 kart w jednym zestawie). Następnie podlicza się punkty z wyłożonych układów i odejmuje punkty za karty pozostałe na rękach graczy. Gra toczy się do momentu, aż któraś z drużyn osiągnie 5000 punktów.

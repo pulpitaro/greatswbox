@@ -1,0 +1,34 @@
+# Piki
+
+Oto opis klasycznej gry karcianej **Piki** (ang. *Spades*), przygotowany w formie przejrzystego przewodnika.
+
+---
+
+### 1. Krótki zarys historii
+Piki wywodzą się z rodziny gier typu „wist”, których korzenie sięgają XIX-wiecznych Stanów Zjednoczonych. Gra zyskała ogromną popularność wśród żołnierzy podczas II wojny światowej, stając się jedną z najbardziej rozpoznawalnych gier partnerskich na świecie. Jej główną cechą charakterystyczną jest fakt, że kolor pik zawsze pełni rolę nadrzędną (atutową).
+
+### 2. Przygotowanie do gry
+*   **Liczba graczy:** 4 osoby grające w parach (partnerzy siedzą naprzeciwko siebie).
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Starszeństwo kart:** Od najstarszej: As, Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Dodatkowe elementy:** Kartka i długopis do zapisywania wyników.
+
+### 3. Zasady gry
+*   **Cel gry:** Zdobycie określonej liczby „lew” (podstępów) zadeklarowanych przed rozpoczęciem rozdania.
+*   **Atuty:** Kolor pik jest zawsze kolorem atutowym. Oznacza to, że każda karta w kolorze pik przebija każdą inną kartę w innym kolorze.
+*   **Zasady ruchu:** Gracze mają obowiązek dokładania do koloru. Jeśli gracz nie posiada karty w wymaganym kolorze, może „dołożyć” pika (przebić) lub zrzucić dowolną inną kartę (tzw. „dokładka” – nie zdobywa ona lewy).
+*   **Zakaz:** Nie wolno zagrywać pików jako pierwszej karty w lewie, dopóki ktoś wcześniej nie „złamał pików” (czyli użył pika do przebicia w innej turze).
+
+### 4. Przebieg rozgrywki
+
+1.  **Rozdanie:** Każdy gracz otrzymuje 13 kart.
+2.  **Licytacja:** Każdy gracz, patrząc na swoje karty, deklaruje, ile lew jest w stanie wziąć w danej rundzie. Suma deklaracji partnerów tworzy kontrakt drużyny (np. jeśli Ty zadeklarujesz 3, a partner 2, musicie wziąć łącznie 5 lew).
+3.  **Rozgrywka:**
+    *   Gracz siedzący po lewej stronie rozdającego rozpoczyna pierwszą lewę.
+    *   Pozostali gracze dokładają po jednej karcie zgodnie z ruchem wskazówek zegara, starając się dołożyć do koloru.
+    *   Lewę wygrywa osoba, która wyłożyła najwyższą kartę w kolorze wyjściowym, chyba że ktoś zagrał pika – wtedy lewę wygrywa najwyższy pik.
+    *   Zwycięzca lewy zgarnia karty na stos i zaczyna kolejną turę.
+4.  **Podliczanie punktów:**
+    *   Jeśli drużyna spełniła kontrakt (wzięła co najmniej tyle lew, ile zadeklarowała), otrzymuje punkty (zazwyczaj 10 za każdą zadeklarowaną lewę + 1 za każdą dodatkową).
+    *   Jeśli drużyna nie spełniła kontraktu, otrzymuje 0 punktów (tzw. „wpadka”).
+    *   Gra toczy się zazwyczaj do osiągnięcia umówionej liczby punktów (np. 500).

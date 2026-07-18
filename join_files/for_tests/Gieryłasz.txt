@@ -1,0 +1,34 @@
+# Gieryłasz
+
+Oto opis gry karcianej `Gieryłasz`, stworzonej na potrzeby Twojej bazy.
+
+***
+
+# Gieryłasz
+
+### Historia gry
+Gieryłasz wywodzi się z XVII-wiecznych karczm pogranicza, gdzie wędrowni kupcy rozstrzygali spory handlowe przy użyciu talii kart i szczypty ryzyka. Przez dekady gra ewoluowała z prostego losowania w stronę wymagającej strategii, zyskując przydomek „szachów dla niecierpliwych”. Dziś jest uznawana za klasykę gier blefu w domowych zaciszach.
+
+### Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez Jokerów).
+*   **Liczba graczy:** Od 2 do 4 osób.
+*   **Przygotowanie:** Potasuj talię i rozdaj każdemu graczowi po 5 kart. Pozostałe karty połóż na środku stołu jako stos dobierania (zakryty). Obok zostaw miejsce na stos kart odrzuconych (odkryty).
+*   **Cel gry:** Pozbycie się wszystkich kart z ręki jako pierwszy, poprzez tworzenie kombinacji lub wymuszanie błędów na przeciwnikach.
+
+### Zasady gry
+*   **Działanie kart:** 
+    *   Karty numerowane (2-10) mają wartość równą swojej liczbie.
+    *   Walet, Dama, Król to „Giery” – każda ma wartość 10 punktów.
+    *   As jest kartą specjalną („As w rękawie”) – może pełnić rolę dowolnej liczby lub karty specjalnej w kombinacji.
+*   **Co wolno:** Wolno zagrywać karty w sekwencjach (np. 4, 5, 6 w jednym kolorze) lub dubletach (np. dwie siódemki).
+*   **Czego nie wolno:** Nie wolno zagrywać pojedynczych kart (chyba że jest to ostatnia karta w turze), ani przekraczać czasu 15 sekund na podjęcie decyzji.
+*   **Zasada „Gieryłaszu”:** Jeśli gracz posiada trzy karty o tej samej wartości (np. trzy dziewiątki), może je wyłożyć w dowolnym momencie swojej tury, nawet jeśli nie jest to jego kolej (tzw. "akcja błyskawiczna").
+
+### Przebieg rozgrywki
+Gra toczy się zgodnie z ruchem wskazówek zegara. Każda tura składa się z trzech etapów:
+
+1.  **Dobranie:** Gracz bierze jedną kartę ze stosu (chyba że właśnie użył „akcji błyskawicznej”).
+2.  **Akcja:** Gracz może wyłożyć na stół kombinację (sekwencję lub dublet). Jeśli gracz nie może lub nie chce wyłożyć kart, musi odrzucić jedną kartę na stos odrzucony, co kończy jego turę.
+3.  **Sprawdzenie:** Jeśli po zakończeniu tury gracz ma mniej niż 3 karty na ręce, w następnej kolejce dobiera tyle kart, by zawsze mieć minimum 3.
+
+Gra kończy się w momencie, gdy pierwszy gracz pozbędzie się wszystkich kart. Pozostali gracze zliczają wartości kart pozostałych w ręku – osoba z najmniejszą sumą oczek zostaje zwycięzcą rundy.

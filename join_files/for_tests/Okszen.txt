@@ -1,0 +1,32 @@
+# Okszen
+
+Oto opis gry karcianej **Okszen**, stworzonej z myślą o dynamicznej i strategicznej rozgrywce.
+
+***
+
+### 1. Historia gry
+Okszen wywodzi się z tradycji karcianych pogranicza, gdzie wędrowni gracze szukali sposobu na rozstrzyganie sporów bez użycia siły. Legenda głosi, że nazwa pochodzi od starodawnego zawołania, oznaczającego „siłę ukrytą w słabości”. Dziś Okszen jest ceniony za balans między ryzykiem a chłodną kalkulacją.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez jokerów).
+*   **Liczba graczy:** 2 do 4 osób.
+*   **Wartości kart:** As (1), karty od 2 do 10 (wartość nominalna), Walet (11), Dama (12), Król (13).
+*   **Przygotowanie:** Potasuj talię i rozdaj każdemu graczowi po 5 kart. Pozostałe karty połóż w zakrytym stosie (talon) na środku stołu. Odkryj wierzchnią kartę z talonu i połóż ją obok – to początek „Stosu Okszen”.
+
+### 3. Zasady gry
+*   **Cel gry:** Pozbyć się wszystkich kart z ręki jako pierwszy lub zgromadzić najmniejszą liczbę punktów, gdy skończy się talia.
+*   **Działanie kart:** 
+    *   Karty 2–9: Zwykłe karty.
+    *   10: Karta „Wymiany” – gracz może wymienić się ręką z dowolnym przeciwnikiem.
+    *   Walet: Karta „Bloku” – następny gracz traci turę.
+    *   Dama: Karta „Zmiany koloru” – pozwala zmienić wymóg koloru na stole.
+    *   Król: Karta „Okszen” – przejmuje ostatnią kartę ze stosu do ręki (można zagrać na dowolną kartę).
+*   **Zasady:** Można dokładać kartę o tym samym kolorze lub tej samej wartości co karta na wierzchu stosu. Jeśli nie masz pasującej karty, dobierasz jedną z talonu. Jeśli karta z talonu pasuje, możesz ją od razu zagrać.
+
+### 4. Przebieg rozgrywki
+Rozgrywka dzieli się na tury zgodnie z ruchem wskazówek zegara:
+
+1.  **Etap Zagrania:** W swojej turze gracz musi dołożyć kartę pasującą kolorem lub wartością do karty na Stosie Okszen. Jeśli posiada kartę specjalną (10, Walet, Dama, Król), może jej użyć zgodnie z opisem.
+2.  **Etap Dobierania:** Jeśli gracz nie może lub nie chce dołożyć karty, musi pobrać jedną z talonu. Jeśli pobrana karta pasuje, może ją zagrać. Jeśli nie – kończy turę.
+3.  **Etap Weryfikacji:** Jeśli gracz posiada tylko jedną kartę w ręku, musi powiedzieć „Okszen!”. Jeśli zapomni o tym przed ruchem kolejnego gracza, dobiera 2 karty karne z talonu.
+4.  **Zakończenie:** Runda kończy się, gdy jeden z graczy pozbędzie się wszystkich kart. Pozostali gracze zliczają wartości kart, które zostały im w rękach (As = 1 pkt, figury = 10 pkt, reszta wg nominału). Gra kończy się po uzgodnionej liczbie rund (np. do 100 punktów); wygrywa ten, kto ma najniższy wynik.

@@ -1,0 +1,28 @@
+# Lombr
+
+Oto opis gry karcianej **Lombr**, zaprojektowanej z myślą o dynamicznej rozgrywce strategicznej.
+
+---
+
+### 1. Historia gry
+Lombr wywodzi się z tradycji gier salonowych XVIII-wiecznej Europy, gdzie służył jako elegancka rozrywka dla arystokracji. Legenda głosi, że nazwa pochodzi od „cienia” (fr. *l’ombre*), ponieważ gracze muszą ukrywać swoje zamiary przed przeciwnikami. Współczesna wersja została uproszczona, aby zachować ducha blefu przy zachowaniu przystępnych zasad.
+
+### 2. Przygotowanie do gry
+*   **Talia:** Standardowa talia 52 kart (bez Jokerów).
+*   **Liczba graczy:** Od 3 do 4 osób.
+*   **Wartości:** As jest najsilniejszy, potem: Król, Dama, Walet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+*   **Cel:** Zgromadzenie największej liczby „punktów kontrolnych” poprzez wygrywanie lew.
+*   **Przygotowanie:** Każdy gracz otrzymuje na start 5 kart. Reszta talii tworzy stos dobierania (talon). Wybiera się osobę rozdającą, która po każdej rundzie zmienia się zgodnie z ruchem wskazówek zegara.
+
+### 3. Zasady gry
+*   **Działanie kart:** Gra opiera się na hierarchii kolorów (hierarchia ustalana jest losowo przed każdą partią poprzez odkrycie wierzchniej karty z talonu).
+*   **Czego nie wolno:** Nie wolno pokazywać swoich kart innym graczom ani wymieniać się nimi poza fazą wymiany. Nie wolno również zagrywać karty w kolorze innym niż wyjściowy, jeśli posiada się kartę w tym samym kolorze (obowiązek dokładania do koloru).
+*   **Cel gry:** Wygranie 3 z 5 lew w danej rundzie. Jeśli gracz wygra większość lew, zdobywa punkt. W przypadku remisu, punkt przechodzi na kolejną rundę.
+
+### 4. Przebieg rozgrywki
+Gra toczy się w czterech głównych etapach:
+
+1.  **Licytacja (Deklaracja):** Gracze patrzą na swoje karty i decydują, czy chcą „podjąć wyzwanie”. Pierwszy gracz po lewej od rozdającego deklaruje: „gram” lub „pasuję”. Osoba, która zadeklaruje „gram”, staje się „Lombrem” (atakującym) i ogłasza atut.
+2.  **Wymiana kart:** „Lombr” ma prawo odrzucić do 3 swoich kart i dobrać nowe z talonu, aby wzmocnić swoją rękę. Pozostali gracze mogą wymienić tylko jedną kartę.
+3.  **Rozgrywka (Wykładanie lew):** Gracz siedzący po lewej od rozdającego wychodzi pierwszą kartą. Pozostali gracze muszą dołożyć kartę w tym samym kolorze. Jeśli nie mają – mogą użyć atutu lub dowolnej innej karty. Lewę bierze osoba, która położyła najwyższą kartę w kolorze wyjściowym lub najwyższy atut.
+4.  **Podsumowanie:** Po rozegraniu wszystkich 5 lew, liczy się punkty. Jeśli „Lombr” wygrał więcej niż połowę lew, zapisuje punkt. Jeśli przegrał – punkt przypada obrońcom. Gra kończy się, gdy jeden z graczy zdobędzie wcześniej ustaloną liczbę punktów (np. 5).
